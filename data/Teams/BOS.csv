@@ -1,0 +1,88 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+BOS,http://www.hockey-reference.com/teams/BOS/2012.html,2011-12,NHL,Boston Bruins,82,49,29,,4,102,.622,0.75,-0.07,1st,Lost NHL Conference Quarter-Finals,C. Julien
+BOS,http://www.hockey-reference.com/teams/BOS/2011.html,2010-11,NHL,Boston Bruins,82,46,25,,11,103,.628,0.56,-0.07,1st,<strong>Won Stanley Cup Finals</strong>,C. Julien
+BOS,http://www.hockey-reference.com/teams/BOS/2010.html,2009-10,NHL,Boston Bruins,82,39,30,,13,91,.555,0.01,-0.06,3rd,Lost NHL Conference Semi-Finals,C. Julien
+BOS,http://www.hockey-reference.com/teams/BOS/2009.html,2008-09,NHL,Boston Bruins,82,53,19,,10,116,.707,0.89,-0.06,1st,Lost NHL Conference Semi-Finals,C. Julien
+BOS,http://www.hockey-reference.com/teams/BOS/2008.html,2007-08,NHL,Boston Bruins,82,41,29,,12,94,.573,-0.20,-0.08,3rd,Lost NHL Conference Quarter-Finals,C. Julien
+BOS,http://www.hockey-reference.com/teams/BOS/2007.html,2006-07,NHL,Boston Bruins,82,35,41,,6,76,.463,-0.87,-0.01,5th,,D. Lewis
+BOS,http://www.hockey-reference.com/teams/BOS/2006.html,2005-06,NHL,Boston Bruins,82,29,37,,16,74,.451,-0.36,0.08,5th,,M. Sullivan
+BOS,http://www.hockey-reference.com/teams/BOS/2004.html,2003-04,NHL,Boston Bruins,82,41,19,15,7,104,.634,0.29,0.03,1st,Lost NHL Conference Quarter-Finals,M. Sullivan
+BOS,http://www.hockey-reference.com/teams/BOS/2003.html,2002-03,NHL,Boston Bruins,82,36,31,11,4,87,.530,0.02,-0.08,3rd,Lost NHL Conference Quarter-Finals,R. Ftorek,M. O'Connell
+BOS,http://www.hockey-reference.com/teams/BOS/2002.html,2001-02,NHL,Boston Bruins,82,43,24,6,9,101,.616,0.33,-0.09,1st,Lost NHL Conference Quarter-Finals,R. Ftorek
+BOS,http://www.hockey-reference.com/teams/BOS/2001.html,2000-01,NHL,Boston Bruins,82,36,30,8,8,88,.537,-0.27,0.00,4th,,P. Burns,M. Keenan
+BOS,http://www.hockey-reference.com/teams/BOS/2000.html,1999-00,NHL,Boston Bruins,82,24,33,19,6,73,.445,-0.52,-0.06,5th,,P. Burns
+BOS,http://www.hockey-reference.com/teams/BOS/1999.html,1998-99,NHL,Boston Bruins,82,39,30,13,,91,.555,0.40,0.00,3rd,Lost NHL Conference Semi-Finals,P. Burns
+BOS,http://www.hockey-reference.com/teams/BOS/1998.html,1997-98,NHL,Boston Bruins,82,39,30,13,,91,.555,0.33,0.00,2nd,Lost NHL Conference Quarter-Finals,P. Burns
+BOS,http://www.hockey-reference.com/teams/BOS/1997.html,1996-97,NHL,Boston Bruins,82,26,47,9,,61,.372,-0.78,0.02,6th,,S. Kasper
+BOS,http://www.hockey-reference.com/teams/BOS/1996.html,1995-96,NHL,Boston Bruins,82,40,31,11,,91,.555,0.17,0.01,2nd,Lost NHL Conference Quarter-Finals,S. Kasper
+BOS,http://www.hockey-reference.com/teams/BOS/1995.html,1994-95,NHL,Boston Bruins,48,27,18,3,,57,.594,0.46,-0.02,3rd,Lost NHL Conference Quarter-Finals,B. Sutter
+BOS,http://www.hockey-reference.com/teams/BOS/1994.html,1993-94,NHL,Boston Bruins,84,42,29,13,,97,.577,0.41,-0.03,2nd,Lost NHL Conference Semi-Finals,B. Sutter
+BOS,http://www.hockey-reference.com/teams/BOS/1993.html,1992-93,NHL,Boston Bruins,84,51,26,7,,109,.649,0.74,-0.03,1st,Lost NHL Division Semi-Finals,B. Sutter
+BOS,http://www.hockey-reference.com/teams/BOS/1992.html,1991-92,NHL,Boston Bruins,80,36,32,12,,84,.525,-0.09,-0.03,2nd,Lost NHL Conference Finals,R. Bowness
+BOS,http://www.hockey-reference.com/teams/BOS/1991.html,1990-91,NHL,Boston Bruins,80,44,24,12,,100,.625,0.32,-0.12,1st,Lost NHL Conference Finals,M. Milbury
+BOS,http://www.hockey-reference.com/teams/BOS/1990.html,1989-90,NHL,Boston Bruins,80,46,25,9,,101,.631,0.64,-0.08,1st,Lost Stanley Cup Finals,M. Milbury
+BOS,http://www.hockey-reference.com/teams/BOS/1989.html,1988-89,NHL,Boston Bruins,80,37,29,14,,88,.550,0.43,0.02,2nd,Lost NHL Division Finals,T. O'Reilly
+BOS,http://www.hockey-reference.com/teams/BOS/1988.html,1987-88,NHL,Boston Bruins,80,44,30,6,,94,.588,0.59,-0.03,2nd,Lost Stanley Cup Finals,T. O'Reilly
+BOS,http://www.hockey-reference.com/teams/BOS/1987.html,1986-87,NHL,Boston Bruins,80,39,34,7,,85,.531,0.32,0.01,3rd,Lost NHL Division Semi-Finals,B. Goring,T. O'Reilly
+BOS,http://www.hockey-reference.com/teams/BOS/1986.html,1985-86,NHL,Boston Bruins,80,37,31,12,,86,.538,0.40,0.11,3rd,Lost NHL Division Semi-Finals,B. Goring
+BOS,http://www.hockey-reference.com/teams/BOS/1985.html,1984-85,NHL,Boston Bruins,80,36,34,10,,82,.513,0.29,0.09,4th,Lost NHL Division Semi-Finals,G. Cheevers,H. Sinden
+BOS,http://www.hockey-reference.com/teams/BOS/1984.html,1983-84,NHL,Boston Bruins,80,49,25,6,,104,.650,1.01,0.07,1st,Lost NHL Division Semi-Finals,G. Cheevers
+BOS,http://www.hockey-reference.com/teams/BOS/1983.html,1982-83,NHL,Boston Bruins,80,50,20,10,,110,.688,1.18,-0.06,1st,Lost NHL Conference Finals,G. Cheevers
+BOS,http://www.hockey-reference.com/teams/BOS/1982.html,1981-82,NHL,Boston Bruins,80,43,27,10,,96,.600,0.55,0.08,2nd,Lost NHL Division Finals,G. Cheevers
+BOS,http://www.hockey-reference.com/teams/BOS/1981.html,1980-81,NHL,Boston Bruins,80,37,30,13,,87,.544,0.52,-0.03,2nd,Lost NHL Preliminary Round,G. Cheevers
+BOS,http://www.hockey-reference.com/teams/BOS/1980.html,1979-80,NHL,Boston Bruins,80,46,21,13,,105,.656,0.91,-0.05,2nd,Lost NHL Quarter-Finals,F. Creighton,H. Sinden
+BOS,http://www.hockey-reference.com/teams/BOS/1979.html,1978-79,NHL,Boston Bruins,80,43,23,14,,100,.625,0.57,0.00,1st,Lost NHL Semi-Finals,D. Cherry
+BOS,http://www.hockey-reference.com/teams/BOS/1978.html,1977-78,NHL,Boston Bruins,80,51,18,11,,113,.706,1.37,-0.07,1st,Lost Stanley Cup Finals,D. Cherry
+BOS,http://www.hockey-reference.com/teams/BOS/1977.html,1976-77,NHL,Boston Bruins,80,49,23,8,,106,.663,0.87,-0.03,1st,Lost Stanley Cup Finals,D. Cherry
+BOS,http://www.hockey-reference.com/teams/BOS/1976.html,1975-76,NHL,Boston Bruins,80,48,15,17,,113,.706,0.93,-0.02,1st,Lost NHL Semi-Finals,D. Cherry
+BOS,http://www.hockey-reference.com/teams/BOS/1975.html,1974-75,NHL,Boston Bruins,80,40,26,14,,94,.588,1.18,-0.07,2nd,Lost NHL Preliminary Round,D. Cherry
+BOS,http://www.hockey-reference.com/teams/BOS/1974.html,1973-74,NHL,Boston Bruins,78,52,17,9,,113,.724,1.55,-0.09,1st,Lost Stanley Cup Finals,B. Guidolin
+BOS,http://www.hockey-reference.com/teams/BOS/1973.html,1972-73,NHL,Boston Bruins,78,51,22,5,,107,.686,1.14,-0.08,2nd,Lost NHL Quarter-Finals,T. Johnson,B. Guidolin
+BOS,http://www.hockey-reference.com/teams/BOS/1972.html,1971-72,NHL,Boston Bruins,78,54,13,11,,119,.763,1.50,-0.12,1st,<strong>Won Stanley Cup Finals</strong>,T. Johnson
+BOS,http://www.hockey-reference.com/teams/BOS/1971.html,1970-71,NHL,Boston Bruins,78,57,14,7,,121,.776,2.29,-0.18,1st,Lost NHL Quarter-Finals,T. Johnson
+BOS,http://www.hockey-reference.com/teams/BOS/1970.html,1969-70,NHL,Boston Bruins,76,40,17,19,,99,.651,0.81,0.01,2nd,<strong>Won Stanley Cup Finals</strong>,H. Sinden
+BOS,http://www.hockey-reference.com/teams/BOS/1969.html,1968-69,NHL,Boston Bruins,76,42,18,16,,100,.658,1.06,-0.02,2nd,Lost NHL Semi-Finals,H. Sinden
+BOS,http://www.hockey-reference.com/teams/BOS/1968.html,1967-68,NHL,Boston Bruins,74,37,27,10,,84,.568,0.76,0.18,3rd,Lost NHL Quarter-Finals,H. Sinden
+BOS,http://www.hockey-reference.com/teams/BOS/1967.html,1966-67,NHL,Boston Bruins,70,17,43,10,,44,.314,-0.85,0.17,6th,,H. Sinden
+BOS,http://www.hockey-reference.com/teams/BOS/1966.html,1965-66,NHL,Boston Bruins,70,21,43,6,,48,.343,-1.20,0.24,5th,,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1965.html,1964-65,NHL,Boston Bruins,70,21,43,6,,48,.343,-1.04,0.21,6th,,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1964.html,1963-64,NHL,Boston Bruins,70,18,40,12,,48,.343,-0.50,0.10,6th,,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1963.html,1962-63,NHL,Boston Bruins,70,14,39,17,,45,.321,-0.99,0.20,6th,,P. Watson,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1962.html,1961-62,NHL,Boston Bruins,70,15,47,8,,38,.271,-1.54,0.31,6th,,P. Watson
+BOS,http://www.hockey-reference.com/teams/BOS/1961.html,1960-61,NHL,Boston Bruins,70,15,42,13,,43,.307,-0.93,0.19,6th,,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1960.html,1959-60,NHL,Boston Bruins,70,28,34,8,,64,.457,-0.25,0.05,5th,,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1959.html,1958-59,NHL,Boston Bruins,70,32,29,9,,73,.521,-0.12,0.02,2nd,Lost NHL Semi-Finals,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1958.html,1957-58,NHL,Boston Bruins,70,27,28,15,,69,.493,0.06,-0.01,4th,Lost Stanley Cup Finals,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1957.html,1956-57,NHL,Boston Bruins,70,34,24,12,,80,.571,0.25,-0.05,3rd,Lost Stanley Cup Finals,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1956.html,1955-56,NHL,Boston Bruins,70,23,34,13,,59,.421,-0.45,0.09,5th,,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1955.html,1954-55,NHL,Boston Bruins,70,23,26,21,,67,.479,-0.23,0.05,4th,Lost NHL Semi-Finals,L. Patrick,M. Schmidt
+BOS,http://www.hockey-reference.com/teams/BOS/1954.html,1953-54,NHL,Boston Bruins,70,32,28,10,,74,.529,-0.05,0.01,4th,Lost NHL Semi-Finals,L. Patrick
+BOS,http://www.hockey-reference.com/teams/BOS/1953.html,1952-53,NHL,Boston Bruins,70,28,29,13,,69,.493,-0.24,0.05,3rd,Lost Stanley Cup Finals,L. Patrick
+BOS,http://www.hockey-reference.com/teams/BOS/1952.html,1951-52,NHL,Boston Bruins,70,25,29,16,,66,.471,-0.17,0.03,4th,Lost NHL Semi-Finals,L. Patrick
+BOS,http://www.hockey-reference.com/teams/BOS/1951.html,1950-51,NHL,Boston Bruins,70,22,30,18,,62,.443,-0.23,0.05,4th,Lost NHL Semi-Finals,L. Patrick
+BOS,http://www.hockey-reference.com/teams/BOS/1950.html,1949-50,NHL,Boston Bruins,70,22,32,16,,60,.429,-0.36,0.07,5th,,G. Boucher
+BOS,http://www.hockey-reference.com/teams/BOS/1949.html,1948-49,NHL,Boston Bruins,60,29,23,8,,66,.550,0.21,-0.04,2nd,Lost NHL Semi-Finals,D. Clapper
+BOS,http://www.hockey-reference.com/teams/BOS/1948.html,1947-48,NHL,Boston Bruins,60,23,24,13,,59,.492,-0.02,0.00,3rd,Lost NHL Semi-Finals,D. Clapper
+BOS,http://www.hockey-reference.com/teams/BOS/1947.html,1946-47,NHL,Boston Bruins,60,26,23,11,,63,.525,0.21,-0.04,3rd,Lost NHL Semi-Finals,D. Clapper
+BOS,http://www.hockey-reference.com/teams/BOS/1946.html,1945-46,NHL,Boston Bruins,50,24,18,8,,56,.560,0.18,-0.04,2nd,Lost Stanley Cup Finals,D. Clapper
+BOS,http://www.hockey-reference.com/teams/BOS/1945.html,1944-45,NHL,Boston Bruins,50,16,30,4,,36,.360,-0.67,0.13,4th,Lost NHL Semi-Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1944.html,1943-44,NHL,Boston Bruins,50,19,26,5,,43,.430,-0.75,0.15,5th,,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1943.html,1942-43,NHL,Boston Bruins,50,24,17,9,,57,.570,0.32,-0.06,2nd,Lost Stanley Cup Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1942.html,1941-42,NHL,Boston Bruins,48,25,17,6,,56,.583,0.75,-0.13,3rd,Lost NHL Semi-Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1941.html,1940-41,NHL,Boston Bruins,48,27,8,13,,67,.698,1.18,-0.20,1st,<strong>Won Stanley Cup Finals</strong>,C. Weiland
+BOS,http://www.hockey-reference.com/teams/BOS/1940.html,1939-40,NHL,Boston Bruins,48,31,12,5,,67,.698,1.29,-0.21,1st,Lost NHL Semi-Finals,C. Weiland
+BOS,http://www.hockey-reference.com/teams/BOS/1939.html,1938-39,NHL,Boston Bruins,48,36,10,2,,74,.771,1.43,-0.24,1st,<strong>Won Stanley Cup Finals</strong>,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1938.html,1937-38,NHL,Boston Bruins,48,30,11,7,,67,.698,0.97,-0.14,1st,Lost NHL Semi-Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1937.html,1936-37,NHL,Boston Bruins,48,23,18,7,,53,.552,0.19,-0.02,2nd,Lost NHL Quarter-Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1936.html,1935-36,NHL,Boston Bruins,48,22,20,6,,50,.521,0.18,-0.01,2nd,Lost NHL Quarter-Finals,F. Patrick
+BOS,http://www.hockey-reference.com/teams/BOS/1935.html,1934-35,NHL,Boston Bruins,48,26,16,6,,58,.604,0.31,-0.04,1st,Lost NHL Semi-Finals,F. Patrick
+BOS,http://www.hockey-reference.com/teams/BOS/1934.html,1933-34,NHL,Boston Bruins,48,18,25,5,,41,.427,-0.35,0.04,4th,,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1933.html,1932-33,NHL,Boston Bruins,48,25,15,8,,58,.604,0.67,-0.08,1st,Lost NHL Semi-Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1932.html,1931-32,NHL,Boston Bruins,48,15,21,12,,42,.438,0.09,-0.02,4th,,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1931.html,1930-31,NHL,Boston Bruins,44,28,10,6,,62,.705,1.05,-0.15,1st,Lost NHL Semi-Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1930.html,1929-30,NHL,Boston Bruins,44,38,5,1,,77,.875,1.60,-0.24,1st,Lost Stanley Cup Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1929.html,1928-29,NHL,Boston Bruins,44,26,13,5,,57,.648,0.71,-0.13,1st,<strong>Won Stanley Cup Finals</strong>,C. Denneny
+BOS,http://www.hockey-reference.com/teams/BOS/1928.html,1927-28,NHL,Boston Bruins,44,20,13,11,,51,.580,0.10,-0.06,1st,Lost NHL Semi-Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1927.html,1926-27,NHL,Boston Bruins,44,21,20,3,,45,.511,0.13,-0.05,2nd,Lost Stanley Cup Finals,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1926.html,1925-26,NHL,Boston Bruins,36,17,15,4,,38,.528,0.17,-0.03,4th,,A. Ross
+BOS,http://www.hockey-reference.com/teams/BOS/1925.html,1924-25,NHL,Boston Bruins,30,6,24,0,,12,.200,-1.94,0.39,6th,,A. Ross

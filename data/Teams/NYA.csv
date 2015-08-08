@@ -1,0 +1,18 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+NYA,http://www.hockey-reference.com/teams/BRO/1942.html,1941-42,NHL,Brooklyn Americans,48,16,29,3,,35,.365,-0.75,0.13,7th,,A. Chapman
+NYA,http://www.hockey-reference.com/teams/NYA/1941.html,1940-41,NHL,New York Americans,48,8,29,11,,27,.281,-1.55,0.26,7th,,A. Chapman
+NYA,http://www.hockey-reference.com/teams/NYA/1940.html,1939-40,NHL,New York Americans,48,15,29,4,,34,.354,-0.61,0.10,6th,Lost NHL Quarter-Finals,R. Dutton
+NYA,http://www.hockey-reference.com/teams/NYA/1939.html,1938-39,NHL,New York Americans,48,17,21,10,,44,.458,-0.68,0.11,4th,Lost NHL Quarter-Finals,R. Dutton
+NYA,http://www.hockey-reference.com/teams/NYA/1938.html,1937-38,NHL,New York Americans,48,19,18,11,,49,.510,-0.04,-0.02,2nd,Lost NHL Semi-Finals,R. Dutton
+NYA,http://www.hockey-reference.com/teams/NYA/1937.html,1936-37,NHL,New York Americans,48,15,29,4,,34,.354,-0.71,0.10,4th,,R. Dutton
+NYA,http://www.hockey-reference.com/teams/NYA/1936.html,1935-36,NHL,New York Americans,48,16,25,7,,39,.406,-0.25,0.02,3rd,Lost NHL Semi-Finals,R. Helmer
+NYA,http://www.hockey-reference.com/teams/NYA/1935.html,1934-35,NHL,New York Americans,48,12,27,9,,33,.344,-0.78,0.10,4th,,J. Simpson
+NYA,http://www.hockey-reference.com/teams/NYA/1934.html,1933-34,NHL,New York Americans,48,15,23,10,,40,.417,-0.52,0.07,4th,,J. Simpson
+NYA,http://www.hockey-reference.com/teams/NYA/1933.html,1932-33,NHL,New York Americans,48,15,22,11,,41,.427,-0.50,0.06,4th,,J. Simpson
+NYA,http://www.hockey-reference.com/teams/NYA/1932.html,1931-32,NHL,New York Americans,48,16,24,8,,40,.417,-0.84,0.14,4th,,E. Gerard
+NYA,http://www.hockey-reference.com/teams/NYA/1931.html,1930-31,NHL,New York Americans,44,18,16,10,,46,.523,0.05,0.00,4th,,E. Gerard
+NYA,http://www.hockey-reference.com/teams/NYA/1930.html,1929-30,NHL,New York Americans,44,14,25,5,,33,.375,-0.94,0.15,5th,,L. Conacher
+NYA,http://www.hockey-reference.com/teams/NYA/1929.html,1928-29,NHL,New York Americans,44,19,13,12,,50,.568,0.03,0.03,2nd,Lost NHL Quarter-Finals,T. Gorman
+NYA,http://www.hockey-reference.com/teams/NYA/1928.html,1927-28,NHL,New York Americans,44,11,27,6,,28,.318,-1.26,0.22,5th,,S. Green
+NYA,http://www.hockey-reference.com/teams/NYA/1927.html,1926-27,NHL,New York Americans,44,17,25,2,,36,.409,-0.15,0.05,4th,,N. Lalonde
+NYA,http://www.hockey-reference.com/teams/NYA/1926.html,1925-26,NHL,New York Americans,36,12,20,4,,28,.389,-0.50,0.08,4th,,T. Gorman

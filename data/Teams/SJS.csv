@@ -1,0 +1,21 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+SJS,http://www.hockey-reference.com/teams/SJS/2012.html,2011-12,NHL,San Jose Sharks,82,43,29,,10,96,.585,0.22,0.00,2nd,Lost NHL Conference Quarter-Finals,T. McLellan
+SJS,http://www.hockey-reference.com/teams/SJS/2011.html,2010-11,NHL,San Jose Sharks,82,48,25,,9,105,.640,0.44,0.02,1st,Lost NHL Conference Finals,T. McLellan
+SJS,http://www.hockey-reference.com/teams/SJS/2010.html,2009-10,NHL,San Jose Sharks,82,51,20,,11,113,.689,0.65,0.05,1st,Lost NHL Conference Finals,T. McLellan
+SJS,http://www.hockey-reference.com/teams/SJS/2009.html,2008-09,NHL,San Jose Sharks,82,53,18,,11,117,.713,0.61,-0.04,1st,Lost NHL Conference Quarter-Finals,T. McLellan
+SJS,http://www.hockey-reference.com/teams/SJS/2008.html,2007-08,NHL,San Jose Sharks,82,49,23,,10,108,.659,0.47,0.12,1st,Lost NHL Conference Semi-Finals,R. Wilson
+SJS,http://www.hockey-reference.com/teams/SJS/2007.html,2006-07,NHL,San Jose Sharks,82,51,26,,5,107,.652,0.77,0.05,2nd,Lost NHL Conference Semi-Finals,R. Wilson
+SJS,http://www.hockey-reference.com/teams/SJS/2006.html,2005-06,NHL,San Jose Sharks,82,44,27,,11,99,.604,0.36,0.06,2nd,Lost NHL Conference Semi-Finals,R. Wilson
+SJS,http://www.hockey-reference.com/teams/SJS/2004.html,2003-04,NHL,San Jose Sharks,82,43,21,12,6,104,.634,0.40,-0.04,1st,Lost NHL Conference Finals,R. Wilson
+SJS,http://www.hockey-reference.com/teams/SJS/2003.html,2002-03,NHL,San Jose Sharks,82,28,37,9,8,73,.445,-0.21,0.10,5th,,D. Sutter,C. Raeder,R. Wilson
+SJS,http://www.hockey-reference.com/teams/SJS/2002.html,2001-02,NHL,San Jose Sharks,82,44,27,8,3,99,.604,0.62,0.02,1st,Lost NHL Conference Semi-Finals,D. Sutter
+SJS,http://www.hockey-reference.com/teams/SJS/2001.html,2000-01,NHL,San Jose Sharks,82,40,27,12,3,95,.579,0.36,0.06,2nd,Lost NHL Conference Quarter-Finals,D. Sutter
+SJS,http://www.hockey-reference.com/teams/SJS/2000.html,1999-00,NHL,San Jose Sharks,82,35,30,10,7,87,.530,0.23,0.10,4th,Lost NHL Conference Semi-Finals,D. Sutter
+SJS,http://www.hockey-reference.com/teams/SJS/1999.html,1998-99,NHL,San Jose Sharks,82,31,33,18,,80,.488,0.04,-0.02,4th,Lost NHL Conference Quarter-Finals,D. Sutter
+SJS,http://www.hockey-reference.com/teams/SJS/1998.html,1997-98,NHL,San Jose Sharks,82,34,38,10,,78,.476,-0.10,-0.03,4th,Lost NHL Conference Quarter-Finals,D. Sutter
+SJS,http://www.hockey-reference.com/teams/SJS/1997.html,1996-97,NHL,San Jose Sharks,82,27,47,8,,62,.378,-0.78,0.03,7th,,A. Sims
+SJS,http://www.hockey-reference.com/teams/SJS/1996.html,1995-96,NHL,San Jose Sharks,82,20,55,7,,47,.287,-1.25,0.03,7th,,K. Constantine,J. Wiley
+SJS,http://www.hockey-reference.com/teams/SJS/1995.html,1994-95,NHL,San Jose Sharks,48,19,25,4,,42,.438,-0.66,0.01,3rd,Lost NHL Conference Semi-Finals,K. Constantine
+SJS,http://www.hockey-reference.com/teams/SJS/1994.html,1993-94,NHL,San Jose Sharks,84,33,35,16,,82,.488,-0.17,-0.02,3rd,Lost NHL Conference Semi-Finals,K. Constantine
+SJS,http://www.hockey-reference.com/teams/SJS/1993.html,1992-93,NHL,San Jose Sharks,84,11,71,2,,24,.143,-2.29,0.05,6th,,G. Kingston
+SJS,http://www.hockey-reference.com/teams/SJS/1992.html,1991-92,NHL,San Jose Sharks,80,17,58,5,,39,.244,-1.72,0.03,6th,,G. Kingston

@@ -1,0 +1,13 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+WPG,http://www.hockey-reference.com/teams/WPG/2012.html,2011-12,NHL,Winnipeg Jets,82,37,35,,10,84,.512,-0.30,-0.04,3rd,,C. Noel
+WPG,http://www.hockey-reference.com/teams/ATL/2011.html,2010-11,NHL,Atlanta Thrashers,82,34,36,,12,80,.488,-0.57,-0.01,4th,,C. Ramsay
+WPG,http://www.hockey-reference.com/teams/ATL/2010.html,2009-10,NHL,Atlanta Thrashers,82,35,34,,13,83,.506,-0.33,-0.06,2nd,,J. Anderson
+WPG,http://www.hockey-reference.com/teams/ATL/2009.html,2008-09,NHL,Atlanta Thrashers,82,35,41,,6,76,.463,-0.30,-0.02,4th,,J. Anderson
+WPG,http://www.hockey-reference.com/teams/ATL/2008.html,2007-08,NHL,Atlanta Thrashers,82,34,40,,8,76,.463,-0.80,-0.12,4th,,B. Hartley,D. Waddell
+WPG,http://www.hockey-reference.com/teams/ATL/2007.html,2006-07,NHL,Atlanta Thrashers,82,43,28,,11,97,.591,-0.15,-0.16,1st,Lost NHL Conference Quarter-Finals,B. Hartley
+WPG,http://www.hockey-reference.com/teams/ATL/2006.html,2005-06,NHL,Atlanta Thrashers,82,41,33,,8,90,.549,-0.03,-0.10,3rd,,B. Hartley
+WPG,http://www.hockey-reference.com/teams/ATL/2004.html,2003-04,NHL,Atlanta Thrashers,82,33,37,8,4,78,.476,-0.38,-0.03,2nd,,B. Hartley
+WPG,http://www.hockey-reference.com/teams/ATL/2003.html,2002-03,NHL,Atlanta Thrashers,82,31,39,7,5,74,.451,-0.78,-0.07,3rd,,C. Fraser,D. Waddell,B. Hartley
+WPG,http://www.hockey-reference.com/teams/ATL/2002.html,2001-02,NHL,Atlanta Thrashers,82,19,47,11,5,54,.329,-1.27,-0.04,5th,,C. Fraser
+WPG,http://www.hockey-reference.com/teams/ATL/2001.html,2000-01,NHL,Atlanta Thrashers,82,23,45,12,2,60,.366,-0.99,-0.04,4th,,C. Fraser
+WPG,http://www.hockey-reference.com/teams/ATL/2000.html,1999-00,NHL,Atlanta Thrashers,82,14,57,7,4,39,.238,-1.75,0.00,5th,,C. Fraser

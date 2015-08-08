@@ -1,0 +1,33 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+EDM,http://www.hockey-reference.com/teams/EDM/2012.html,2011-12,NHL,Edmonton Oilers,82,32,40,,10,74,.451,-0.32,0.01,5th,,T. Renney
+EDM,http://www.hockey-reference.com/teams/EDM/2011.html,2010-11,NHL,Edmonton Oilers,82,25,45,,12,62,.378,-0.87,0.06,5th,,T. Renney
+EDM,http://www.hockey-reference.com/teams/EDM/2010.html,2009-10,NHL,Edmonton Oilers,82,27,47,,8,62,.378,-0.76,0.09,5th,,P. Quinn
+EDM,http://www.hockey-reference.com/teams/EDM/2009.html,2008-09,NHL,Edmonton Oilers,82,38,35,,9,85,.518,-0.16,0.01,4th,,C. MacTavish
+EDM,http://www.hockey-reference.com/teams/EDM/2008.html,2007-08,NHL,Edmonton Oilers,82,41,35,,6,88,.537,-0.07,0.12,4th,,C. MacTavish
+EDM,http://www.hockey-reference.com/teams/EDM/2007.html,2006-07,NHL,Edmonton Oilers,82,32,43,,7,71,.433,-0.43,0.22,5th,,C. MacTavish
+EDM,http://www.hockey-reference.com/teams/EDM/2006.html,2005-06,NHL,Edmonton Oilers,82,41,28,,13,95,.579,0.15,0.09,3rd,Lost Stanley Cup Finals,C. MacTavish
+EDM,http://www.hockey-reference.com/teams/EDM/2004.html,2003-04,NHL,Edmonton Oilers,82,36,29,12,5,89,.543,0.21,0.05,4th,,C. MacTavish
+EDM,http://www.hockey-reference.com/teams/EDM/2003.html,2002-03,NHL,Edmonton Oilers,82,36,26,11,9,92,.561,0.12,0.11,4th,Lost NHL Conference Quarter-Finals,C. MacTavish
+EDM,http://www.hockey-reference.com/teams/EDM/2002.html,2001-02,NHL,Edmonton Oilers,82,38,28,12,4,92,.561,0.34,0.06,3rd,,C. MacTavish
+EDM,http://www.hockey-reference.com/teams/EDM/2001.html,2000-01,NHL,Edmonton Oilers,82,39,28,12,3,93,.567,0.32,0.07,2nd,Lost NHL Conference Quarter-Finals,C. MacTavish
+EDM,http://www.hockey-reference.com/teams/EDM/2000.html,1999-00,NHL,Edmonton Oilers,82,32,26,16,8,88,.537,0.22,0.05,2nd,Lost NHL Conference Quarter-Finals,K. Lowe
+EDM,http://www.hockey-reference.com/teams/EDM/1999.html,1998-99,NHL,Edmonton Oilers,82,33,37,12,,78,.476,0.02,-0.03,2nd,Lost NHL Conference Quarter-Finals,R. Low
+EDM,http://www.hockey-reference.com/teams/EDM/1998.html,1997-98,NHL,Edmonton Oilers,82,35,37,10,,80,.488,-0.13,-0.02,3rd,Lost NHL Conference Semi-Finals,R. Low
+EDM,http://www.hockey-reference.com/teams/EDM/1997.html,1996-97,NHL,Edmonton Oilers,82,36,37,9,,81,.494,0.03,-0.03,3rd,Lost NHL Conference Semi-Finals,R. Low
+EDM,http://www.hockey-reference.com/teams/EDM/1996.html,1995-96,NHL,Edmonton Oilers,82,30,44,8,,68,.415,-0.78,0.00,5th,,R. Low
+EDM,http://www.hockey-reference.com/teams/EDM/1995.html,1994-95,NHL,Edmonton Oilers,48,17,27,4,,38,.396,-0.92,0.06,5th,,G. Burnett,R. Low
+EDM,http://www.hockey-reference.com/teams/EDM/1994.html,1993-94,NHL,Edmonton Oilers,84,25,45,14,,64,.381,-0.52,0.00,6th,,T. Green,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1993.html,1992-93,NHL,Edmonton Oilers,84,26,50,8,,60,.357,-1.19,-0.06,5th,,T. Green
+EDM,http://www.hockey-reference.com/teams/EDM/1992.html,1991-92,NHL,Edmonton Oilers,80,36,34,10,,82,.513,-0.12,-0.10,3rd,Lost NHL Conference Finals,T. Green
+EDM,http://www.hockey-reference.com/teams/EDM/1991.html,1990-91,NHL,Edmonton Oilers,80,37,37,6,,80,.500,0.06,0.06,3rd,Lost NHL Conference Finals,J. Muckler
+EDM,http://www.hockey-reference.com/teams/EDM/1990.html,1989-90,NHL,Edmonton Oilers,80,38,28,14,,90,.563,0.42,0.02,2nd,<strong>Won Stanley Cup Finals</strong>,J. Muckler
+EDM,http://www.hockey-reference.com/teams/EDM/1989.html,1988-89,NHL,Edmonton Oilers,80,38,34,8,,84,.525,0.33,0.10,3rd,Lost NHL Division Semi-Finals,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1988.html,1987-88,NHL,Edmonton Oilers,80,44,25,11,,99,.619,0.91,-0.03,2nd,<strong>Won Stanley Cup Finals</strong>,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1987.html,1986-87,NHL,Edmonton Oilers,80,50,24,6,,106,.663,1.06,-0.04,1st,<strong>Won Stanley Cup Finals</strong>,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1986.html,1985-86,NHL,Edmonton Oilers,80,56,17,7,,119,.744,1.25,-0.20,1st,Lost NHL Division Finals,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1985.html,1984-85,NHL,Edmonton Oilers,80,49,20,11,,109,.681,1.25,-0.04,1st,<strong>Won Stanley Cup Finals</strong>,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1984.html,1983-84,NHL,Edmonton Oilers,80,57,18,5,,119,.744,1.51,-0.15,1st,<strong>Won Stanley Cup Finals</strong>,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1983.html,1982-83,NHL,Edmonton Oilers,80,47,21,12,,106,.663,1.26,-0.10,1st,Lost Stanley Cup Finals,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1982.html,1981-82,NHL,Edmonton Oilers,80,48,17,15,,111,.694,1.33,-0.19,1st,Lost NHL Division Semi-Finals,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1981.html,1980-81,NHL,Edmonton Oilers,80,29,35,16,,74,.463,0.01,0.00,4th,Lost NHL Quarter-Finals,B. Watson,G. Sather
+EDM,http://www.hockey-reference.com/teams/EDM/1980.html,1979-80,NHL,Edmonton Oilers,80,28,39,13,,69,.431,-0.25,0.01,4th,Lost NHL Preliminary Round,G. Sather

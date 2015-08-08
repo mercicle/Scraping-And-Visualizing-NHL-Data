@@ -1,0 +1,40 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+CGY,http://www.hockey-reference.com/teams/CGY/2012.html,2011-12,NHL,Calgary Flames,82,37,29,,16,90,.549,-0.28,0.01,2nd,,B. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/2011.html,2010-11,NHL,Calgary Flames,82,41,29,,12,94,.573,0.14,-0.02,2nd,,B. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/2010.html,2009-10,NHL,Calgary Flames,82,40,32,,10,90,.549,-0.03,0.04,3rd,,B. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/2009.html,2008-09,NHL,Calgary Flames,82,46,30,,6,98,.598,0.07,0.00,2nd,Lost NHL Conference Quarter-Finals,M. Keenan
+CGY,http://www.hockey-reference.com/teams/CGY/2008.html,2007-08,NHL,Calgary Flames,82,42,30,,10,94,.573,0.13,0.10,3rd,Lost NHL Conference Quarter-Finals,M. Keenan
+CGY,http://www.hockey-reference.com/teams/CGY/2007.html,2006-07,NHL,Calgary Flames,82,43,29,,10,96,.585,0.51,0.12,3rd,Lost NHL Conference Quarter-Finals,J. Playfair
+CGY,http://www.hockey-reference.com/teams/CGY/2006.html,2005-06,NHL,Calgary Flames,82,46,25,,11,103,.628,0.30,0.08,1st,Lost NHL Conference Quarter-Finals,D. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/2004.html,2003-04,NHL,Calgary Flames,82,42,30,7,3,94,.573,0.33,0.04,3rd,Lost Stanley Cup Finals,D. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/2003.html,2002-03,NHL,Calgary Flames,82,29,36,13,4,75,.457,-0.37,0.14,5th,,G. Gilbert,A. MacNeil,D. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/2002.html,2001-02,NHL,Calgary Flames,82,32,35,12,3,79,.482,-0.15,0.08,4th,,G. Gilbert
+CGY,http://www.hockey-reference.com/teams/CGY/2001.html,2000-01,NHL,Calgary Flames,82,27,36,15,4,73,.445,-0.37,0.11,4th,,D. Hay,G. Gilbert
+CGY,http://www.hockey-reference.com/teams/CGY/2000.html,1999-00,NHL,Calgary Flames,82,31,36,10,5,77,.470,-0.42,0.13,4th,,B. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/1999.html,1998-99,NHL,Calgary Flames,82,30,40,12,,72,.439,-0.30,-0.02,3rd,,B. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/1998.html,1997-98,NHL,Calgary Flames,82,26,41,15,,67,.409,-0.42,0.01,5th,,B. Sutter
+CGY,http://www.hockey-reference.com/teams/CGY/1997.html,1996-97,NHL,Calgary Flames,82,32,41,9,,73,.445,-0.29,0.02,5th,,P. Page
+CGY,http://www.hockey-reference.com/teams/CGY/1996.html,1995-96,NHL,Calgary Flames,82,34,37,11,,79,.482,-0.04,-0.05,2nd,Lost NHL Conference Quarter-Finals,P. Page
+CGY,http://www.hockey-reference.com/teams/CGY/1995.html,1994-95,NHL,Calgary Flames,48,24,17,7,,55,.573,0.49,-0.09,1st,Lost NHL Conference Quarter-Finals,D. King
+CGY,http://www.hockey-reference.com/teams/CGY/1994.html,1993-94,NHL,Calgary Flames,84,42,29,13,,97,.577,0.48,-0.07,1st,Lost NHL Conference Quarter-Finals,D. King
+CGY,http://www.hockey-reference.com/teams/CGY/1993.html,1992-93,NHL,Calgary Flames,84,43,30,11,,97,.577,0.25,-0.22,2nd,Lost NHL Division Semi-Finals,D. King
+CGY,http://www.hockey-reference.com/teams/CGY/1992.html,1991-92,NHL,Calgary Flames,80,31,37,12,,74,.463,-0.19,-0.08,5th,,D. Risebrough,G. Charron
+CGY,http://www.hockey-reference.com/teams/CGY/1991.html,1990-91,NHL,Calgary Flames,80,46,26,8,,100,.625,0.98,-0.03,2nd,Lost NHL Division Semi-Finals,D. Risebrough
+CGY,http://www.hockey-reference.com/teams/CGY/1990.html,1989-90,NHL,Calgary Flames,80,42,23,15,,99,.619,1.00,-0.04,1st,Lost NHL Division Semi-Finals,T. Crisp
+CGY,http://www.hockey-reference.com/teams/CGY/1989.html,1988-89,NHL,Calgary Flames,80,54,17,9,,117,.731,1.57,-0.03,1st,<strong>Won Stanley Cup Finals</strong>,T. Crisp
+CGY,http://www.hockey-reference.com/teams/CGY/1988.html,1987-88,NHL,Calgary Flames,80,48,23,9,,105,.656,1.10,-0.05,1st,Lost NHL Division Finals,T. Crisp
+CGY,http://www.hockey-reference.com/teams/CGY/1987.html,1986-87,NHL,Calgary Flames,80,46,31,3,,95,.594,0.39,0.03,2nd,Lost NHL Division Semi-Finals,B. Johnson
+CGY,http://www.hockey-reference.com/teams/CGY/1986.html,1985-86,NHL,Calgary Flames,80,40,31,9,,89,.556,0.37,-0.12,2nd,Lost Stanley Cup Finals,B. Johnson
+CGY,http://www.hockey-reference.com/teams/CGY/1985.html,1984-85,NHL,Calgary Flames,80,41,27,12,,94,.588,0.77,0.01,3rd,Lost NHL Division Semi-Finals,B. Johnson
+CGY,http://www.hockey-reference.com/teams/CGY/1984.html,1983-84,NHL,Calgary Flames,80,34,32,14,,82,.513,-0.03,0.01,2nd,Lost NHL Division Finals,B. Johnson
+CGY,http://www.hockey-reference.com/teams/CGY/1983.html,1982-83,NHL,Calgary Flames,80,32,34,14,,78,.488,0.07,0.02,2nd,Lost NHL Division Finals,B. Johnson
+CGY,http://www.hockey-reference.com/teams/CGY/1982.html,1981-82,NHL,Calgary Flames,80,29,34,17,,75,.469,-0.18,-0.04,3rd,Lost NHL Division Semi-Finals,A. MacNeil
+CGY,http://www.hockey-reference.com/teams/CGY/1981.html,1980-81,NHL,Calgary Flames,80,39,27,14,,92,.575,0.37,-0.02,3rd,Lost NHL Semi-Finals,A. MacNeil
+CGY,http://www.hockey-reference.com/teams/ATF/1980.html,1979-80,NHL,Atlanta Flames,80,35,32,13,,83,.519,0.16,-0.01,4th,Lost NHL Preliminary Round,A. MacNeil
+CGY,http://www.hockey-reference.com/teams/ATF/1979.html,1978-79,NHL,Atlanta Flames,80,41,31,8,,90,.563,0.67,0.08,4th,Lost NHL Preliminary Round,F. Creighton
+CGY,http://www.hockey-reference.com/teams/ATF/1978.html,1977-78,NHL,Atlanta Flames,80,34,27,19,,87,.544,0.28,0.00,3rd,Lost NHL Preliminary Round,F. Creighton
+CGY,http://www.hockey-reference.com/teams/ATF/1977.html,1976-77,NHL,Atlanta Flames,80,34,34,12,,80,.500,-0.01,0.00,3rd,Lost NHL Preliminary Round,F. Creighton
+CGY,http://www.hockey-reference.com/teams/ATF/1976.html,1975-76,NHL,Atlanta Flames,80,35,33,12,,82,.513,0.31,0.00,3rd,Lost NHL Preliminary Round,F. Creighton
+CGY,http://www.hockey-reference.com/teams/ATF/1975.html,1974-75,NHL,Atlanta Flames,80,34,31,15,,83,.519,0.16,0.03,4th,,B. Geoffrion,F. Creighton
+CGY,http://www.hockey-reference.com/teams/ATF/1974.html,1973-74,NHL,Atlanta Flames,78,30,34,14,,74,.474,-0.28,0.03,4th,Lost NHL Quarter-Finals,B. Geoffrion
+CGY,http://www.hockey-reference.com/teams/ATF/1973.html,1972-73,NHL,Atlanta Flames,78,25,38,15,,65,.417,-0.57,0.05,7th,,B. Geoffrion

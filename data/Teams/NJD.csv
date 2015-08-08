@@ -1,0 +1,38 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+NJD,http://www.hockey-reference.com/teams/NJD/2012.html,2011-12,NHL,New Jersey Devils,82,48,28,,6,102,.622,0.23,0.00,4th,Lost Stanley Cup Finals,P. DeBoer
+NJD,http://www.hockey-reference.com/teams/NJD/2011.html,2010-11,NHL,New Jersey Devils,82,38,39,,5,81,.494,-0.41,0.02,4th,,J. MacLean,J. Lemaire
+NJD,http://www.hockey-reference.com/teams/NJD/2010.html,2009-10,NHL,New Jersey Devils,82,48,27,,7,103,.628,0.31,-0.07,1st,Lost NHL Conference Quarter-Finals,J. Lemaire
+NJD,http://www.hockey-reference.com/teams/NJD/2009.html,2008-09,NHL,New Jersey Devils,82,51,27,,4,106,.646,0.38,-0.05,1st,Lost NHL Conference Quarter-Finals,B. Sutter
+NJD,http://www.hockey-reference.com/teams/NJD/2008.html,2007-08,NHL,New Jersey Devils,82,46,29,,7,99,.604,0.00,-0.11,2nd,Lost NHL Conference Quarter-Finals,B. Sutter
+NJD,http://www.hockey-reference.com/teams/NJD/2007.html,2006-07,NHL,New Jersey Devils,82,49,24,,9,107,.652,0.03,-0.15,1st,Lost NHL Conference Semi-Finals,C. Julien,L. Lamoriello
+NJD,http://www.hockey-reference.com/teams/NJD/2006.html,2005-06,NHL,New Jersey Devils,82,46,27,,9,101,.616,0.05,-0.11,1st,Lost NHL Conference Semi-Finals,L. Robinson,L. Lamoriello
+NJD,http://www.hockey-reference.com/teams/NJD/2004.html,2003-04,NHL,New Jersey Devils,82,43,25,12,2,100,.610,0.54,-0.06,2nd,Lost NHL Conference Quarter-Finals,P. Burns
+NJD,http://www.hockey-reference.com/teams/NJD/2003.html,2002-03,NHL,New Jersey Devils,82,46,20,10,6,108,.659,0.49,-0.12,1st,<strong>Won Stanley Cup Finals</strong>,P. Burns
+NJD,http://www.hockey-reference.com/teams/NJD/2002.html,2001-02,NHL,New Jersey Devils,82,41,28,9,4,95,.579,0.15,-0.07,3rd,Lost NHL Conference Quarter-Finals,L. Robinson,K. Constantine
+NJD,http://www.hockey-reference.com/teams/NJD/2001.html,2000-01,NHL,New Jersey Devils,82,48,19,12,3,111,.677,1.10,-0.12,1st,Lost Stanley Cup Finals,L. Robinson
+NJD,http://www.hockey-reference.com/teams/NJD/2000.html,1999-00,NHL,New Jersey Devils,82,45,24,8,5,103,.628,0.46,-0.13,2nd,<strong>Won Stanley Cup Finals</strong>,R. Ftorek,L. Robinson
+NJD,http://www.hockey-reference.com/teams/NJD/1999.html,1998-99,NHL,New Jersey Devils,82,47,24,11,,105,.640,0.62,-0.02,1st,Lost NHL Conference Quarter-Finals,R. Ftorek
+NJD,http://www.hockey-reference.com/teams/NJD/1998.html,1997-98,NHL,New Jersey Devils,82,48,23,11,,107,.652,0.66,-0.06,1st,Lost NHL Conference Quarter-Finals,J. Lemaire
+NJD,http://www.hockey-reference.com/teams/NJD/1997.html,1996-97,NHL,New Jersey Devils,82,45,23,14,,104,.634,0.57,-0.03,1st,Lost NHL Conference Semi-Finals,J. Lemaire
+NJD,http://www.hockey-reference.com/teams/NJD/1996.html,1995-96,NHL,New Jersey Devils,82,37,33,12,,86,.524,0.20,0.04,6th,,J. Lemaire
+NJD,http://www.hockey-reference.com/teams/NJD/1995.html,1994-95,NHL,New Jersey Devils,48,22,18,8,,52,.542,0.30,-0.01,2nd,<strong>Won Stanley Cup Finals</strong>,J. Lemaire
+NJD,http://www.hockey-reference.com/teams/NJD/1994.html,1993-94,NHL,New Jersey Devils,84,47,25,12,,106,.631,1.01,-0.02,2nd,Lost NHL Conference Finals,J. Lemaire
+NJD,http://www.hockey-reference.com/teams/NJD/1993.html,1992-93,NHL,New Jersey Devils,84,40,37,7,,87,.518,0.26,0.15,4th,Lost NHL Division Semi-Finals,H. Brooks
+NJD,http://www.hockey-reference.com/teams/NJD/1992.html,1991-92,NHL,New Jersey Devils,80,38,31,11,,87,.544,0.48,0.10,4th,Lost NHL Division Semi-Finals,T. McVie
+NJD,http://www.hockey-reference.com/teams/NJD/1991.html,1990-91,NHL,New Jersey Devils,80,32,33,15,,79,.494,0.09,-0.01,4th,Lost NHL Division Semi-Finals,J. Cunniff,T. McVie
+NJD,http://www.hockey-reference.com/teams/NJD/1990.html,1989-90,NHL,New Jersey Devils,80,37,34,9,,83,.519,0.06,-0.03,2nd,Lost NHL Division Semi-Finals,J. Schoenfeld,J. Cunniff
+NJD,http://www.hockey-reference.com/teams/NJD/1989.html,1988-89,NHL,New Jersey Devils,80,27,41,12,,66,.413,-0.53,0.02,5th,,J. Schoenfeld
+NJD,http://www.hockey-reference.com/teams/NJD/1988.html,1987-88,NHL,New Jersey Devils,80,38,36,6,,82,.513,0.06,0.07,4th,Lost NHL Conference Finals,D. Carpenter,J. Schoenfeld
+NJD,http://www.hockey-reference.com/teams/NJD/1987.html,1986-87,NHL,New Jersey Devils,80,29,45,6,,64,.400,-0.87,0.07,6th,,D. Carpenter
+NJD,http://www.hockey-reference.com/teams/NJD/1986.html,1985-86,NHL,New Jersey Devils,80,28,49,3,,59,.369,-0.76,0.16,6th,,D. Carpenter
+NJD,http://www.hockey-reference.com/teams/NJD/1985.html,1984-85,NHL,New Jersey Devils,80,22,48,10,,54,.338,-0.96,0.07,5th,,D. Carpenter
+NJD,http://www.hockey-reference.com/teams/NJD/1984.html,1983-84,NHL,New Jersey Devils,80,17,56,7,,41,.256,-1.38,0.11,5th,,B. MacMillan,T. McVie
+NJD,http://www.hockey-reference.com/teams/NJD/1983.html,1982-83,NHL,New Jersey Devils,80,17,49,14,,48,.300,-1.27,0.08,5th,,B. MacMillan
+NJD,http://www.hockey-reference.com/teams/CLR/1982.html,1981-82,NHL,Colorado Rockies,80,18,49,13,,49,.306,-1.43,0.08,5th,,B. Marshall,M. Johnston
+NJD,http://www.hockey-reference.com/teams/CLR/1981.html,1980-81,NHL,Colorado Rockies,80,22,45,13,,57,.356,-1.02,0.05,5th,,B. MacMillan
+NJD,http://www.hockey-reference.com/teams/CLR/1980.html,1979-80,NHL,Colorado Rockies,80,19,48,13,,51,.319,-0.88,0.04,6th,,D. Cherry
+NJD,http://www.hockey-reference.com/teams/CLR/1979.html,1978-79,NHL,Colorado Rockies,80,15,53,12,,42,.263,-1.56,-0.05,4th,,P. Kelly,A. Guidolin
+NJD,http://www.hockey-reference.com/teams/CLR/1978.html,1977-78,NHL,Colorado Rockies,80,19,40,21,,59,.369,-0.62,-0.02,2nd,Lost NHL Preliminary Round,P. Kelly
+NJD,http://www.hockey-reference.com/teams/CLR/1977.html,1976-77,NHL,Colorado Rockies,80,20,46,14,,54,.338,-1.01,0.00,5th,,J. Wilson
+NJD,http://www.hockey-reference.com/teams/KCS/1976.html,1975-76,NHL,Kansas City Scouts,80,12,56,12,,36,.225,-1.94,0.07,5th,,B. Guidolin,S. Abel,E. Bush
+NJD,http://www.hockey-reference.com/teams/KCS/1975.html,1974-75,NHL,Kansas City Scouts,80,15,54,11,,41,.256,-1.71,0.09,5th,,B. Guidolin

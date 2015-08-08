@@ -1,0 +1,17 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+OTS,http://www.hockey-reference.com/teams/OTS/1934.html,1933-34,NHL,Ottawa Senators,48,13,29,6,,32,.333,-0.52,0.07,5th,,G. Boucher
+OTS,http://www.hockey-reference.com/teams/OTS/1933.html,1932-33,NHL,Ottawa Senators,48,11,27,10,,32,.333,-0.80,0.10,5th,,C. Denneny
+OTS,http://www.hockey-reference.com/teams/OTS/1931.html,1930-31,NHL,Ottawa Senators,44,10,30,4,,24,.273,-1.01,0.15,5th,,N. Lalonde
+OTS,http://www.hockey-reference.com/teams/OTS/1930.html,1929-30,NHL,Ottawa Senators,44,21,15,8,,50,.568,0.42,-0.04,3rd,Lost NHL Quarter-Finals,N. Lalonde
+OTS,http://www.hockey-reference.com/teams/OTS/1929.html,1928-29,NHL,Ottawa Senators,44,14,17,13,,41,.466,-0.23,0.07,4th,,D. Gill
+OTS,http://www.hockey-reference.com/teams/OTS/1928.html,1927-28,NHL,Ottawa Senators,44,20,14,10,,50,.568,0.46,-0.01,3rd,Lost NHL Quarter-Finals,D. Gill
+OTS,http://www.hockey-reference.com/teams/OTS/1927.html,1926-27,NHL,Ottawa Senators,44,30,10,4,,64,.727,0.37,-0.02,1st,<strong>Won Stanley Cup Finals</strong>,D. Gill
+OTS,http://www.hockey-reference.com/teams/OTS/1926.html,1925-26,NHL,Ottawa Senators,36,24,8,4,,52,.722,0.83,-0.14,1st,Lost NHL Finals,A. Curry
+OTS,http://www.hockey-reference.com/teams/OTS/1925.html,1924-25,NHL,Ottawa Senators,30,17,12,1,,35,.583,0.47,-0.09,4th,,P. Green
+OTS,http://www.hockey-reference.com/teams/OTS/1924.html,1923-24,NHL,Ottawa Senators,24,16,8,0,,32,.667,0.63,-0.21,1st,Lost NHL Finals,P. Green
+OTS,http://www.hockey-reference.com/teams/OTS/1923.html,1922-23,NHL,Ottawa Senators,24,14,9,1,,29,.604,0.72,-0.24,1st,<strong>Won NHL Finals</strong>,P. Green
+OTS,http://www.hockey-reference.com/teams/OTS/1922.html,1921-22,NHL,Ottawa Senators,24,14,8,2,,30,.625,0.69,-0.23,1st,Lost NHL Finals,P. Green
+OTS,http://www.hockey-reference.com/teams/OTS/1921.html,1920-21,NHL,Ottawa Senators,24,14,10,0,,28,.583,0.69,-0.23,2nd,<strong>Won NHL Finals</strong>,P. Green
+OTS,http://www.hockey-reference.com/teams/OTS/1920.html,1919-20,NHL,Ottawa Senators,24,19,5,0,,38,.792,1.78,-0.59,1st,,P. Green
+OTS,http://www.hockey-reference.com/teams/OTS/1919.html,1918-19,NHL,Ottawa Senators,18,12,6,0,,24,.667,0.67,-0.33,1st,Lost NHL Finals,A. Smith
+OTS,http://www.hockey-reference.com/teams/OTS/1918.html,1917-18,NHL,Ottawa Senators,22,9,13,0,,18,.409,-0.31,0.24,3rd,,E. Gerard

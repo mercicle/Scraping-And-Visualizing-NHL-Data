@@ -1,0 +1,20 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+TBL,http://www.hockey-reference.com/teams/TBL/2012.html,2011-12,NHL,Tampa Bay Lightning,82,38,36,,8,84,.512,-0.57,-0.01,3rd,,G. Boucher
+TBL,http://www.hockey-reference.com/teams/TBL/2011.html,2010-11,NHL,Tampa Bay Lightning,82,46,25,,11,103,.628,0.04,-0.05,2nd,Lost NHL Conference Finals,G. Boucher
+TBL,http://www.hockey-reference.com/teams/TBL/2010.html,2009-10,NHL,Tampa Bay Lightning,82,34,36,,12,80,.488,-0.56,-0.03,3rd,,R. Tocchet
+TBL,http://www.hockey-reference.com/teams/TBL/2009.html,2008-09,NHL,Tampa Bay Lightning,82,24,40,,18,66,.402,-0.81,0.03,5th,,B. Melrose,R. Tocchet
+TBL,http://www.hockey-reference.com/teams/TBL/2008.html,2007-08,NHL,Tampa Bay Lightning,82,31,42,,9,71,.433,-0.67,-0.13,5th,,J. Tortorella
+TBL,http://www.hockey-reference.com/teams/TBL/2007.html,2006-07,NHL,Tampa Bay Lightning,82,44,33,,5,93,.567,-0.25,-0.15,2nd,Lost NHL Conference Quarter-Finals,J. Tortorella
+TBL,http://www.hockey-reference.com/teams/TBL/2006.html,2005-06,NHL,Tampa Bay Lightning,82,43,33,,6,92,.561,-0.18,-0.08,2nd,Lost NHL Conference Quarter-Finals,J. Tortorella
+TBL,http://www.hockey-reference.com/teams/TBL/2004.html,2003-04,NHL,Tampa Bay Lightning,82,46,22,8,6,106,.646,0.56,-0.09,1st,<strong>Won Stanley Cup Finals</strong>,J. Tortorella
+TBL,http://www.hockey-reference.com/teams/TBL/2003.html,2002-03,NHL,Tampa Bay Lightning,82,36,25,16,5,93,.567,-0.01,-0.12,1st,Lost NHL Conference Semi-Finals,J. Tortorella
+TBL,http://www.hockey-reference.com/teams/TBL/2002.html,2001-02,NHL,Tampa Bay Lightning,82,27,40,11,4,69,.421,-0.58,-0.08,3rd,,J. Tortorella
+TBL,http://www.hockey-reference.com/teams/TBL/2001.html,2000-01,NHL,Tampa Bay Lightning,82,24,47,6,5,59,.360,-0.98,-0.01,5th,,S. Ludzik,J. Tortorella
+TBL,http://www.hockey-reference.com/teams/TBL/2000.html,1999-00,NHL,Tampa Bay Lightning,82,19,47,9,7,54,.329,-1.34,-0.05,4th,,S. Ludzik
+TBL,http://www.hockey-reference.com/teams/TBL/1999.html,1998-99,NHL,Tampa Bay Lightning,82,19,54,9,,47,.287,-1.28,0.09,4th,,J. Demers
+TBL,http://www.hockey-reference.com/teams/TBL/1998.html,1997-98,NHL,Tampa Bay Lightning,82,17,55,10,,44,.268,-1.37,0.07,7th,,T. Crisp,R. Paterson,J. Demers
+TBL,http://www.hockey-reference.com/teams/TBL/1997.html,1996-97,NHL,Tampa Bay Lightning,82,32,40,10,,74,.451,-0.33,0.04,6th,,T. Crisp
+TBL,http://www.hockey-reference.com/teams/TBL/1996.html,1995-96,NHL,Tampa Bay Lightning,82,38,32,12,,88,.537,-0.07,0.05,5th,Lost NHL Conference Quarter-Finals,T. Crisp
+TBL,http://www.hockey-reference.com/teams/TBL/1995.html,1994-95,NHL,Tampa Bay Lightning,48,17,28,3,,37,.385,-0.49,0.01,6th,,T. Crisp
+TBL,http://www.hockey-reference.com/teams/TBL/1994.html,1993-94,NHL,Tampa Bay Lightning,84,30,43,11,,71,.423,-0.26,0.06,7th,,T. Crisp
+TBL,http://www.hockey-reference.com/teams/TBL/1993.html,1992-93,NHL,Tampa Bay Lightning,84,23,54,7,,53,.315,-0.96,0.08,6th,,T. Crisp

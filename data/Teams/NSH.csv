@@ -1,0 +1,14 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+NSH,http://www.hockey-reference.com/teams/NSH/2012.html,2011-12,NHL,Nashville Predators,82,48,26,,8,104,.634,0.34,0.01,2nd,Lost NHL Conference Semi-Finals,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2011.html,2010-11,NHL,Nashville Predators,82,44,27,,11,99,.604,0.31,0.01,2nd,Lost NHL Conference Semi-Finals,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2010.html,2009-10,NHL,Nashville Predators,82,47,29,,6,100,.610,0.06,0.06,3rd,Lost NHL Conference Quarter-Finals,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2009.html,2008-09,NHL,Nashville Predators,82,40,34,,8,88,.537,-0.19,0.06,5th,,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2008.html,2007-08,NHL,Nashville Predators,82,41,32,,9,91,.555,0.13,0.12,2nd,Lost NHL Conference Quarter-Finals,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2007.html,2006-07,NHL,Nashville Predators,82,51,23,,8,110,.671,0.78,0.05,2nd,Lost NHL Conference Quarter-Finals,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2006.html,2005-06,NHL,Nashville Predators,82,49,25,,8,106,.646,0.32,-0.07,2nd,Lost NHL Conference Quarter-Finals,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2004.html,2003-04,NHL,Nashville Predators,82,38,29,11,4,91,.555,-0.05,-0.04,3rd,Lost NHL Conference Quarter-Finals,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2003.html,2002-03,NHL,Nashville Predators,82,27,35,13,7,74,.451,-0.17,0.11,4th,,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2002.html,2001-02,NHL,Nashville Predators,82,28,41,13,0,69,.421,-0.31,0.10,4th,,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2001.html,2000-01,NHL,Nashville Predators,82,34,36,9,3,80,.488,-0.11,0.06,3rd,,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/2000.html,1999-00,NHL,Nashville Predators,82,28,40,7,7,70,.427,-0.36,0.14,4th,,B. Trotz
+NSH,http://www.hockey-reference.com/teams/NSH/1999.html,1998-99,NHL,Nashville Predators,82,28,47,7,,63,.384,-0.85,0.02,4th,,B. Trotz

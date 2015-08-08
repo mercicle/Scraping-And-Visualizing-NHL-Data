@@ -1,0 +1,15 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+MTM,http://www.hockey-reference.com/teams/MTM/1938.html,1937-38,NHL,Montreal Maroons,48,12,30,6,,30,.313,-0.88,0.12,4th,,K. Clancy,T. Gorman
+MTM,http://www.hockey-reference.com/teams/MTM/1937.html,1936-37,NHL,Montreal Maroons,48,22,17,9,,53,.552,0.27,-0.06,2nd,Lost NHL Semi-Finals,T. Gorman
+MTM,http://www.hockey-reference.com/teams/MTM/1936.html,1935-36,NHL,Montreal Maroons,48,22,16,10,,54,.563,0.12,-0.04,1st,Lost NHL Semi-Finals,T. Gorman
+MTM,http://www.hockey-reference.com/teams/MTM/1935.html,1934-35,NHL,Montreal Maroons,48,24,19,5,,53,.552,0.57,-0.07,2nd,<strong>Won Stanley Cup Finals</strong>,T. Gorman
+MTM,http://www.hockey-reference.com/teams/MTM/1934.html,1933-34,NHL,Montreal Maroons,48,19,18,11,,49,.510,-0.09,0.01,3rd,Lost NHL Semi-Finals,E. Gerard
+MTM,http://www.hockey-reference.com/teams/MTM/1933.html,1932-33,NHL,Montreal Maroons,48,22,20,6,,50,.521,0.30,-0.04,2nd,Lost NHL Quarter-Finals,E. Gerard
+MTM,http://www.hockey-reference.com/teams/MTM/1932.html,1931-32,NHL,Montreal Maroons,48,19,22,7,,45,.469,0.05,-0.01,3rd,Lost NHL Semi-Finals,S. Cleghorn
+MTM,http://www.hockey-reference.com/teams/MTM/1931.html,1930-31,NHL,Montreal Maroons,44,20,18,6,,46,.523,-0.01,0.01,3rd,Lost NHL Quarter-Finals,D. Munro,G. Boucher
+MTM,http://www.hockey-reference.com/teams/MTM/1930.html,1929-30,NHL,Montreal Maroons,44,23,16,5,,51,.580,0.56,-0.06,1st,Lost NHL Semi-Finals,D. Munro
+MTM,http://www.hockey-reference.com/teams/MTM/1929.html,1928-29,NHL,Montreal Maroons,44,15,20,9,,39,.443,0.07,0.03,5th,,E. Gerard
+MTM,http://www.hockey-reference.com/teams/MTM/1928.html,1927-28,NHL,Montreal Maroons,44,24,14,6,,54,.614,0.42,-0.01,2nd,Lost Stanley Cup Finals,E. Gerard
+MTM,http://www.hockey-reference.com/teams/MTM/1927.html,1926-27,NHL,Montreal Maroons,44,20,20,4,,44,.500,0.09,0.02,3rd,Lost NHL Quarter-Finals,E. Gerard
+MTM,http://www.hockey-reference.com/teams/MTM/1926.html,1925-26,NHL,Montreal Maroons,36,20,11,5,,45,.625,0.43,-0.07,2nd,<strong>Won NHL Finals</strong>,E. Gerard
+MTM,http://www.hockey-reference.com/teams/MTM/1925.html,1924-25,NHL,Montreal Maroons,30,9,19,2,,20,.333,-0.56,0.11,5th,,E. Gerard

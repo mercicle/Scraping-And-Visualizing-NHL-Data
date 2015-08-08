@@ -1,0 +1,33 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+PHX,http://www.hockey-reference.com/teams/PHX/2012.html,2011-12,NHL,Phoenix Coyotes,82,42,27,,13,97,.591,0.16,0.01,1st,Lost NHL Conference Finals,D. Tippett
+PHX,http://www.hockey-reference.com/teams/PHX/2011.html,2010-11,NHL,Phoenix Coyotes,82,43,26,,13,99,.604,0.11,0.05,2nd,Lost NHL Conference Quarter-Finals,D. Tippett
+PHX,http://www.hockey-reference.com/teams/PHX/2010.html,2009-10,NHL,Phoenix Coyotes,82,50,25,,7,107,.652,0.34,0.06,2nd,Lost NHL Conference Quarter-Finals,D. Tippett
+PHX,http://www.hockey-reference.com/teams/PHX/2009.html,2008-09,NHL,Phoenix Coyotes,82,36,39,,7,79,.482,-0.50,0.04,4th,,W. Gretzky
+PHX,http://www.hockey-reference.com/teams/PHX/2008.html,2007-08,NHL,Phoenix Coyotes,82,38,37,,7,83,.506,-0.04,0.17,4th,,W. Gretzky
+PHX,http://www.hockey-reference.com/teams/PHX/2007.html,2006-07,NHL,Phoenix Coyotes,82,31,46,,5,67,.409,-0.64,0.19,5th,,W. Gretzky
+PHX,http://www.hockey-reference.com/teams/PHX/2006.html,2005-06,NHL,Phoenix Coyotes,82,38,39,,5,81,.494,-0.19,0.12,5th,,W. Gretzky
+PHX,http://www.hockey-reference.com/teams/PHX/2004.html,2003-04,NHL,Phoenix Coyotes,82,22,36,18,6,68,.415,-0.66,0.04,5th,,B. Francis,R. Bowness
+PHX,http://www.hockey-reference.com/teams/PHX/2003.html,2002-03,NHL,Phoenix Coyotes,82,31,35,11,5,78,.476,-0.23,0.08,4th,,B. Francis
+PHX,http://www.hockey-reference.com/teams/PHX/2002.html,2001-02,NHL,Phoenix Coyotes,82,40,27,9,6,95,.579,0.29,0.07,2nd,Lost NHL Conference Quarter-Finals,B. Francis
+PHX,http://www.hockey-reference.com/teams/PHX/2001.html,2000-01,NHL,Phoenix Coyotes,82,35,27,17,3,90,.549,0.07,0.05,4th,,B. Francis
+PHX,http://www.hockey-reference.com/teams/PHX/2000.html,1999-00,NHL,Phoenix Coyotes,82,39,31,8,4,90,.549,0.15,0.10,3rd,Lost NHL Conference Quarter-Finals,B. Francis
+PHX,http://www.hockey-reference.com/teams/PHX/1999.html,1998-99,NHL,Phoenix Coyotes,82,39,31,12,,90,.549,0.08,-0.02,2nd,Lost NHL Conference Quarter-Finals,J. Schoenfeld
+PHX,http://www.hockey-reference.com/teams/PHX/1998.html,1997-98,NHL,Phoenix Coyotes,82,35,35,12,,82,.500,0.00,0.04,4th,Lost NHL Conference Quarter-Finals,J. Schoenfeld
+PHX,http://www.hockey-reference.com/teams/PHX/1997.html,1996-97,NHL,Phoenix Coyotes,82,38,37,7,,83,.506,-0.02,0.02,3rd,Lost NHL Conference Quarter-Finals,D. Hay
+PHX,http://www.hockey-reference.com/teams/WIN/1996.html,1995-96,NHL,Winnipeg Jets,82,36,40,6,,78,.476,-0.18,0.02,5th,Lost NHL Conference Quarter-Finals,T. Simpson
+PHX,http://www.hockey-reference.com/teams/WIN/1995.html,1994-95,NHL,Winnipeg Jets,48,16,25,7,,39,.406,-0.33,0.08,6th,,J. Paddock,T. Simpson
+PHX,http://www.hockey-reference.com/teams/WIN/1994.html,1993-94,NHL,Winnipeg Jets,84,24,51,9,,57,.339,-1.13,0.05,6th,,J. Paddock
+PHX,http://www.hockey-reference.com/teams/WIN/1993.html,1992-93,NHL,Winnipeg Jets,84,40,37,7,,87,.518,-0.20,-0.23,4th,Lost NHL Division Semi-Finals,J. Paddock
+PHX,http://www.hockey-reference.com/teams/WIN/1992.html,1991-92,NHL,Winnipeg Jets,80,33,32,15,,81,.506,-0.02,-0.11,4th,Lost NHL Division Semi-Finals,J. Paddock
+PHX,http://www.hockey-reference.com/teams/WIN/1991.html,1990-91,NHL,Winnipeg Jets,80,26,43,11,,63,.394,-0.26,0.09,5th,,B. Murdoch
+PHX,http://www.hockey-reference.com/teams/WIN/1990.html,1989-90,NHL,Winnipeg Jets,80,37,32,11,,85,.531,0.15,0.05,3rd,Lost NHL Division Semi-Finals,B. Murdoch
+PHX,http://www.hockey-reference.com/teams/WIN/1989.html,1988-89,NHL,Winnipeg Jets,80,26,42,12,,64,.400,-0.51,0.18,5th,,D. Maloney,R. Bowness
+PHX,http://www.hockey-reference.com/teams/WIN/1988.html,1987-88,NHL,Winnipeg Jets,80,33,36,11,,77,.481,-0.15,0.08,3rd,Lost NHL Division Semi-Finals,D. Maloney
+PHX,http://www.hockey-reference.com/teams/WIN/1987.html,1986-87,NHL,Winnipeg Jets,80,40,32,8,,88,.550,0.15,0.05,3rd,Lost NHL Division Finals,D. Maloney
+PHX,http://www.hockey-reference.com/teams/WIN/1986.html,1985-86,NHL,Winnipeg Jets,80,26,47,7,,59,.369,-0.95,0.02,3rd,Lost NHL Division Semi-Finals,B. Long,J. Ferguson
+PHX,http://www.hockey-reference.com/teams/WIN/1985.html,1984-85,NHL,Winnipeg Jets,80,43,27,10,,96,.600,0.37,0.05,2nd,Lost NHL Division Finals,B. Long
+PHX,http://www.hockey-reference.com/teams/WIN/1984.html,1983-84,NHL,Winnipeg Jets,80,31,38,11,,73,.456,-0.38,0.04,4th,Lost NHL Division Semi-Finals,T. Watt,B. Long
+PHX,http://www.hockey-reference.com/teams/WIN/1983.html,1982-83,NHL,Winnipeg Jets,80,33,39,8,,74,.463,-0.23,0.05,4th,Lost NHL Division Semi-Finals,T. Watt
+PHX,http://www.hockey-reference.com/teams/WIN/1982.html,1981-82,NHL,Winnipeg Jets,80,33,33,14,,80,.500,-0.28,-0.12,2nd,Lost NHL Division Semi-Finals,T. Watt
+PHX,http://www.hockey-reference.com/teams/WIN/1981.html,1980-81,NHL,Winnipeg Jets,80,9,57,14,,32,.200,-1.83,0.09,6th,,T. McVie,B. Sutherland,M. Smith
+PHX,http://www.hockey-reference.com/teams/WIN/1980.html,1979-80,NHL,Winnipeg Jets,80,20,49,11,,51,.319,-1.19,0.06,5th,,T. McVie,B. Sutherland

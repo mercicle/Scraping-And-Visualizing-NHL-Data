@@ -1,0 +1,38 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+WSH,http://www.hockey-reference.com/teams/WSH/2012.html,2011-12,NHL,Washington Capitals,82,42,32,,8,92,.561,-0.13,-0.03,2nd,Lost NHL Conference Semi-Finals,B. Boudreau,D. Hunter
+WSH,http://www.hockey-reference.com/teams/WSH/2011.html,2010-11,NHL,Washington Capitals,82,48,23,,11,107,.652,0.27,-0.06,1st,Lost NHL Conference Semi-Finals,B. Boudreau
+WSH,http://www.hockey-reference.com/teams/WSH/2010.html,2009-10,NHL,Washington Capitals,82,54,15,,13,121,.738,0.90,-0.14,1st,Lost NHL Conference Quarter-Finals,B. Boudreau
+WSH,http://www.hockey-reference.com/teams/WSH/2009.html,2008-09,NHL,Washington Capitals,82,50,24,,8,108,.659,0.27,-0.06,1st,Lost NHL Conference Semi-Finals,B. Boudreau
+WSH,http://www.hockey-reference.com/teams/WSH/2008.html,2007-08,NHL,Washington Capitals,82,43,31,,8,94,.573,-0.06,-0.19,1st,Lost NHL Conference Quarter-Finals,G. Hanlon,B. Boudreau
+WSH,http://www.hockey-reference.com/teams/WSH/2007.html,2006-07,NHL,Washington Capitals,82,28,40,,14,70,.427,-0.73,-0.10,5th,,G. Hanlon
+WSH,http://www.hockey-reference.com/teams/WSH/2006.html,2005-06,NHL,Washington Capitals,82,29,41,,12,70,.427,-0.86,-0.02,5th,,G. Hanlon
+WSH,http://www.hockey-reference.com/teams/WSH/2004.html,2003-04,NHL,Washington Capitals,82,23,46,10,3,59,.360,-0.80,0.02,5th,,B. Cassidy,G. Hanlon
+WSH,http://www.hockey-reference.com/teams/WSH/2003.html,2002-03,NHL,Washington Capitals,82,39,29,8,6,92,.561,-0.06,-0.11,2nd,Lost NHL Conference Quarter-Finals,B. Cassidy
+WSH,http://www.hockey-reference.com/teams/WSH/2002.html,2001-02,NHL,Washington Capitals,82,36,33,11,2,85,.518,-0.25,-0.10,2nd,,R. Wilson
+WSH,http://www.hockey-reference.com/teams/WSH/2001.html,2000-01,NHL,Washington Capitals,82,41,27,10,4,96,.585,0.16,-0.10,1st,Lost NHL Conference Quarter-Finals,R. Wilson
+WSH,http://www.hockey-reference.com/teams/WSH/2000.html,1999-00,NHL,Washington Capitals,82,44,24,12,2,102,.622,0.28,-0.13,1st,Lost NHL Conference Quarter-Finals,R. Wilson
+WSH,http://www.hockey-reference.com/teams/WSH/1999.html,1998-99,NHL,Washington Capitals,82,31,45,6,,68,.415,-0.21,0.01,3rd,,R. Wilson
+WSH,http://www.hockey-reference.com/teams/WSH/1998.html,1997-98,NHL,Washington Capitals,82,40,30,12,,92,.561,0.17,-0.04,3rd,Lost Stanley Cup Finals,R. Wilson
+WSH,http://www.hockey-reference.com/teams/WSH/1997.html,1996-97,NHL,Washington Capitals,82,33,40,9,,75,.457,-0.17,0.04,5th,,J. Schoenfeld
+WSH,http://www.hockey-reference.com/teams/WSH/1996.html,1995-96,NHL,Washington Capitals,82,39,32,11,,89,.543,0.38,0.02,4th,Lost NHL Conference Quarter-Finals,J. Schoenfeld
+WSH,http://www.hockey-reference.com/teams/WSH/1995.html,1994-95,NHL,Washington Capitals,48,22,18,8,,52,.542,0.33,-0.01,3rd,Lost NHL Conference Quarter-Finals,J. Schoenfeld
+WSH,http://www.hockey-reference.com/teams/WSH/1994.html,1993-94,NHL,Washington Capitals,84,39,35,10,,88,.524,0.20,0.03,3rd,Lost NHL Conference Semi-Finals,T. Murray,J. Schoenfeld
+WSH,http://www.hockey-reference.com/teams/WSH/1993.html,1992-93,NHL,Washington Capitals,84,43,34,7,,93,.554,0.57,0.11,2nd,Lost NHL Division Semi-Finals,T. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1992.html,1991-92,NHL,Washington Capitals,80,45,27,8,,98,.613,0.78,0.09,2nd,Lost NHL Division Semi-Finals,T. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1991.html,1990-91,NHL,Washington Capitals,80,37,36,7,,81,.506,0.00,0.00,3rd,Lost NHL Division Finals,T. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1990.html,1989-90,NHL,Washington Capitals,80,36,38,6,,78,.488,0.08,-0.03,3rd,Lost NHL Conference Finals,B. Murray,T. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1989.html,1988-89,NHL,Washington Capitals,80,41,29,10,,92,.575,0.50,-0.07,1st,Lost NHL Division Semi-Finals,B. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1988.html,1987-88,NHL,Washington Capitals,80,38,33,9,,85,.531,0.44,0.04,2nd,Lost NHL Division Finals,B. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1987.html,1986-87,NHL,Washington Capitals,80,38,32,10,,86,.538,0.07,-0.02,2nd,Lost NHL Division Semi-Finals,B. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1986.html,1985-86,NHL,Washington Capitals,80,50,23,7,,107,.669,0.58,0.04,2nd,Lost NHL Division Finals,B. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1985.html,1984-85,NHL,Washington Capitals,80,46,25,9,,101,.631,0.93,-0.10,2nd,Lost NHL Division Semi-Finals,B. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1984.html,1983-84,NHL,Washington Capitals,80,48,27,5,,101,.631,0.93,-0.09,2nd,Lost NHL Division Finals,B. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1983.html,1982-83,NHL,Washington Capitals,80,39,25,16,,94,.588,0.23,-0.05,3rd,Lost NHL Division Semi-Finals,B. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1982.html,1981-82,NHL,Washington Capitals,80,26,41,13,,65,.406,-0.12,0.12,5th,,G. Green,R. Crozier,B. Murray
+WSH,http://www.hockey-reference.com/teams/WSH/1981.html,1980-81,NHL,Washington Capitals,80,26,36,18,,70,.438,-0.37,0.02,5th,,G. Green
+WSH,http://www.hockey-reference.com/teams/WSH/1980.html,1979-80,NHL,Washington Capitals,80,27,40,13,,67,.419,-0.38,0.02,5th,,D. Belisle,G. Green
+WSH,http://www.hockey-reference.com/teams/WSH/1979.html,1978-79,NHL,Washington Capitals,80,24,41,15,,63,.394,-0.72,0.10,4th,,D. Belisle
+WSH,http://www.hockey-reference.com/teams/WSH/1978.html,1977-78,NHL,Washington Capitals,80,17,49,14,,48,.300,-1.45,0.12,5th,,T. McVie
+WSH,http://www.hockey-reference.com/teams/WSH/1977.html,1976-77,NHL,Washington Capitals,80,24,42,14,,62,.388,-0.97,0.10,4th,,T. McVie
+WSH,http://www.hockey-reference.com/teams/WSH/1976.html,1975-76,NHL,Washington Capitals,80,11,59,10,,32,.200,-1.96,0.16,5th,,M. Schmidt,T. McVie
+WSH,http://www.hockey-reference.com/teams/WSH/1975.html,1974-75,NHL,Washington Capitals,80,8,67,5,,21,.131,-3.09,0.22,5th,,J. Anderson,R. Sullivan,M. Schmidt

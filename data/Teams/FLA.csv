@@ -1,0 +1,19 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+FLA,http://www.hockey-reference.com/teams/FLA/2012.html,2011-12,NHL,Florida Panthers,82,38,26,,18,94,.573,-0.33,-0.03,1st,Lost NHL Conference Quarter-Finals,K. Dineen
+FLA,http://www.hockey-reference.com/teams/FLA/2011.html,2010-11,NHL,Florida Panthers,82,30,40,,12,72,.439,-0.43,-0.01,5th,,P. DeBoer
+FLA,http://www.hockey-reference.com/teams/FLA/2010.html,2009-10,NHL,Florida Panthers,82,32,37,,13,77,.470,-0.47,-0.03,5th,,P. DeBoer
+FLA,http://www.hockey-reference.com/teams/FLA/2009.html,2008-09,NHL,Florida Panthers,82,41,30,,11,93,.567,0.00,-0.04,3rd,,P. DeBoer
+FLA,http://www.hockey-reference.com/teams/FLA/2008.html,2007-08,NHL,Florida Panthers,82,38,35,,9,85,.518,-0.29,-0.17,3rd,,J. Martin
+FLA,http://www.hockey-reference.com/teams/FLA/2007.html,2006-07,NHL,Florida Panthers,82,35,31,,16,86,.524,-0.27,-0.15,4th,,J. Martin
+FLA,http://www.hockey-reference.com/teams/FLA/2006.html,2005-06,NHL,Florida Panthers,82,37,34,,11,85,.518,-0.28,-0.07,4th,,J. Martin
+FLA,http://www.hockey-reference.com/teams/FLA/2004.html,2003-04,NHL,Florida Panthers,82,28,35,15,4,75,.457,-0.42,-0.02,4th,,M. Keenan,R. Dudley,J. Torchetti
+FLA,http://www.hockey-reference.com/teams/FLA/2003.html,2002-03,NHL,Florida Panthers,82,24,36,13,9,70,.427,-0.78,-0.03,4th,,M. Keenan
+FLA,http://www.hockey-reference.com/teams/FLA/2002.html,2001-02,NHL,Florida Panthers,82,22,44,10,6,60,.366,-0.92,-0.07,4th,,D. Sutter,M. Keenan
+FLA,http://www.hockey-reference.com/teams/FLA/2001.html,2000-01,NHL,Florida Panthers,82,22,38,13,9,66,.402,-0.60,-0.04,3rd,,T. Murray,D. Sutter
+FLA,http://www.hockey-reference.com/teams/FLA/2000.html,1999-00,NHL,Florida Panthers,82,43,27,6,6,98,.598,0.28,-0.15,2nd,Lost NHL Conference Quarter-Finals,T. Murray
+FLA,http://www.hockey-reference.com/teams/FLA/1999.html,1998-99,NHL,Florida Panthers,82,30,34,18,,78,.476,-0.21,0.01,2nd,,T. Murray
+FLA,http://www.hockey-reference.com/teams/FLA/1998.html,1997-98,NHL,Florida Panthers,82,24,43,15,,63,.384,-0.62,0.03,6th,,D. MacLean,B. Murray
+FLA,http://www.hockey-reference.com/teams/FLA/1997.html,1996-97,NHL,Florida Panthers,82,35,28,19,,89,.543,0.25,0.00,3rd,Lost NHL Conference Quarter-Finals,D. MacLean
+FLA,http://www.hockey-reference.com/teams/FLA/1996.html,1995-96,NHL,Florida Panthers,82,41,31,10,,92,.561,0.27,0.02,3rd,Lost Stanley Cup Finals,D. MacLean
+FLA,http://www.hockey-reference.com/teams/FLA/1995.html,1994-95,NHL,Florida Panthers,48,20,22,6,,46,.479,-0.26,-0.01,5th,,R. Neilson
+FLA,http://www.hockey-reference.com/teams/FLA/1994.html,1993-94,NHL,Florida Panthers,84,33,34,17,,83,.494,0.02,0.02,5th,,R. Neilson

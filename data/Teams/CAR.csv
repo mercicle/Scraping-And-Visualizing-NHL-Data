@@ -1,0 +1,33 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+CAR,http://www.hockey-reference.com/teams/CAR/2012.html,2011-12,NHL,Carolina Hurricanes,82,33,33,,16,82,.500,-0.39,-0.02,5th,,P. Maurice,K. Muller
+CAR,http://www.hockey-reference.com/teams/CAR/2011.html,2010-11,NHL,Carolina Hurricanes,82,40,31,,11,91,.555,-0.08,-0.04,3rd,,P. Maurice
+CAR,http://www.hockey-reference.com/teams/CAR/2010.html,2009-10,NHL,Carolina Hurricanes,82,35,37,,10,80,.488,-0.37,-0.05,3rd,,P. Maurice
+CAR,http://www.hockey-reference.com/teams/CAR/2009.html,2008-09,NHL,Carolina Hurricanes,82,45,30,,7,97,.591,0.11,-0.05,2nd,Lost NHL Conference Finals,P. Laviolette,P. Maurice
+CAR,http://www.hockey-reference.com/teams/CAR/2008.html,2007-08,NHL,Carolina Hurricanes,82,43,33,,6,92,.561,-0.15,-0.18,2nd,,P. Laviolette
+CAR,http://www.hockey-reference.com/teams/CAR/2007.html,2006-07,NHL,Carolina Hurricanes,82,40,34,,8,88,.537,-0.29,-0.15,3rd,,P. Laviolette
+CAR,http://www.hockey-reference.com/teams/CAR/2006.html,2005-06,NHL,Carolina Hurricanes,82,52,22,,8,112,.683,0.29,-0.13,1st,<strong>Won Stanley Cup Finals</strong>,P. Laviolette
+CAR,http://www.hockey-reference.com/teams/CAR/2004.html,2003-04,NHL,Carolina Hurricanes,82,28,34,14,6,76,.463,-0.46,-0.01,3rd,,P. Maurice,P. Laviolette
+CAR,http://www.hockey-reference.com/teams/CAR/2003.html,2002-03,NHL,Carolina Hurricanes,82,22,43,11,6,61,.372,-0.90,-0.06,5th,,P. Maurice
+CAR,http://www.hockey-reference.com/teams/CAR/2002.html,2001-02,NHL,Carolina Hurricanes,82,35,26,16,5,91,.555,-0.09,-0.09,1st,Lost Stanley Cup Finals,P. Maurice
+CAR,http://www.hockey-reference.com/teams/CAR/2001.html,2000-01,NHL,Carolina Hurricanes,82,38,32,9,3,88,.537,-0.24,-0.08,2nd,Lost NHL Conference Quarter-Finals,P. Maurice
+CAR,http://www.hockey-reference.com/teams/CAR/2000.html,1999-00,NHL,Carolina Hurricanes,82,37,35,10,0,84,.512,-0.10,-0.11,3rd,,P. Maurice
+CAR,http://www.hockey-reference.com/teams/CAR/1999.html,1998-99,NHL,Carolina Hurricanes,82,34,30,18,,86,.524,0.10,0.00,1st,Lost NHL Conference Quarter-Finals,P. Maurice
+CAR,http://www.hockey-reference.com/teams/CAR/1998.html,1997-98,NHL,Carolina Hurricanes,82,33,41,8,,74,.451,-0.20,0.04,6th,,P. Maurice
+CAR,http://www.hockey-reference.com/teams/HAR/1997.html,1996-97,NHL,Hartford Whalers,82,32,39,11,,75,.457,-0.37,0.00,5th,,P. Maurice
+CAR,http://www.hockey-reference.com/teams/HAR/1996.html,1995-96,NHL,Hartford Whalers,82,34,39,9,,77,.470,-0.22,0.05,4th,,P. Holmgren,P. Maurice
+CAR,http://www.hockey-reference.com/teams/HAR/1995.html,1994-95,NHL,Hartford Whalers,48,19,24,5,,43,.448,-0.27,0.02,5th,,P. Holmgren
+CAR,http://www.hockey-reference.com/teams/HAR/1994.html,1993-94,NHL,Hartford Whalers,84,27,48,9,,63,.375,-0.68,0.04,6th,,P. Holmgren,P. McGuire
+CAR,http://www.hockey-reference.com/teams/HAR/1993.html,1992-93,NHL,Hartford Whalers,84,26,52,6,,58,.345,-0.93,0.08,5th,,P. Holmgren
+CAR,http://www.hockey-reference.com/teams/HAR/1992.html,1991-92,NHL,Hartford Whalers,80,26,41,13,,65,.406,-0.45,0.00,4th,Lost NHL Division Semi-Finals,J. Roberts
+CAR,http://www.hockey-reference.com/teams/HAR/1991.html,1990-91,NHL,Hartford Whalers,80,31,38,11,,73,.456,-0.51,-0.03,4th,Lost NHL Division Semi-Finals,R. Ley
+CAR,http://www.hockey-reference.com/teams/HAR/1990.html,1989-90,NHL,Hartford Whalers,80,38,33,9,,85,.531,0.07,-0.02,4th,Lost NHL Division Semi-Finals,R. Ley
+CAR,http://www.hockey-reference.com/teams/HAR/1989.html,1988-89,NHL,Hartford Whalers,80,37,38,5,,79,.494,0.16,0.04,4th,Lost NHL Division Semi-Finals,L. Pleau
+CAR,http://www.hockey-reference.com/teams/HAR/1988.html,1987-88,NHL,Hartford Whalers,80,35,38,7,,77,.481,-0.17,0.05,4th,Lost NHL Division Semi-Finals,J. Evans,L. Pleau
+CAR,http://www.hockey-reference.com/teams/HAR/1987.html,1986-87,NHL,Hartford Whalers,80,43,30,7,,93,.581,0.23,0.02,1st,Lost NHL Division Semi-Finals,J. Evans
+CAR,http://www.hockey-reference.com/teams/HAR/1986.html,1985-86,NHL,Hartford Whalers,80,40,36,4,,84,.525,0.48,0.10,4th,Lost NHL Division Finals,J. Evans
+CAR,http://www.hockey-reference.com/teams/HAR/1985.html,1984-85,NHL,Hartford Whalers,80,30,41,9,,69,.431,-0.47,0.16,5th,,J. Evans
+CAR,http://www.hockey-reference.com/teams/HAR/1984.html,1983-84,NHL,Hartford Whalers,80,28,42,10,,66,.413,-0.21,0.19,5th,,J. Evans
+CAR,http://www.hockey-reference.com/teams/HAR/1983.html,1982-83,NHL,Hartford Whalers,80,19,54,7,,45,.281,-1.56,0.22,5th,,L. Kish,L. Pleau,J. Cunniff
+CAR,http://www.hockey-reference.com/teams/HAR/1982.html,1981-82,NHL,Hartford Whalers,80,21,41,18,,60,.375,-0.87,0.22,5th,,L. Pleau
+CAR,http://www.hockey-reference.com/teams/HAR/1981.html,1980-81,NHL,Hartford Whalers,80,21,41,18,,60,.375,-0.95,0.05,4th,,D. Blackburn,L. Pleau
+CAR,http://www.hockey-reference.com/teams/HAR/1980.html,1979-80,NHL,Hartford Whalers,80,27,34,19,,73,.456,-0.11,0.01,4th,Lost NHL Preliminary Round,D. Blackburn

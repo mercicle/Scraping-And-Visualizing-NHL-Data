@@ -1,0 +1,20 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+OTT,http://www.hockey-reference.com/teams/OTT/2012.html,2011-12,NHL,Ottawa Senators,82,41,31,,10,92,.561,0.09,-0.02,2nd,Lost NHL Conference Quarter-Finals,P. MacLean
+OTT,http://www.hockey-reference.com/teams/OTT/2011.html,2010-11,NHL,Ottawa Senators,82,32,40,,10,74,.451,-0.69,0.02,5th,,C. Clouston
+OTT,http://www.hockey-reference.com/teams/OTT/2010.html,2009-10,NHL,Ottawa Senators,82,44,32,,6,94,.573,-0.22,-0.06,2nd,Lost NHL Conference Quarter-Finals,C. Clouston
+OTT,http://www.hockey-reference.com/teams/OTT/2009.html,2008-09,NHL,Ottawa Senators,82,36,35,,11,83,.506,-0.23,0.01,4th,,C. Hartsburg,C. Clouston
+OTT,http://www.hockey-reference.com/teams/OTT/2008.html,2007-08,NHL,Ottawa Senators,82,43,31,,8,94,.573,0.06,-0.11,2nd,Lost NHL Conference Quarter-Finals,J. Paddock,B. Murray
+OTT,http://www.hockey-reference.com/teams/OTT/2007.html,2006-07,NHL,Ottawa Senators,82,48,25,,9,105,.640,0.64,-0.16,2nd,Lost Stanley Cup Finals,B. Murray
+OTT,http://www.hockey-reference.com/teams/OTT/2006.html,2005-06,NHL,Ottawa Senators,82,52,21,,9,113,.689,1.18,-0.08,1st,Lost NHL Conference Semi-Finals,B. Murray
+OTT,http://www.hockey-reference.com/teams/OTT/2004.html,2003-04,NHL,Ottawa Senators,82,43,23,10,6,102,.622,0.88,-0.01,3rd,Lost NHL Conference Quarter-Finals,J. Martin
+OTT,http://www.hockey-reference.com/teams/OTT/2003.html,2002-03,NHL,Ottawa Senators,82,52,21,8,1,113,.689,0.88,-0.11,1st,Lost NHL Conference Finals,J. Martin
+OTT,http://www.hockey-reference.com/teams/OTT/2002.html,2001-02,NHL,Ottawa Senators,82,39,27,9,7,94,.573,0.36,-0.07,3rd,Lost NHL Conference Semi-Finals,J. Martin,R. Neilson
+OTT,http://www.hockey-reference.com/teams/OTT/2001.html,2000-01,NHL,Ottawa Senators,82,48,21,9,4,109,.665,0.74,-0.10,1st,Lost NHL Conference Quarter-Finals,J. Martin
+OTT,http://www.hockey-reference.com/teams/OTT/2000.html,1999-00,NHL,Ottawa Senators,82,41,28,11,2,95,.579,0.30,-0.12,2nd,Lost NHL Conference Quarter-Finals,J. Martin
+OTT,http://www.hockey-reference.com/teams/OTT/1999.html,1998-99,NHL,Ottawa Senators,82,44,23,15,,103,.628,0.73,0.00,1st,Lost NHL Conference Quarter-Finals,J. Martin
+OTT,http://www.hockey-reference.com/teams/OTT/1998.html,1997-98,NHL,Ottawa Senators,82,34,33,15,,83,.506,-0.06,0.02,5th,Lost NHL Conference Semi-Finals,J. Martin
+OTT,http://www.hockey-reference.com/teams/OTT/1997.html,1996-97,NHL,Ottawa Senators,82,31,36,15,,77,.470,-0.11,-0.02,3rd,Lost NHL Conference Quarter-Finals,J. Martin
+OTT,http://www.hockey-reference.com/teams/OTT/1996.html,1995-96,NHL,Ottawa Senators,82,18,59,5,,41,.250,-1.12,0.10,6th,,R. Bowness,D. Allison,J. Martin
+OTT,http://www.hockey-reference.com/teams/OTT/1995.html,1994-95,NHL,Ottawa Senators,48,9,34,5,,23,.240,-1.12,0.07,7th,,R. Bowness
+OTT,http://www.hockey-reference.com/teams/OTT/1994.html,1993-94,NHL,Ottawa Senators,84,14,61,9,,37,.220,-2.22,0.12,7th,,R. Bowness
+OTT,http://www.hockey-reference.com/teams/OTT/1993.html,1992-93,NHL,Ottawa Senators,84,10,70,4,,24,.143,-2.10,0.20,6th,,R. Bowness

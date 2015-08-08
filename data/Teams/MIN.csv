@@ -1,0 +1,12 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+MIN,http://www.hockey-reference.com/teams/MIN/2012.html,2011-12,NHL,Minnesota Wild,82,35,36,,11,81,.494,-0.58,0.02,4th,,M. Yeo
+MIN,http://www.hockey-reference.com/teams/MIN/2011.html,2010-11,NHL,Minnesota Wild,82,39,35,,8,86,.524,-0.30,0.03,3rd,,T. Richards
+MIN,http://www.hockey-reference.com/teams/MIN/2010.html,2009-10,NHL,Minnesota Wild,82,38,36,,8,84,.512,-0.26,0.07,4th,,T. Richards
+MIN,http://www.hockey-reference.com/teams/MIN/2009.html,2008-09,NHL,Minnesota Wild,82,40,33,,9,89,.543,0.22,-0.02,3rd,,J. Lemaire
+MIN,http://www.hockey-reference.com/teams/MIN/2008.html,2007-08,NHL,Minnesota Wild,82,44,28,,10,98,.598,0.16,0.10,1st,Lost NHL Conference Quarter-Finals,J. Lemaire
+MIN,http://www.hockey-reference.com/teams/MIN/2007.html,2006-07,NHL,Minnesota Wild,82,48,26,,8,104,.634,0.65,0.11,2nd,Lost NHL Conference Quarter-Finals,J. Lemaire
+MIN,http://www.hockey-reference.com/teams/MIN/2006.html,2005-06,NHL,Minnesota Wild,82,38,36,,8,84,.512,0.28,0.08,5th,,J. Lemaire
+MIN,http://www.hockey-reference.com/teams/MIN/2004.html,2003-04,NHL,Minnesota Wild,82,30,29,20,3,83,.506,0.08,0.02,5th,,J. Lemaire
+MIN,http://www.hockey-reference.com/teams/MIN/2003.html,2002-03,NHL,Minnesota Wild,82,42,29,10,1,95,.579,0.32,0.08,3rd,Lost NHL Conference Finals,J. Lemaire
+MIN,http://www.hockey-reference.com/teams/MIN/2002.html,2001-02,NHL,Minnesota Wild,82,26,35,12,9,73,.445,-0.41,0.11,5th,,J. Lemaire
+MIN,http://www.hockey-reference.com/teams/MIN/2001.html,2000-01,NHL,Minnesota Wild,82,25,39,13,5,68,.415,-0.42,0.09,5th,,J. Lemaire

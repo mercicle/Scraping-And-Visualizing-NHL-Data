@@ -1,0 +1,45 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+PHI,http://www.hockey-reference.com/teams/PHI/2012.html,2011-12,NHL,Philadelphia Flyers,82,47,26,,9,103,.628,0.39,0.00,3rd,Lost NHL Conference Semi-Finals,P. Laviolette
+PHI,http://www.hockey-reference.com/teams/PHI/2011.html,2010-11,NHL,Philadelphia Flyers,82,47,23,,12,106,.646,0.40,-0.04,1st,Lost NHL Conference Semi-Finals,P. Laviolette
+PHI,http://www.hockey-reference.com/teams/PHI/2010.html,2009-10,NHL,Philadelphia Flyers,82,41,35,,6,88,.537,0.08,-0.06,3rd,Lost Stanley Cup Finals,J. Stevens,P. Laviolette
+PHI,http://www.hockey-reference.com/teams/PHI/2009.html,2008-09,NHL,Philadelphia Flyers,82,44,27,,11,99,.604,0.28,-0.04,3rd,Lost NHL Conference Quarter-Finals,J. Stevens
+PHI,http://www.hockey-reference.com/teams/PHI/2008.html,2007-08,NHL,Philadelphia Flyers,82,42,29,,11,95,.579,0.06,-0.12,4th,Lost NHL Conference Finals,J. Stevens
+PHI,http://www.hockey-reference.com/teams/PHI/2007.html,2006-07,NHL,Philadelphia Flyers,82,22,48,,12,56,.341,-1.12,-0.04,5th,,K. Hitchcock,J. Stevens
+PHI,http://www.hockey-reference.com/teams/PHI/2006.html,2005-06,NHL,Philadelphia Flyers,82,45,26,,11,101,.616,0.00,-0.10,2nd,Lost NHL Conference Quarter-Finals,K. Hitchcock
+PHI,http://www.hockey-reference.com/teams/PHI/2004.html,2003-04,NHL,Philadelphia Flyers,82,40,21,15,6,101,.616,0.47,-0.05,1st,Lost NHL Conference Finals,K. Hitchcock
+PHI,http://www.hockey-reference.com/teams/PHI/2003.html,2002-03,NHL,Philadelphia Flyers,82,45,20,13,4,107,.652,0.43,-0.12,2nd,Lost NHL Conference Semi-Finals,K. Hitchcock
+PHI,http://www.hockey-reference.com/teams/PHI/2002.html,2001-02,NHL,Philadelphia Flyers,82,42,27,10,3,97,.591,0.41,-0.11,1st,Lost NHL Conference Quarter-Finals,B. Barber
+PHI,http://www.hockey-reference.com/teams/PHI/2001.html,2000-01,NHL,Philadelphia Flyers,82,43,25,11,3,100,.610,0.33,-0.07,2nd,Lost NHL Conference Quarter-Finals,C. Ramsay,B. Barber
+PHI,http://www.hockey-reference.com/teams/PHI/2000.html,1999-00,NHL,Philadelphia Flyers,82,45,22,12,3,105,.640,0.58,-0.13,1st,Lost NHL Conference Finals,R. Neilson
+PHI,http://www.hockey-reference.com/teams/PHI/1999.html,1998-99,NHL,Philadelphia Flyers,82,37,26,19,,93,.567,0.43,0.00,2nd,Lost NHL Conference Quarter-Finals,R. Neilson
+PHI,http://www.hockey-reference.com/teams/PHI/1998.html,1997-98,NHL,Philadelphia Flyers,82,42,29,11,,95,.579,0.53,-0.07,2nd,Lost NHL Conference Quarter-Finals,W. Cashman,R. Neilson
+PHI,http://www.hockey-reference.com/teams/PHI/1997.html,1996-97,NHL,Philadelphia Flyers,82,45,24,13,,103,.628,0.67,-0.03,2nd,Lost Stanley Cup Finals,T. Murray
+PHI,http://www.hockey-reference.com/teams/PHI/1996.html,1995-96,NHL,Philadelphia Flyers,82,45,24,13,,103,.628,0.88,-0.03,1st,Lost NHL Conference Semi-Finals,T. Murray
+PHI,http://www.hockey-reference.com/teams/PHI/1995.html,1994-95,NHL,Philadelphia Flyers,48,28,16,4,,60,.625,0.36,-0.01,1st,Lost NHL Conference Finals,T. Murray
+PHI,http://www.hockey-reference.com/teams/PHI/1994.html,1993-94,NHL,Philadelphia Flyers,84,35,39,10,,80,.476,-0.19,0.05,6th,,T. Simpson
+PHI,http://www.hockey-reference.com/teams/PHI/1993.html,1992-93,NHL,Philadelphia Flyers,84,36,37,11,,83,.494,0.20,0.20,5th,,B. Dineen
+PHI,http://www.hockey-reference.com/teams/PHI/1992.html,1991-92,NHL,Philadelphia Flyers,80,32,37,11,,75,.469,-0.13,0.13,6th,,P. Holmgren,B. Dineen
+PHI,http://www.hockey-reference.com/teams/PHI/1991.html,1990-91,NHL,Philadelphia Flyers,80,33,37,10,,76,.475,-0.18,0.01,5th,,P. Holmgren
+PHI,http://www.hockey-reference.com/teams/PHI/1990.html,1989-90,NHL,Philadelphia Flyers,80,30,39,11,,71,.444,-0.10,-0.01,6th,,P. Holmgren
+PHI,http://www.hockey-reference.com/teams/PHI/1989.html,1988-89,NHL,Philadelphia Flyers,80,36,36,8,,80,.500,0.23,-0.05,4th,Lost NHL Conference Finals,P. Holmgren
+PHI,http://www.hockey-reference.com/teams/PHI/1988.html,1987-88,NHL,Philadelphia Flyers,80,38,33,9,,85,.531,0.07,0.07,3rd,Lost NHL Division Semi-Finals,M. Keenan
+PHI,http://www.hockey-reference.com/teams/PHI/1987.html,1986-87,NHL,Philadelphia Flyers,80,46,26,8,,100,.625,0.74,-0.08,1st,Lost Stanley Cup Finals,M. Keenan
+PHI,http://www.hockey-reference.com/teams/PHI/1986.html,1985-86,NHL,Philadelphia Flyers,80,53,23,4,,110,.688,1.17,-0.01,1st,Lost NHL Division Semi-Finals,M. Keenan
+PHI,http://www.hockey-reference.com/teams/PHI/1985.html,1984-85,NHL,Philadelphia Flyers,80,53,20,7,,113,.706,1.22,-0.12,1st,Lost Stanley Cup Finals,M. Keenan
+PHI,http://www.hockey-reference.com/teams/PHI/1984.html,1983-84,NHL,Philadelphia Flyers,80,44,26,10,,98,.613,0.68,-0.07,3rd,Lost NHL Division Semi-Finals,B. McCammon
+PHI,http://www.hockey-reference.com/teams/PHI/1983.html,1982-83,NHL,Philadelphia Flyers,80,49,23,8,,106,.663,0.96,-0.12,1st,Lost NHL Division Semi-Finals,B. McCammon
+PHI,http://www.hockey-reference.com/teams/PHI/1982.html,1981-82,NHL,Philadelphia Flyers,80,38,31,11,,87,.544,0.24,0.09,3rd,Lost NHL Division Semi-Finals,P. Quinn,B. McCammon
+PHI,http://www.hockey-reference.com/teams/PHI/1981.html,1980-81,NHL,Philadelphia Flyers,80,41,24,15,,97,.606,0.76,-0.04,2nd,Lost NHL Quarter-Finals,P. Quinn
+PHI,http://www.hockey-reference.com/teams/PHI/1980.html,1979-80,NHL,Philadelphia Flyers,80,48,12,20,,116,.725,0.87,-0.04,1st,Lost Stanley Cup Finals,P. Quinn
+PHI,http://www.hockey-reference.com/teams/PHI/1979.html,1978-79,NHL,Philadelphia Flyers,80,40,25,15,,95,.594,0.52,0.11,2nd,Lost NHL Quarter-Finals,B. McCammon,P. Quinn
+PHI,http://www.hockey-reference.com/teams/PHI/1978.html,1977-78,NHL,Philadelphia Flyers,80,45,20,15,,105,.656,1.12,-0.08,2nd,Lost NHL Semi-Finals,F. Shero
+PHI,http://www.hockey-reference.com/teams/PHI/1977.html,1976-77,NHL,Philadelphia Flyers,80,48,16,16,,112,.700,1.27,-0.10,1st,Lost NHL Semi-Finals,F. Shero
+PHI,http://www.hockey-reference.com/teams/PHI/1976.html,1975-76,NHL,Philadelphia Flyers,80,51,13,16,,118,.738,1.62,-0.12,1st,Lost Stanley Cup Finals,F. Shero
+PHI,http://www.hockey-reference.com/teams/PHI/1975.html,1974-75,NHL,Philadelphia Flyers,80,51,18,11,,113,.706,1.32,-0.08,1st,<strong>Won Stanley Cup Finals</strong>,F. Shero
+PHI,http://www.hockey-reference.com/teams/PHI/1974.html,1973-74,NHL,Philadelphia Flyers,78,50,16,12,,112,.718,1.30,-0.10,1st,<strong>Won Stanley Cup Finals</strong>,F. Shero
+PHI,http://www.hockey-reference.com/teams/PHI/1973.html,1972-73,NHL,Philadelphia Flyers,78,37,30,11,,85,.545,0.46,-0.05,2nd,Lost NHL Semi-Finals,F. Shero
+PHI,http://www.hockey-reference.com/teams/PHI/1972.html,1971-72,NHL,Philadelphia Flyers,78,26,38,14,,66,.423,-0.43,0.03,5th,,F. Shero
+PHI,http://www.hockey-reference.com/teams/PHI/1971.html,1970-71,NHL,Philadelphia Flyers,78,28,33,17,,73,.468,-0.22,0.02,3rd,Lost NHL Quarter-Finals,V. Stasiuk
+PHI,http://www.hockey-reference.com/teams/PHI/1970.html,1969-70,NHL,Philadelphia Flyers,76,17,35,24,,58,.382,-0.42,-0.05,5th,,V. Stasiuk
+PHI,http://www.hockey-reference.com/teams/PHI/1969.html,1968-69,NHL,Philadelphia Flyers,76,20,35,21,,61,.401,-0.69,-0.02,3rd,Lost NHL Quarter-Finals,K. Allen
+PHI,http://www.hockey-reference.com/teams/PHI/1968.html,1967-68,NHL,Philadelphia Flyers,74,31,32,11,,73,.493,-0.32,-0.24,1st,Lost NHL Quarter-Finals,K. Allen

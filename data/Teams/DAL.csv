@@ -1,0 +1,45 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+DAL,http://www.hockey-reference.com/teams/DAL/2012.html,2011-12,NHL,Dallas Stars,82,42,35,,5,89,.543,-0.10,0.03,4th,,G. Gulutzan
+DAL,http://www.hockey-reference.com/teams/DAL/2011.html,2010-11,NHL,Dallas Stars,82,42,29,,11,95,.579,-0.02,0.05,5th,,M. Crawford
+DAL,http://www.hockey-reference.com/teams/DAL/2010.html,2009-10,NHL,Dallas Stars,82,37,31,,14,88,.537,-0.12,0.09,5th,,M. Crawford
+DAL,http://www.hockey-reference.com/teams/DAL/2009.html,2008-09,NHL,Dallas Stars,82,36,35,,11,83,.506,-0.30,0.03,3rd,,D. Tippett
+DAL,http://www.hockey-reference.com/teams/DAL/2008.html,2007-08,NHL,Dallas Stars,82,45,30,,7,97,.591,0.54,0.11,3rd,Lost NHL Conference Finals,D. Tippett
+DAL,http://www.hockey-reference.com/teams/DAL/2007.html,2006-07,NHL,Dallas Stars,82,50,25,,7,107,.652,0.44,0.08,3rd,Lost NHL Conference Quarter-Finals,D. Tippett
+DAL,http://www.hockey-reference.com/teams/DAL/2006.html,2005-06,NHL,Dallas Stars,82,53,23,,6,112,.683,0.61,0.04,1st,Lost NHL Conference Quarter-Finals,D. Tippett
+DAL,http://www.hockey-reference.com/teams/DAL/2004.html,2003-04,NHL,Dallas Stars,82,41,26,13,2,97,.591,0.22,-0.01,2nd,Lost NHL Conference Quarter-Finals,D. Tippett
+DAL,http://www.hockey-reference.com/teams/DAL/2003.html,2002-03,NHL,Dallas Stars,82,46,17,15,4,111,.677,0.94,0.01,1st,Lost NHL Conference Semi-Finals,D. Tippett
+DAL,http://www.hockey-reference.com/teams/DAL/2002.html,2001-02,NHL,Dallas Stars,82,36,28,13,5,90,.549,0.09,0.07,4th,,K. Hitchcock,R. Wilson
+DAL,http://www.hockey-reference.com/teams/DAL/2001.html,2000-01,NHL,Dallas Stars,82,48,24,8,2,106,.646,0.68,0.02,1st,Lost NHL Conference Semi-Finals,K. Hitchcock
+DAL,http://www.hockey-reference.com/teams/DAL/2000.html,1999-00,NHL,Dallas Stars,82,43,23,10,6,102,.622,0.41,0.08,1st,Lost Stanley Cup Finals,K. Hitchcock
+DAL,http://www.hockey-reference.com/teams/DAL/1999.html,1998-99,NHL,Dallas Stars,82,51,19,12,,114,.695,0.76,-0.07,1st,<strong>Won Stanley Cup Finals</strong>,K. Hitchcock
+DAL,http://www.hockey-reference.com/teams/DAL/1998.html,1997-98,NHL,Dallas Stars,82,49,22,11,,109,.665,0.88,-0.03,1st,Lost NHL Conference Finals,K. Hitchcock
+DAL,http://www.hockey-reference.com/teams/DAL/1997.html,1996-97,NHL,Dallas Stars,82,48,26,8,,104,.634,0.64,-0.02,1st,Lost NHL Conference Quarter-Finals,K. Hitchcock
+DAL,http://www.hockey-reference.com/teams/DAL/1996.html,1995-96,NHL,Dallas Stars,82,26,42,14,,66,.402,-0.60,0.05,6th,,B. Gainey,K. Hitchcock
+DAL,http://www.hockey-reference.com/teams/DAL/1995.html,1994-95,NHL,Dallas Stars,48,17,23,8,,42,.438,0.07,0.05,5th,Lost NHL Conference Quarter-Finals,B. Gainey
+DAL,http://www.hockey-reference.com/teams/DAL/1994.html,1993-94,NHL,Dallas Stars,84,42,29,13,,97,.577,0.20,-0.05,3rd,Lost NHL Conference Semi-Finals,B. Gainey
+DAL,http://www.hockey-reference.com/teams/MNS/1993.html,1992-93,NHL,Minnesota North Stars,84,36,38,10,,82,.488,-0.21,0.04,5th,,B. Gainey
+DAL,http://www.hockey-reference.com/teams/MNS/1992.html,1991-92,NHL,Minnesota North Stars,80,32,42,6,,70,.438,-0.37,0.04,4th,Lost NHL Division Semi-Finals,B. Gainey
+DAL,http://www.hockey-reference.com/teams/MNS/1991.html,1990-91,NHL,Minnesota North Stars,80,27,39,14,,68,.425,-0.10,0.03,4th,Lost Stanley Cup Finals,B. Gainey
+DAL,http://www.hockey-reference.com/teams/MNS/1990.html,1989-90,NHL,Minnesota North Stars,80,36,40,4,,76,.475,-0.10,-0.02,4th,Lost NHL Division Semi-Finals,P. Page
+DAL,http://www.hockey-reference.com/teams/MNS/1989.html,1988-89,NHL,Minnesota North Stars,80,27,37,16,,70,.438,-0.37,-0.12,3rd,Lost NHL Division Semi-Finals,P. Page
+DAL,http://www.hockey-reference.com/teams/MNS/1988.html,1987-88,NHL,Minnesota North Stars,80,19,48,13,,51,.319,-1.38,-0.05,5th,,H. Brooks
+DAL,http://www.hockey-reference.com/teams/MNS/1987.html,1986-87,NHL,Minnesota North Stars,80,30,40,10,,70,.438,-0.29,-0.07,5th,,L. Henning,G. Sonmor
+DAL,http://www.hockey-reference.com/teams/MNS/1986.html,1985-86,NHL,Minnesota North Stars,80,38,33,9,,85,.531,0.08,-0.20,2nd,Lost NHL Division Semi-Finals,L. Henning
+DAL,http://www.hockey-reference.com/teams/MNS/1985.html,1984-85,NHL,Minnesota North Stars,80,25,43,12,,62,.388,-0.77,-0.10,4th,Lost NHL Division Finals,B. Mahoney,G. Sonmor
+DAL,http://www.hockey-reference.com/teams/MNS/1984.html,1983-84,NHL,Minnesota North Stars,80,39,31,10,,88,.550,-0.14,-0.15,1st,Lost NHL Conference Finals,B. Mahoney
+DAL,http://www.hockey-reference.com/teams/MNS/1983.html,1982-83,NHL,Minnesota North Stars,80,40,24,16,,96,.600,0.31,-0.08,2nd,Lost NHL Division Finals,G. Sonmor,M. Oliver
+DAL,http://www.hockey-reference.com/teams/MNS/1982.html,1981-82,NHL,Minnesota North Stars,80,37,23,20,,94,.588,0.53,-0.19,1st,Lost NHL Division Semi-Finals,G. Sonmor
+DAL,http://www.hockey-reference.com/teams/MNS/1981.html,1980-81,NHL,Minnesota North Stars,80,35,28,17,,87,.544,0.33,-0.02,3rd,Lost Stanley Cup Finals,G. Sonmor
+DAL,http://www.hockey-reference.com/teams/MNS/1980.html,1979-80,NHL,Minnesota North Stars,80,36,28,16,,88,.550,0.69,-0.04,3rd,Lost NHL Semi-Finals,G. Sonmor
+DAL,http://www.hockey-reference.com/teams/MNS/1979.html,1978-79,NHL,Minnesota North Stars,80,28,40,12,,68,.425,-0.40,0.00,4th,,H. Howell,G. Sonmor
+DAL,http://www.hockey-reference.com/teams/MNS/1978.html,1977-78,NHL,Minnesota North Stars,80,18,53,9,,45,.281,-1.31,0.03,5th,,T. Harris,A. Beaulieu,L. Nanne
+DAL,http://www.hockey-reference.com/teams/MNS/1977.html,1976-77,NHL,Minnesota North Stars,80,23,39,18,,64,.400,-0.88,-0.01,2nd,Lost NHL Preliminary Round,T. Harris
+DAL,http://www.hockey-reference.com/teams/MNS/1976.html,1975-76,NHL,Minnesota North Stars,80,20,53,7,,47,.294,-1.32,0.03,4th,,T. Harris
+DAL,http://www.hockey-reference.com/teams/MNS/1975.html,1974-75,NHL,Minnesota North Stars,80,23,50,7,,53,.331,-1.43,0.07,4th,,J. Gordon,C. Burns
+DAL,http://www.hockey-reference.com/teams/MNS/1974.html,1973-74,NHL,Minnesota North Stars,78,23,38,17,,63,.404,-0.49,0.03,7th,,J. Gordon,P. MacDonald
+DAL,http://www.hockey-reference.com/teams/MNS/1973.html,1972-73,NHL,Minnesota North Stars,78,37,30,11,,85,.545,0.29,-0.02,3rd,Lost NHL Quarter-Finals,J. Gordon
+DAL,http://www.hockey-reference.com/teams/MNS/1972.html,1971-72,NHL,Minnesota North Stars,78,37,29,12,,86,.551,0.25,-0.02,2nd,Lost NHL Quarter-Finals,J. Gordon
+DAL,http://www.hockey-reference.com/teams/MNS/1971.html,1970-71,NHL,Minnesota North Stars,78,28,34,16,,72,.462,-0.38,0.03,4th,Lost NHL Semi-Finals,J. Gordon
+DAL,http://www.hockey-reference.com/teams/MNS/1970.html,1969-70,NHL,Minnesota North Stars,76,19,35,22,,60,.395,-0.48,-0.05,3rd,Lost NHL Quarter-Finals,W. Blair,C. Burns
+DAL,http://www.hockey-reference.com/teams/MNS/1969.html,1968-69,NHL,Minnesota North Stars,76,18,43,15,,51,.336,-1.05,0.02,6th,,W. Blair,J. Muckler
+DAL,http://www.hockey-reference.com/teams/MNS/1968.html,1967-68,NHL,Minnesota North Stars,74,27,32,15,,69,.466,-0.66,-0.19,4th,Lost NHL Semi-Finals,W. Blair

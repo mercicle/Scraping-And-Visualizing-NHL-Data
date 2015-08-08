@@ -1,0 +1,95 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+TOR,http://www.hockey-reference.com/teams/TOR/2012.html,2011-12,NHL,Toronto Maple Leafs,82,35,37,,10,80,.488,-0.38,0.02,4th,,R. Wilson,R. Carlyle
+TOR,http://www.hockey-reference.com/teams/TOR/2011.html,2010-11,NHL,Toronto Maple Leafs,82,37,34,,11,85,.518,-0.41,0.00,4th,,R. Wilson
+TOR,http://www.hockey-reference.com/teams/TOR/2010.html,2009-10,NHL,Toronto Maple Leafs,82,30,38,,14,74,.451,-0.68,-0.03,5th,,R. Wilson
+TOR,http://www.hockey-reference.com/teams/TOR/2009.html,2008-09,NHL,Toronto Maple Leafs,82,34,35,,13,81,.494,-0.49,0.03,5th,,R. Wilson
+TOR,http://www.hockey-reference.com/teams/TOR/2008.html,2007-08,NHL,Toronto Maple Leafs,82,36,35,,11,83,.506,-0.42,-0.06,5th,,P. Maurice
+TOR,http://www.hockey-reference.com/teams/TOR/2007.html,2006-07,NHL,Toronto Maple Leafs,82,40,31,,11,91,.555,-0.21,-0.08,3rd,,P. Maurice
+TOR,http://www.hockey-reference.com/teams/TOR/2006.html,2005-06,NHL,Toronto Maple Leafs,82,41,33,,8,90,.549,-0.11,0.05,4th,,P. Quinn
+TOR,http://www.hockey-reference.com/teams/TOR/2004.html,2003-04,NHL,Toronto Maple Leafs,82,45,24,10,3,103,.628,0.48,0.02,2nd,Lost NHL Conference Semi-Finals,P. Quinn
+TOR,http://www.hockey-reference.com/teams/TOR/2003.html,2002-03,NHL,Toronto Maple Leafs,82,44,28,7,3,98,.598,0.26,-0.08,2nd,Lost NHL Conference Quarter-Finals,P. Quinn
+TOR,http://www.hockey-reference.com/teams/TOR/2002.html,2001-02,NHL,Toronto Maple Leafs,82,43,25,10,4,100,.610,0.44,-0.08,2nd,Lost NHL Conference Finals,P. Quinn
+TOR,http://www.hockey-reference.com/teams/TOR/2001.html,2000-01,NHL,Toronto Maple Leafs,82,37,29,11,5,90,.549,0.25,-0.05,3rd,Lost NHL Conference Semi-Finals,P. Quinn
+TOR,http://www.hockey-reference.com/teams/TOR/2000.html,1999-00,NHL,Toronto Maple Leafs,82,45,27,7,3,100,.610,0.25,-0.05,1st,Lost NHL Conference Semi-Finals,P. Quinn
+TOR,http://www.hockey-reference.com/teams/TOR/1999.html,1998-99,NHL,Toronto Maple Leafs,82,45,30,7,,97,.591,0.46,0.01,2nd,Lost NHL Conference Finals,P. Quinn
+TOR,http://www.hockey-reference.com/teams/TOR/1998.html,1997-98,NHL,Toronto Maple Leafs,82,30,43,9,,69,.421,-0.46,0.07,6th,,M. Murphy
+TOR,http://www.hockey-reference.com/teams/TOR/1997.html,1996-97,NHL,Toronto Maple Leafs,82,30,44,8,,68,.415,-0.48,0.05,6th,,M. Murphy
+TOR,http://www.hockey-reference.com/teams/TOR/1996.html,1995-96,NHL,Toronto Maple Leafs,82,34,36,12,,80,.488,-0.07,0.00,3rd,Lost NHL Conference Quarter-Finals,P. Burns,N. Beverley
+TOR,http://www.hockey-reference.com/teams/TOR/1995.html,1994-95,NHL,Toronto Maple Leafs,48,21,19,8,,50,.521,-0.19,0.04,4th,Lost NHL Conference Quarter-Finals,P. Burns
+TOR,http://www.hockey-reference.com/teams/TOR/1994.html,1993-94,NHL,Toronto Maple Leafs,84,43,29,12,,98,.583,0.41,-0.03,2nd,Lost NHL Conference Finals,P. Burns
+TOR,http://www.hockey-reference.com/teams/TOR/1993.html,1992-93,NHL,Toronto Maple Leafs,84,44,29,11,,99,.589,0.47,-0.09,3rd,Lost NHL Conference Finals,P. Burns
+TOR,http://www.hockey-reference.com/teams/TOR/1992.html,1991-92,NHL,Toronto Maple Leafs,80,30,43,7,,67,.419,-0.68,0.07,5th,,T. Watt
+TOR,http://www.hockey-reference.com/teams/TOR/1991.html,1990-91,NHL,Toronto Maple Leafs,80,23,46,11,,57,.356,-0.86,0.11,5th,,D. Carpenter,T. Watt
+TOR,http://www.hockey-reference.com/teams/TOR/1990.html,1989-90,NHL,Toronto Maple Leafs,80,38,38,4,,80,.500,-0.26,0.00,3rd,Lost NHL Division Semi-Finals,D. Carpenter
+TOR,http://www.hockey-reference.com/teams/TOR/1989.html,1988-89,NHL,Toronto Maple Leafs,80,28,46,6,,62,.388,-1.08,-0.05,5th,,J. Brophy,G. Armstrong
+TOR,http://www.hockey-reference.com/teams/TOR/1988.html,1987-88,NHL,Toronto Maple Leafs,80,21,49,10,,52,.325,-0.99,-0.09,4th,Lost NHL Division Semi-Finals,J. Brophy
+TOR,http://www.hockey-reference.com/teams/TOR/1987.html,1986-87,NHL,Toronto Maple Leafs,80,32,42,6,,70,.438,-0.46,-0.05,4th,Lost NHL Division Finals,J. Brophy
+TOR,http://www.hockey-reference.com/teams/TOR/1986.html,1985-86,NHL,Toronto Maple Leafs,80,25,48,7,,57,.356,-1.02,-0.09,4th,Lost NHL Division Finals,D. Maloney
+TOR,http://www.hockey-reference.com/teams/TOR/1985.html,1984-85,NHL,Toronto Maple Leafs,80,20,52,8,,48,.300,-1.36,-0.04,5th,,D. Maloney
+TOR,http://www.hockey-reference.com/teams/TOR/1984.html,1983-84,NHL,Toronto Maple Leafs,80,26,45,9,,61,.381,-1.10,-0.05,5th,,M. Nykoluk
+TOR,http://www.hockey-reference.com/teams/TOR/1983.html,1982-83,NHL,Toronto Maple Leafs,80,28,40,12,,68,.425,-0.46,0.00,3rd,Lost NHL Division Semi-Finals,M. Nykoluk
+TOR,http://www.hockey-reference.com/teams/TOR/1982.html,1981-82,NHL,Toronto Maple Leafs,80,20,44,16,,56,.350,-1.08,-0.05,5th,,M. Nykoluk
+TOR,http://www.hockey-reference.com/teams/TOR/1981.html,1980-81,NHL,Toronto Maple Leafs,80,28,37,15,,71,.444,-0.54,0.03,5th,Lost NHL Preliminary Round,J. Crozier,M. Nykoluk
+TOR,http://www.hockey-reference.com/teams/TOR/1980.html,1979-80,NHL,Toronto Maple Leafs,80,35,40,5,,75,.469,-0.27,0.01,4th,Lost NHL Preliminary Round,F. Smith,D. Duff,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1979.html,1978-79,NHL,Toronto Maple Leafs,80,34,33,13,,81,.506,0.20,0.02,3rd,Lost NHL Quarter-Finals,R. Neilson
+TOR,http://www.hockey-reference.com/teams/TOR/1978.html,1977-78,NHL,Toronto Maple Leafs,80,41,29,10,,92,.575,0.43,0.01,3rd,Lost NHL Semi-Finals,R. Neilson
+TOR,http://www.hockey-reference.com/teams/TOR/1977.html,1976-77,NHL,Toronto Maple Leafs,80,33,32,15,,81,.506,0.23,0.03,3rd,Lost NHL Quarter-Finals,R. Kelly
+TOR,http://www.hockey-reference.com/teams/TOR/1976.html,1975-76,NHL,Toronto Maple Leafs,80,34,31,15,,83,.519,0.27,0.04,3rd,Lost NHL Quarter-Finals,R. Kelly
+TOR,http://www.hockey-reference.com/teams/TOR/1975.html,1974-75,NHL,Toronto Maple Leafs,80,31,33,16,,78,.488,-0.32,0.05,3rd,Lost NHL Quarter-Finals,R. Kelly
+TOR,http://www.hockey-reference.com/teams/TOR/1974.html,1973-74,NHL,Toronto Maple Leafs,78,35,27,16,,86,.551,0.54,-0.03,4th,Lost NHL Quarter-Finals,R. Kelly
+TOR,http://www.hockey-reference.com/teams/TOR/1973.html,1972-73,NHL,Toronto Maple Leafs,78,27,41,10,,64,.410,-0.38,0.03,6th,,J. McLellan
+TOR,http://www.hockey-reference.com/teams/TOR/1972.html,1971-72,NHL,Toronto Maple Leafs,78,33,31,14,,80,.513,0.01,0.00,4th,Lost NHL Quarter-Finals,J. McLellan
+TOR,http://www.hockey-reference.com/teams/TOR/1971.html,1970-71,NHL,Toronto Maple Leafs,78,37,33,8,,82,.526,0.44,-0.03,4th,Lost NHL Quarter-Finals,J. McLellan
+TOR,http://www.hockey-reference.com/teams/TOR/1970.html,1969-70,NHL,Toronto Maple Leafs,76,29,34,13,,71,.467,-0.15,0.11,6th,,J. McLellan
+TOR,http://www.hockey-reference.com/teams/TOR/1969.html,1968-69,NHL,Toronto Maple Leafs,76,35,26,15,,85,.559,0.29,0.06,4th,Lost NHL Quarter-Finals,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1968.html,1967-68,NHL,Toronto Maple Leafs,74,33,31,10,,76,.514,0.64,0.19,5th,,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1967.html,1966-67,NHL,Toronto Maple Leafs,70,32,27,11,,75,.536,-0.08,0.02,3rd,<strong>Won Stanley Cup Finals</strong>,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1966.html,1965-66,NHL,Toronto Maple Leafs,70,34,25,11,,79,.564,0.25,-0.05,3rd,Lost NHL Semi-Finals,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1965.html,1964-65,NHL,Toronto Maple Leafs,70,30,26,14,,74,.529,0.37,-0.07,4th,Lost NHL Semi-Finals,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1964.html,1963-64,NHL,Toronto Maple Leafs,70,33,25,12,,78,.557,0.24,-0.05,3rd,<strong>Won Stanley Cup Finals</strong>,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1963.html,1962-63,NHL,Toronto Maple Leafs,70,35,23,12,,82,.586,0.49,-0.10,1st,<strong>Won Stanley Cup Finals</strong>,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1962.html,1961-62,NHL,Toronto Maple Leafs,70,37,22,11,,85,.607,0.62,-0.12,2nd,<strong>Won Stanley Cup Finals</strong>,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1961.html,1960-61,NHL,Toronto Maple Leafs,70,39,19,12,,90,.643,0.69,-0.14,2nd,Lost NHL Semi-Finals,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1960.html,1959-60,NHL,Toronto Maple Leafs,70,35,26,9,,79,.564,0.05,-0.01,2nd,Lost Stanley Cup Finals,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1959.html,1958-59,NHL,Toronto Maple Leafs,70,27,32,11,,65,.464,-0.14,0.03,4th,Lost Stanley Cup Finals,B. Reay,P. Imlach
+TOR,http://www.hockey-reference.com/teams/TOR/1958.html,1957-58,NHL,Toronto Maple Leafs,70,21,38,11,,53,.379,-0.41,0.08,6th,,B. Reay
+TOR,http://www.hockey-reference.com/teams/TOR/1957.html,1956-57,NHL,Toronto Maple Leafs,70,21,34,15,,57,.407,-0.21,0.04,5th,,H. Meeker
+TOR,http://www.hockey-reference.com/teams/TOR/1956.html,1955-56,NHL,Toronto Maple Leafs,70,24,33,13,,61,.436,-0.33,0.07,4th,Lost NHL Semi-Finals,K. Clancy
+TOR,http://www.hockey-reference.com/teams/TOR/1955.html,1954-55,NHL,Toronto Maple Leafs,70,24,24,22,,70,.500,0.14,-0.03,3rd,Lost NHL Semi-Finals,K. Clancy
+TOR,http://www.hockey-reference.com/teams/TOR/1954.html,1953-54,NHL,Toronto Maple Leafs,70,32,24,14,,78,.557,0.25,-0.05,3rd,Lost NHL Semi-Finals,K. Clancy
+TOR,http://www.hockey-reference.com/teams/TOR/1953.html,1952-53,NHL,Toronto Maple Leafs,70,27,30,13,,67,.479,-0.13,0.03,5th,,J. Primeau
+TOR,http://www.hockey-reference.com/teams/TOR/1952.html,1951-52,NHL,Toronto Maple Leafs,70,29,25,16,,74,.529,0.13,-0.03,3rd,Lost NHL Semi-Finals,J. Primeau
+TOR,http://www.hockey-reference.com/teams/TOR/1951.html,1950-51,NHL,Toronto Maple Leafs,70,41,16,13,,95,.679,0.88,-0.18,2nd,<strong>Won Stanley Cup Finals</strong>,J. Primeau
+TOR,http://www.hockey-reference.com/teams/TOR/1950.html,1949-50,NHL,Toronto Maple Leafs,70,31,27,12,,74,.529,0.04,-0.01,3rd,Lost NHL Semi-Finals,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1949.html,1948-49,NHL,Toronto Maple Leafs,60,22,25,13,,57,.475,-0.19,0.04,4th,<strong>Won Stanley Cup Finals</strong>,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1948.html,1947-48,NHL,Toronto Maple Leafs,60,32,15,13,,77,.642,0.54,-0.11,1st,<strong>Won Stanley Cup Finals</strong>,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1947.html,1946-47,NHL,Toronto Maple Leafs,60,31,19,10,,72,.600,0.51,-0.10,2nd,<strong>Won Stanley Cup Finals</strong>,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1946.html,1945-46,NHL,Toronto Maple Leafs,50,19,24,7,,45,.450,-0.18,0.04,5th,,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1945.html,1944-45,NHL,Toronto Maple Leafs,50,24,22,4,,52,.520,0.37,-0.07,3rd,<strong>Won Stanley Cup Finals</strong>,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1944.html,1943-44,NHL,Toronto Maple Leafs,50,23,23,4,,50,.500,0.67,-0.13,3rd,Lost NHL Semi-Finals,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1943.html,1942-43,NHL,Toronto Maple Leafs,50,22,19,9,,53,.530,0.65,-0.13,3rd,Lost NHL Semi-Finals,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1942.html,1941-42,NHL,Toronto Maple Leafs,48,27,18,3,,57,.594,0.39,-0.07,2nd,<strong>Won Stanley Cup Finals</strong>,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1941.html,1940-41,NHL,Toronto Maple Leafs,48,28,14,6,,62,.646,0.82,-0.14,2nd,Lost NHL Semi-Finals,H. Day
+TOR,http://www.hockey-reference.com/teams/TOR/1940.html,1939-40,NHL,Toronto Maple Leafs,48,25,17,6,,56,.583,0.43,-0.07,3rd,Lost Stanley Cup Finals,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1939.html,1938-39,NHL,Toronto Maple Leafs,48,19,20,9,,47,.490,0.13,-0.02,3rd,Lost Stanley Cup Finals,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1938.html,1937-38,NHL,Toronto Maple Leafs,48,24,15,9,,57,.594,0.41,-0.09,1st,Lost Stanley Cup Finals,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1937.html,1936-37,NHL,Toronto Maple Leafs,48,22,21,5,,49,.510,0.06,-0.02,3rd,Lost NHL Quarter-Finals,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1936.html,1935-36,NHL,Toronto Maple Leafs,48,23,19,6,,52,.542,0.34,-0.08,2nd,Lost Stanley Cup Finals,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1935.html,1934-35,NHL,Toronto Maple Leafs,48,30,14,4,,64,.667,0.85,-0.11,1st,Lost Stanley Cup Finals,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1934.html,1933-34,NHL,Toronto Maple Leafs,48,26,13,9,,61,.635,1.02,-0.13,1st,Lost NHL Semi-Finals,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1933.html,1932-33,NHL,Toronto Maple Leafs,48,24,18,6,,54,.563,0.15,-0.02,1st,Lost Stanley Cup Finals,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1932.html,1931-32,NHL,Toronto Maple Leafs,48,23,18,7,,53,.552,0.50,-0.08,2nd,<strong>Won Stanley Cup Finals</strong>,A. Duncan,D. Irvin
+TOR,http://www.hockey-reference.com/teams/TOR/1931.html,1930-31,NHL,Toronto Maple Leafs,44,22,13,9,,53,.602,0.39,-0.04,2nd,Lost NHL Quarter-Finals,C. Smythe,A. Duncan
+TOR,http://www.hockey-reference.com/teams/TOR/1930.html,1929-30,NHL,Toronto Maple Leafs,44,17,21,6,,40,.455,-0.14,0.04,4th,,C. Smythe
+TOR,http://www.hockey-reference.com/teams/TOR/1929.html,1928-29,NHL,Toronto Maple Leafs,44,21,18,5,,47,.534,0.35,-0.01,3rd,Lost NHL Semi-Finals,C. Smythe
+TOR,http://www.hockey-reference.com/teams/TOR/1928.html,1927-28,NHL,Toronto Maple Leafs,44,18,18,8,,44,.500,0.06,0.04,4th,,C. Smythe
+TOR,http://www.hockey-reference.com/teams/TOR/1927.html,1926-27,NHL,Toronto Maple Leafs,44,15,24,5,,35,.398,-0.27,0.07,5th,,C. Querrie,M. Rodden,A. Romeril
+TOR,http://www.hockey-reference.com/teams/TRS/1926.html,1925-26,NHL,Toronto St. Patricks,36,12,21,3,,27,.375,-0.53,0.09,6th,,E. Powers
+TOR,http://www.hockey-reference.com/teams/TRS/1925.html,1924-25,NHL,Toronto St. Patricks,30,19,11,0,,38,.633,0.17,-0.03,2nd,Lost NHL Semi-Finals,E. Powers
+TOR,http://www.hockey-reference.com/teams/TRS/1924.html,1923-24,NHL,Toronto St. Patricks,24,10,14,0,,20,.417,-0.81,0.27,3rd,,C. Querrie
+TOR,http://www.hockey-reference.com/teams/TRS/1923.html,1922-23,NHL,Toronto St. Patricks,24,13,10,1,,27,.563,-0.19,0.06,3rd,,G. O'Donoghue,C. Querrie
+TOR,http://www.hockey-reference.com/teams/TRS/1922.html,1921-22,NHL,Toronto St. Patricks,24,13,10,1,,27,.563,0.03,-0.01,2nd,<strong>Won NHL Finals</strong>,G. O'Donoghue
+TOR,http://www.hockey-reference.com/teams/TRS/1921.html,1920-21,NHL,Toronto St. Patricks,24,15,9,0,,30,.625,0.16,-0.05,1st,Lost NHL Finals,F. Carroll
+TOR,http://www.hockey-reference.com/teams/TRS/1920.html,1919-20,NHL,Toronto St. Patricks,24,12,12,0,,24,.500,0.41,-0.13,3rd,,F. Heffernan,H. Sproule
+TOR,http://www.hockey-reference.com/teams/TRA/1919.html,1918-19,NHL,Toronto Arenas,18,5,13,0,,10,.278,-1.04,0.52,3rd,,D. Carroll
+TOR,http://www.hockey-reference.com/teams/TRA/1918.html,1917-18,NHL,Toronto Arenas,22,13,9,0,,26,.591,0.07,0.07,2nd,<strong>Won NHL Finals</strong>,D. Carroll

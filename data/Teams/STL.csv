@@ -1,0 +1,45 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+STL,http://www.hockey-reference.com/teams/STL/2012.html,2011-12,NHL,St. Louis Blues,82,49,22,,11,109,.665,0.54,-0.01,1st,Lost NHL Conference Semi-Finals,D. Payne,K. Hitchcock
+STL,http://www.hockey-reference.com/teams/STL/2011.html,2010-11,NHL,St. Louis Blues,82,38,33,,11,87,.530,0.11,0.04,4th,,D. Payne
+STL,http://www.hockey-reference.com/teams/STL/2010.html,2009-10,NHL,St. Louis Blues,82,40,32,,10,90,.549,0.08,0.06,4th,,A. Murray,D. Payne
+STL,http://www.hockey-reference.com/teams/STL/2009.html,2008-09,NHL,St. Louis Blues,82,41,31,,10,92,.561,0.05,0.05,3rd,Lost NHL Conference Quarter-Finals,A. Murray
+STL,http://www.hockey-reference.com/teams/STL/2008.html,2007-08,NHL,St. Louis Blues,82,33,36,,13,79,.482,-0.24,0.16,5th,,A. Murray
+STL,http://www.hockey-reference.com/teams/STL/2007.html,2006-07,NHL,St. Louis Blues,82,34,35,,13,81,.494,-0.33,0.15,3rd,,M. Kitchen,A. Murray
+STL,http://www.hockey-reference.com/teams/STL/2006.html,2005-06,NHL,St. Louis Blues,82,21,46,,15,57,.348,-1.09,0.07,5th,,M. Kitchen
+STL,http://www.hockey-reference.com/teams/STL/2004.html,2003-04,NHL,St. Louis Blues,82,39,30,11,2,91,.555,-0.09,-0.01,2nd,Lost NHL Conference Quarter-Finals,J. Quenneville,M. Kitchen
+STL,http://www.hockey-reference.com/teams/STL/2003.html,2002-03,NHL,St. Louis Blues,82,41,24,11,6,99,.604,0.43,0.05,2nd,Lost NHL Conference Quarter-Finals,J. Quenneville
+STL,http://www.hockey-reference.com/teams/STL/2002.html,2001-02,NHL,St. Louis Blues,82,43,27,8,4,98,.598,0.54,0.07,2nd,Lost NHL Conference Semi-Finals,J. Quenneville
+STL,http://www.hockey-reference.com/teams/STL/2001.html,2000-01,NHL,St. Louis Blues,82,43,22,12,5,103,.628,0.67,0.01,2nd,Lost NHL Conference Finals,J. Quenneville
+STL,http://www.hockey-reference.com/teams/STL/2000.html,1999-00,NHL,St. Louis Blues,82,51,19,11,1,114,.695,1.08,0.07,1st,Lost NHL Conference Quarter-Finals,J. Quenneville
+STL,http://www.hockey-reference.com/teams/STL/1999.html,1998-99,NHL,St. Louis Blues,82,37,32,13,,87,.530,0.29,-0.05,2nd,Lost NHL Conference Semi-Finals,J. Quenneville
+STL,http://www.hockey-reference.com/teams/STL/1998.html,1997-98,NHL,St. Louis Blues,82,45,29,8,,98,.598,0.63,0.00,3rd,Lost NHL Conference Semi-Finals,J. Quenneville
+STL,http://www.hockey-reference.com/teams/STL/1997.html,1996-97,NHL,St. Louis Blues,82,36,35,11,,83,.506,-0.03,0.01,4th,Lost NHL Conference Quarter-Finals,M. Keenan,J. Roberts,J. Quenneville
+STL,http://www.hockey-reference.com/teams/STL/1996.html,1995-96,NHL,St. Louis Blues,82,32,34,16,,80,.488,-0.35,0.00,4th,Lost NHL Conference Semi-Finals,M. Keenan
+STL,http://www.hockey-reference.com/teams/STL/1995.html,1994-95,NHL,St. Louis Blues,48,28,15,5,,61,.635,0.84,-0.06,2nd,Lost NHL Conference Quarter-Finals,M. Keenan
+STL,http://www.hockey-reference.com/teams/STL/1994.html,1993-94,NHL,St. Louis Blues,84,40,33,11,,91,.542,-0.16,0.00,4th,Lost NHL Conference Quarter-Finals,B. Berry
+STL,http://www.hockey-reference.com/teams/STL/1993.html,1992-93,NHL,St. Louis Blues,84,37,36,11,,85,.506,0.06,0.01,4th,Lost NHL Division Finals,B. Plager,B. Berry
+STL,http://www.hockey-reference.com/teams/STL/1992.html,1991-92,NHL,St. Louis Blues,80,36,33,11,,83,.519,0.16,-0.01,3rd,Lost NHL Division Semi-Finals,B. Sutter
+STL,http://www.hockey-reference.com/teams/STL/1991.html,1990-91,NHL,St. Louis Blues,80,47,22,11,,105,.656,0.70,-0.05,2nd,Lost NHL Division Finals,B. Sutter
+STL,http://www.hockey-reference.com/teams/STL/1990.html,1989-90,NHL,St. Louis Blues,80,37,34,9,,83,.519,0.16,-0.04,2nd,Lost NHL Division Finals,B. Sutter
+STL,http://www.hockey-reference.com/teams/STL/1989.html,1988-89,NHL,St. Louis Blues,80,33,35,12,,78,.488,-0.25,-0.13,2nd,Lost NHL Division Finals,B. Sutter
+STL,http://www.hockey-reference.com/teams/STL/1988.html,1987-88,NHL,St. Louis Blues,80,34,38,8,,76,.475,-0.35,-0.15,2nd,Lost NHL Division Finals,J. Martin
+STL,http://www.hockey-reference.com/teams/STL/1987.html,1986-87,NHL,St. Louis Blues,80,32,33,15,,79,.494,-0.22,-0.07,1st,Lost NHL Division Semi-Finals,J. Martin
+STL,http://www.hockey-reference.com/teams/STL/1986.html,1985-86,NHL,St. Louis Blues,80,37,34,9,,83,.519,-0.05,-0.18,3rd,Lost NHL Conference Finals,J. Demers
+STL,http://www.hockey-reference.com/teams/STL/1985.html,1984-85,NHL,St. Louis Blues,80,37,31,12,,86,.538,-0.04,-0.18,1st,Lost NHL Division Semi-Finals,J. Demers
+STL,http://www.hockey-reference.com/teams/STL/1984.html,1983-84,NHL,St. Louis Blues,80,32,41,7,,71,.444,-0.41,-0.12,2nd,Lost NHL Division Finals,J. Demers
+STL,http://www.hockey-reference.com/teams/STL/1983.html,1982-83,NHL,St. Louis Blues,80,25,40,15,,65,.406,-0.40,-0.01,4th,Lost NHL Division Semi-Finals,E. Francis,B. Plager
+STL,http://www.hockey-reference.com/teams/STL/1982.html,1981-82,NHL,St. Louis Blues,80,32,40,8,,72,.450,-0.52,-0.10,3rd,Lost NHL Division Finals,R. Berenson,E. Francis
+STL,http://www.hockey-reference.com/teams/STL/1981.html,1980-81,NHL,St. Louis Blues,80,45,18,17,,107,.669,0.85,-0.04,1st,Lost NHL Quarter-Finals,R. Berenson
+STL,http://www.hockey-reference.com/teams/STL/1980.html,1979-80,NHL,St. Louis Blues,80,34,34,12,,80,.500,-0.14,0.01,2nd,Lost NHL Preliminary Round,B. Plager,R. Berenson
+STL,http://www.hockey-reference.com/teams/STL/1979.html,1978-79,NHL,St. Louis Blues,80,18,50,12,,48,.300,-1.29,-0.05,3rd,,B. Plager
+STL,http://www.hockey-reference.com/teams/STL/1978.html,1977-78,NHL,St. Louis Blues,80,20,47,13,,53,.331,-1.33,0.03,4th,,L. Boivin,B. Plager
+STL,http://www.hockey-reference.com/teams/STL/1977.html,1976-77,NHL,St. Louis Blues,80,32,39,9,,73,.456,-0.50,-0.04,1st,Lost NHL Quarter-Finals,E. Francis
+STL,http://www.hockey-reference.com/teams/STL/1976.html,1975-76,NHL,St. Louis Blues,80,29,37,14,,72,.450,-0.54,-0.03,3rd,Lost NHL Preliminary Round,G. Young,L. Patrick,L. Boivin
+STL,http://www.hockey-reference.com/teams/STL/1975.html,1974-75,NHL,St. Louis Blues,80,35,31,14,,84,.525,-0.01,-0.04,2nd,Lost NHL Preliminary Round,L. Angotti,L. Patrick,G. Young
+STL,http://www.hockey-reference.com/teams/STL/1974.html,1973-74,NHL,St. Louis Blues,78,26,40,12,,64,.410,-0.52,0.02,6th,,J. Talbot,L. Angotti
+STL,http://www.hockey-reference.com/teams/STL/1973.html,1972-73,NHL,St. Louis Blues,78,32,34,12,,76,.487,-0.21,0.02,4th,Lost NHL Quarter-Finals,A. Arbour,J. Talbot
+STL,http://www.hockey-reference.com/teams/STL/1972.html,1971-72,NHL,St. Louis Blues,78,28,39,11,,67,.429,-0.46,0.04,3rd,Lost NHL Semi-Finals,S. Abel,B. McCreary,A. Arbour
+STL,http://www.hockey-reference.com/teams/STL/1971.html,1970-71,NHL,St. Louis Blues,78,34,25,19,,87,.558,0.18,-0.01,2nd,Lost NHL Quarter-Finals,A. Arbour,S. Bowman
+STL,http://www.hockey-reference.com/teams/STL/1970.html,1969-70,NHL,St. Louis Blues,76,37,27,12,,86,.566,0.45,-0.15,1st,Lost Stanley Cup Finals,S. Bowman
+STL,http://www.hockey-reference.com/teams/STL/1969.html,1968-69,NHL,St. Louis Blues,76,37,25,14,,88,.579,0.48,-0.14,1st,Lost Stanley Cup Finals,S. Bowman
+STL,http://www.hockey-reference.com/teams/STL/1968.html,1967-68,NHL,St. Louis Blues,74,27,31,16,,70,.473,-0.41,-0.23,3rd,Lost Stanley Cup Finals,L. Patrick,S. Bowman

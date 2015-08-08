@@ -1,0 +1,86 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+NYR,http://www.hockey-reference.com/teams/NYR/2012.html,2011-12,NHL,New York Rangers,82,51,24,,7,109,.665,0.46,-0.02,1st,Lost NHL Conference Finals,J. Tortorella
+NYR,http://www.hockey-reference.com/teams/NYR/2011.html,2010-11,NHL,New York Rangers,82,44,33,,5,93,.567,0.37,-0.06,3rd,Lost NHL Conference Quarter-Finals,J. Tortorella
+NYR,http://www.hockey-reference.com/teams/NYR/2010.html,2009-10,NHL,New York Rangers,82,38,33,,11,87,.530,0.00,-0.05,4th,,J. Tortorella
+NYR,http://www.hockey-reference.com/teams/NYR/2009.html,2008-09,NHL,New York Rangers,82,43,30,,9,95,.579,-0.10,-0.01,4th,Lost NHL Conference Quarter-Finals,T. Renney,J. Tortorella
+NYR,http://www.hockey-reference.com/teams/NYR/2008.html,2007-08,NHL,New York Rangers,82,42,27,,13,97,.591,0.05,-0.12,3rd,Lost NHL Conference Semi-Finals,T. Renney
+NYR,http://www.hockey-reference.com/teams/NYR/2007.html,2006-07,NHL,New York Rangers,82,42,30,,10,94,.573,0.16,-0.16,3rd,Lost NHL Conference Semi-Finals,T. Renney
+NYR,http://www.hockey-reference.com/teams/NYR/2006.html,2005-06,NHL,New York Rangers,82,44,26,,12,100,.610,0.38,-0.14,3rd,Lost NHL Conference Quarter-Finals,T. Renney
+NYR,http://www.hockey-reference.com/teams/NYR/2004.html,2003-04,NHL,New York Rangers,82,27,40,7,8,69,.421,-0.51,0.03,4th,,G. Sather,T. Renney
+NYR,http://www.hockey-reference.com/teams/NYR/2003.html,2002-03,NHL,New York Rangers,82,32,36,10,4,78,.476,-0.33,-0.08,4th,,B. Trottier,G. Sather
+NYR,http://www.hockey-reference.com/teams/NYR/2002.html,2001-02,NHL,New York Rangers,82,36,38,4,4,80,.488,-0.43,-0.05,4th,,R. Low
+NYR,http://www.hockey-reference.com/teams/NYR/2001.html,2000-01,NHL,New York Rangers,82,33,43,5,1,72,.439,-0.53,-0.04,4th,,R. Low
+NYR,http://www.hockey-reference.com/teams/NYR/2000.html,1999-00,NHL,New York Rangers,82,29,38,12,3,73,.445,-0.39,-0.05,4th,,J. Muckler,J. Tortorella
+NYR,http://www.hockey-reference.com/teams/NYR/1999.html,1998-99,NHL,New York Rangers,82,33,38,11,,77,.470,-0.08,0.04,4th,,J. Muckler
+NYR,http://www.hockey-reference.com/teams/NYR/1998.html,1997-98,NHL,New York Rangers,82,25,39,18,,68,.415,-0.41,0.00,5th,,C. Campbell,J. Muckler
+NYR,http://www.hockey-reference.com/teams/NYR/1997.html,1996-97,NHL,New York Rangers,82,38,34,10,,86,.524,0.33,0.01,4th,Lost NHL Conference Finals,C. Campbell
+NYR,http://www.hockey-reference.com/teams/NYR/1996.html,1995-96,NHL,New York Rangers,82,41,27,14,,96,.585,0.43,0.00,2nd,Lost NHL Conference Semi-Finals,C. Campbell
+NYR,http://www.hockey-reference.com/teams/NYR/1995.html,1994-95,NHL,New York Rangers,48,22,23,3,,47,.490,0.10,-0.01,4th,Lost NHL Conference Semi-Finals,C. Campbell
+NYR,http://www.hockey-reference.com/teams/NYR/1994.html,1993-94,NHL,New York Rangers,84,52,24,8,,112,.667,0.81,0.00,1st,<strong>Won Stanley Cup Finals</strong>,M. Keenan
+NYR,http://www.hockey-reference.com/teams/NYR/1993.html,1992-93,NHL,New York Rangers,84,34,39,11,,79,.470,0.10,0.15,6th,,R. Neilson,R. Smith
+NYR,http://www.hockey-reference.com/teams/NYR/1992.html,1991-92,NHL,New York Rangers,80,50,25,5,,105,.656,1.02,0.08,1st,Lost NHL Division Finals,R. Neilson
+NYR,http://www.hockey-reference.com/teams/NYR/1991.html,1990-91,NHL,New York Rangers,80,36,31,13,,85,.531,0.36,-0.04,2nd,Lost NHL Division Semi-Finals,R. Neilson
+NYR,http://www.hockey-reference.com/teams/NYR/1990.html,1989-90,NHL,New York Rangers,80,36,31,13,,85,.531,0.12,-0.03,1st,Lost NHL Division Finals,R. Neilson
+NYR,http://www.hockey-reference.com/teams/NYR/1989.html,1988-89,NHL,New York Rangers,80,37,35,8,,82,.513,0.01,-0.03,3rd,Lost NHL Division Semi-Finals,M. Bergeron,P. Esposito
+NYR,http://www.hockey-reference.com/teams/NYR/1988.html,1987-88,NHL,New York Rangers,80,36,34,10,,82,.513,0.26,0.05,5th,,M. Bergeron
+NYR,http://www.hockey-reference.com/teams/NYR/1987.html,1986-87,NHL,New York Rangers,80,34,38,8,,76,.475,-0.19,0.01,4th,Lost NHL Division Semi-Finals,T. Sator,T. Webster,P. Esposito
+NYR,http://www.hockey-reference.com/teams/NYR/1986.html,1985-86,NHL,New York Rangers,80,36,38,6,,78,.488,0.13,0.08,4th,Lost NHL Conference Finals,T. Sator
+NYR,http://www.hockey-reference.com/teams/NYR/1985.html,1984-85,NHL,New York Rangers,80,26,44,10,,62,.388,-0.59,0.04,4th,Lost NHL Division Semi-Finals,H. Brooks,C. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1984.html,1983-84,NHL,New York Rangers,80,42,29,9,,93,.581,0.10,-0.02,4th,Lost NHL Division Semi-Finals,H. Brooks
+NYR,http://www.hockey-reference.com/teams/NYR/1983.html,1982-83,NHL,New York Rangers,80,35,35,10,,80,.500,0.19,-0.05,4th,Lost NHL Division Finals,H. Brooks
+NYR,http://www.hockey-reference.com/teams/NYR/1982.html,1981-82,NHL,New York Rangers,80,39,27,14,,92,.575,0.21,0.09,2nd,Lost NHL Division Finals,H. Brooks
+NYR,http://www.hockey-reference.com/teams/NYR/1981.html,1980-81,NHL,New York Rangers,80,30,36,14,,74,.463,-0.06,0.00,4th,Lost NHL Semi-Finals,F. Shero,C. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1980.html,1979-80,NHL,New York Rangers,80,38,32,10,,86,.538,0.29,-0.01,3rd,Lost NHL Quarter-Finals,F. Shero
+NYR,http://www.hockey-reference.com/teams/NYR/1979.html,1978-79,NHL,New York Rangers,80,40,29,11,,91,.569,0.40,0.10,3rd,Lost Stanley Cup Finals,F. Shero
+NYR,http://www.hockey-reference.com/teams/NYR/1978.html,1977-78,NHL,New York Rangers,80,30,37,13,,73,.456,0.02,0.04,4th,Lost NHL Preliminary Round,J. Talbot
+NYR,http://www.hockey-reference.com/teams/NYR/1977.html,1976-77,NHL,New York Rangers,80,29,37,14,,72,.450,-0.43,0.04,4th,,J. Ferguson
+NYR,http://www.hockey-reference.com/teams/NYR/1976.html,1975-76,NHL,New York Rangers,80,29,42,9,,67,.419,-0.80,0.08,4th,,R. Stewart,J. Ferguson
+NYR,http://www.hockey-reference.com/teams/NYR/1975.html,1974-75,NHL,New York Rangers,80,37,29,14,,88,.550,0.54,0.01,2nd,Lost NHL Preliminary Round,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1974.html,1973-74,NHL,New York Rangers,78,40,24,14,,94,.603,0.58,-0.05,3rd,Lost NHL Semi-Finals,L. Popein,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1973.html,1972-73,NHL,New York Rangers,78,47,23,8,,102,.654,1.07,-0.08,3rd,Lost NHL Semi-Finals,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1972.html,1971-72,NHL,New York Rangers,78,48,17,13,,109,.699,1.49,-0.11,2nd,Lost Stanley Cup Finals,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1971.html,1970-71,NHL,New York Rangers,78,49,18,11,,109,.699,0.98,-0.08,2nd,Lost NHL Semi-Finals,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1970.html,1969-70,NHL,New York Rangers,76,38,22,16,,92,.605,0.77,0.02,4th,Lost NHL Quarter-Finals,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1969.html,1968-69,NHL,New York Rangers,76,41,26,9,,91,.599,0.50,0.04,3rd,Lost NHL Quarter-Finals,B. Geoffrion,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1968.html,1967-68,NHL,New York Rangers,74,39,23,12,,90,.608,0.76,0.18,2nd,Lost NHL Quarter-Finals,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1967.html,1966-67,NHL,New York Rangers,70,30,28,12,,72,.514,-0.01,0.00,4th,Lost NHL Semi-Finals,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1966.html,1965-66,NHL,New York Rangers,70,18,41,11,,47,.336,-0.79,0.16,6th,,R. Sullivan,E. Francis
+NYR,http://www.hockey-reference.com/teams/NYR/1965.html,1964-65,NHL,New York Rangers,70,20,38,12,,52,.371,-0.80,0.16,5th,,R. Sullivan
+NYR,http://www.hockey-reference.com/teams/NYR/1964.html,1963-64,NHL,New York Rangers,70,22,38,10,,54,.386,-0.67,0.13,5th,,R. Sullivan
+NYR,http://www.hockey-reference.com/teams/NYR/1963.html,1962-63,NHL,New York Rangers,70,22,36,12,,56,.400,-0.26,0.05,5th,,M. Patrick,R. Sullivan
+NYR,http://www.hockey-reference.com/teams/NYR/1962.html,1961-62,NHL,New York Rangers,70,26,32,12,,64,.457,-0.14,0.03,4th,Lost NHL Semi-Finals,D. Harvey
+NYR,http://www.hockey-reference.com/teams/NYR/1961.html,1960-61,NHL,New York Rangers,70,22,38,10,,54,.386,-0.52,0.11,5th,,A. Pike
+NYR,http://www.hockey-reference.com/teams/NYR/1960.html,1959-60,NHL,New York Rangers,70,17,38,15,,49,.350,-0.71,0.14,6th,,P. Watson,M. Patrick,A. Pike
+NYR,http://www.hockey-reference.com/teams/NYR/1959.html,1958-59,NHL,New York Rangers,70,26,32,12,,64,.457,-0.19,0.04,5th,,P. Watson
+NYR,http://www.hockey-reference.com/teams/NYR/1958.html,1957-58,NHL,New York Rangers,70,32,25,13,,77,.550,0.08,-0.02,2nd,Lost NHL Semi-Finals,P. Watson
+NYR,http://www.hockey-reference.com/teams/NYR/1957.html,1956-57,NHL,New York Rangers,70,26,30,14,,66,.471,-0.51,0.10,4th,Lost NHL Semi-Finals,P. Watson
+NYR,http://www.hockey-reference.com/teams/NYR/1956.html,1955-56,NHL,New York Rangers,70,32,28,10,,74,.529,0.01,0.00,3rd,Lost NHL Semi-Finals,P. Watson
+NYR,http://www.hockey-reference.com/teams/NYR/1955.html,1954-55,NHL,New York Rangers,70,17,35,18,,52,.371,-0.71,0.14,5th,,M. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1954.html,1953-54,NHL,New York Rangers,70,29,31,10,,68,.486,-0.25,0.05,5th,,F. Boucher,M. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1953.html,1952-53,NHL,New York Rangers,70,17,37,16,,50,.357,-0.70,0.14,6th,,B. Cook
+NYR,http://www.hockey-reference.com/teams/NYR/1952.html,1951-52,NHL,New York Rangers,70,23,34,13,,59,.421,-0.32,0.06,5th,,N. Colville,B. Cook
+NYR,http://www.hockey-reference.com/teams/NYR/1951.html,1950-51,NHL,New York Rangers,70,20,29,21,,61,.436,-0.38,0.08,5th,,N. Colville
+NYR,http://www.hockey-reference.com/teams/NYR/1950.html,1949-50,NHL,New York Rangers,70,28,31,11,,67,.479,-0.23,0.05,4th,Lost Stanley Cup Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1949.html,1948-49,NHL,New York Rangers,60,18,31,11,,47,.392,-0.54,0.11,6th,,F. Boucher,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1948.html,1947-48,NHL,New York Rangers,60,21,26,13,,55,.458,-0.35,0.07,4th,Lost NHL Semi-Finals,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1947.html,1946-47,NHL,New York Rangers,60,22,32,6,,50,.417,-0.26,0.05,5th,,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1946.html,1945-46,NHL,New York Rangers,50,13,28,9,,35,.350,-0.78,0.16,6th,,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1945.html,1944-45,NHL,New York Rangers,50,11,29,10,,32,.320,-1.55,0.31,6th,,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1944.html,1943-44,NHL,New York Rangers,50,6,39,5,,17,.170,-2.47,0.49,6th,,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1943.html,1942-43,NHL,New York Rangers,50,11,31,8,,30,.300,-1.53,0.31,6th,,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1942.html,1941-42,NHL,New York Rangers,48,29,17,2,,60,.625,0.61,-0.10,1st,Lost NHL Semi-Finals,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1941.html,1940-41,NHL,New York Rangers,48,21,19,8,,50,.521,0.32,-0.05,4th,Lost NHL Quarter-Finals,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1940.html,1939-40,NHL,New York Rangers,48,27,11,10,,64,.667,1.05,-0.18,2nd,<strong>Won Stanley Cup Finals</strong>,F. Boucher
+NYR,http://www.hockey-reference.com/teams/NYR/1939.html,1938-39,NHL,New York Rangers,48,26,16,6,,58,.604,0.79,-0.13,2nd,Lost NHL Semi-Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1938.html,1937-38,NHL,New York Rangers,48,27,15,6,,60,.625,0.97,-0.14,2nd,Lost NHL Quarter-Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1937.html,1936-37,NHL,New York Rangers,48,19,20,9,,47,.490,0.21,-0.02,3rd,Lost Stanley Cup Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1936.html,1935-36,NHL,New York Rangers,48,19,17,12,,50,.521,-0.07,0.03,4th,,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1935.html,1934-35,NHL,New York Rangers,48,22,20,6,,50,.521,-0.04,0.00,3rd,Lost NHL Semi-Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1934.html,1933-34,NHL,New York Rangers,48,21,19,8,,50,.521,0.13,-0.02,3rd,Lost NHL Quarter-Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1933.html,1932-33,NHL,New York Rangers,48,23,17,8,,54,.563,0.52,-0.07,3rd,<strong>Won Stanley Cup Finals</strong>,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1932.html,1931-32,NHL,New York Rangers,48,23,17,8,,54,.563,0.39,-0.07,1st,Lost Stanley Cup Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1931.html,1930-31,NHL,New York Rangers,44,19,16,9,,47,.534,0.37,-0.06,3rd,Lost NHL Semi-Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1930.html,1929-30,NHL,New York Rangers,44,17,17,10,,44,.500,-0.16,0.00,3rd,Lost NHL Semi-Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1929.html,1928-29,NHL,New York Rangers,44,21,13,10,,52,.591,0.11,-0.05,2nd,Lost Stanley Cup Finals,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1928.html,1927-28,NHL,New York Rangers,44,19,16,9,,47,.534,0.26,-0.09,2nd,<strong>Won Stanley Cup Finals</strong>,L. Patrick
+NYR,http://www.hockey-reference.com/teams/NYR/1927.html,1926-27,NHL,New York Rangers,44,25,13,6,,56,.636,0.43,-0.09,1st,Lost NHL Semi-Finals,L. Patrick

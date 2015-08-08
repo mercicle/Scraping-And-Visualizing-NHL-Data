@@ -1,0 +1,86 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+DET,http://www.hockey-reference.com/teams/DET/2012.html,2011-12,NHL,Detroit Red Wings,82,48,28,,6,102,.622,0.55,0.00,3rd,Lost NHL Conference Quarter-Finals,M. Babcock
+DET,http://www.hockey-reference.com/teams/DET/2011.html,2010-11,NHL,Detroit Red Wings,82,47,25,,10,104,.634,0.27,0.03,1st,Lost NHL Conference Semi-Finals,M. Babcock
+DET,http://www.hockey-reference.com/teams/DET/2010.html,2009-10,NHL,Detroit Red Wings,82,44,24,,14,102,.622,0.23,0.07,2nd,Lost NHL Conference Semi-Finals,M. Babcock
+DET,http://www.hockey-reference.com/teams/DET/2009.html,2008-09,NHL,Detroit Red Wings,82,51,21,,10,112,.683,0.62,0.00,1st,Lost Stanley Cup Finals,M. Babcock
+DET,http://www.hockey-reference.com/teams/DET/2008.html,2007-08,NHL,Detroit Red Wings,82,54,21,,7,115,.701,0.93,0.04,1st,<strong>Won Stanley Cup Finals</strong>,M. Babcock
+DET,http://www.hockey-reference.com/teams/DET/2007.html,2006-07,NHL,Detroit Red Wings,82,50,19,,13,113,.689,0.72,0.05,1st,Lost NHL Conference Finals,M. Babcock
+DET,http://www.hockey-reference.com/teams/DET/2006.html,2005-06,NHL,Detroit Red Wings,82,58,16,,8,124,.756,1.03,-0.14,1st,Lost NHL Conference Quarter-Finals,M. Babcock
+DET,http://www.hockey-reference.com/teams/DET/2004.html,2003-04,NHL,Detroit Red Wings,82,48,21,11,2,109,.665,0.72,-0.09,1st,Lost NHL Conference Semi-Finals,D. Lewis
+DET,http://www.hockey-reference.com/teams/DET/2003.html,2002-03,NHL,Detroit Red Wings,82,48,20,10,4,110,.671,0.85,0.05,1st,Lost NHL Conference Quarter-Finals,D. Lewis
+DET,http://www.hockey-reference.com/teams/DET/2002.html,2001-02,NHL,Detroit Red Wings,82,51,17,10,4,116,.707,0.83,0.05,1st,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/2001.html,2000-01,NHL,Detroit Red Wings,82,49,20,9,4,111,.677,0.63,0.01,1st,Lost NHL Conference Quarter-Finals,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/2000.html,1999-00,NHL,Detroit Red Wings,82,48,22,10,2,108,.659,0.88,0.05,2nd,Lost NHL Conference Semi-Finals,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/1999.html,1998-99,NHL,Detroit Red Wings,82,43,32,7,,93,.567,0.46,-0.06,1st,Lost NHL Conference Semi-Finals,D. Lewis,B. Smith,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/1998.html,1997-98,NHL,Detroit Red Wings,82,44,23,15,,103,.628,0.64,-0.02,2nd,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/1997.html,1996-97,NHL,Detroit Red Wings,82,38,26,18,,94,.573,0.66,-0.03,2nd,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/1996.html,1995-96,NHL,Detroit Red Wings,82,62,13,7,,131,.799,1.64,-0.11,1st,Lost NHL Conference Finals,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/1995.html,1994-95,NHL,Detroit Red Wings,48,33,11,4,,70,.729,1.24,-0.08,1st,Lost Stanley Cup Finals,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/1994.html,1993-94,NHL,Detroit Red Wings,84,46,30,8,,100,.595,0.89,-0.08,1st,Lost NHL Conference Quarter-Finals,S. Bowman
+DET,http://www.hockey-reference.com/teams/DET/1993.html,1992-93,NHL,Detroit Red Wings,84,47,28,9,,103,.613,0.99,-0.07,2nd,Lost NHL Division Semi-Finals,B. Murray
+DET,http://www.hockey-reference.com/teams/DET/1992.html,1991-92,NHL,Detroit Red Wings,80,43,25,12,,98,.613,0.74,-0.06,1st,Lost NHL Division Finals,B. Murray
+DET,http://www.hockey-reference.com/teams/DET/1991.html,1990-91,NHL,Detroit Red Wings,80,34,38,8,,76,.475,-0.27,0.05,3rd,Lost NHL Division Semi-Finals,B. Murray
+DET,http://www.hockey-reference.com/teams/DET/1990.html,1989-90,NHL,Detroit Red Wings,80,28,38,14,,70,.438,-0.42,0.02,5th,,J. Demers
+DET,http://www.hockey-reference.com/teams/DET/1989.html,1988-89,NHL,Detroit Red Wings,80,34,34,12,,80,.500,-0.17,-0.14,1st,Lost NHL Division Semi-Finals,J. Demers
+DET,http://www.hockey-reference.com/teams/DET/1988.html,1987-88,NHL,Detroit Red Wings,80,41,28,11,,93,.581,0.44,-0.23,1st,Lost NHL Conference Finals,J. Demers
+DET,http://www.hockey-reference.com/teams/DET/1987.html,1986-87,NHL,Detroit Red Wings,80,34,36,10,,78,.488,-0.25,-0.07,2nd,Lost NHL Conference Finals,J. Demers
+DET,http://www.hockey-reference.com/teams/DET/1986.html,1985-86,NHL,Detroit Red Wings,80,17,57,6,,40,.250,-1.86,0.00,5th,,H. Neale,B. Park
+DET,http://www.hockey-reference.com/teams/DET/1985.html,1984-85,NHL,Detroit Red Wings,80,27,41,12,,66,.413,-0.66,-0.11,3rd,Lost NHL Division Semi-Finals,N. Polano
+DET,http://www.hockey-reference.com/teams/DET/1984.html,1983-84,NHL,Detroit Red Wings,80,31,42,7,,69,.431,-0.43,-0.12,3rd,Lost NHL Division Semi-Finals,N. Polano
+DET,http://www.hockey-reference.com/teams/DET/1983.html,1982-83,NHL,Detroit Red Wings,80,21,44,15,,57,.356,-0.96,0.05,5th,,N. Polano
+DET,http://www.hockey-reference.com/teams/DET/1982.html,1981-82,NHL,Detroit Red Wings,80,21,47,12,,54,.338,-1.07,-0.05,6th,,W. Maxner,B. Dea
+DET,http://www.hockey-reference.com/teams/DET/1981.html,1980-81,NHL,Detroit Red Wings,80,19,43,18,,56,.350,-1.04,0.05,5th,,T. Lindsay,W. Maxner
+DET,http://www.hockey-reference.com/teams/DET/1980.html,1979-80,NHL,Detroit Red Wings,80,26,43,11,,63,.394,-0.45,0.02,5th,,B. Kromm,T. Lindsay
+DET,http://www.hockey-reference.com/teams/DET/1979.html,1978-79,NHL,Detroit Red Wings,80,23,41,16,,62,.388,-0.47,0.07,5th,,B. Kromm
+DET,http://www.hockey-reference.com/teams/DET/1978.html,1977-78,NHL,Detroit Red Wings,80,32,34,14,,78,.488,-0.15,0.02,2nd,Lost NHL Quarter-Finals,B. Kromm
+DET,http://www.hockey-reference.com/teams/DET/1977.html,1976-77,NHL,Detroit Red Wings,80,16,55,9,,41,.256,-1.44,0.14,5th,,A. Delvecchio,L. Wilson
+DET,http://www.hockey-reference.com/teams/DET/1976.html,1975-76,NHL,Detroit Red Wings,80,26,44,10,,62,.388,-0.85,0.08,4th,,D. Barkley,A. Delvecchio
+DET,http://www.hockey-reference.com/teams/DET/1975.html,1974-75,NHL,Detroit Red Wings,80,23,45,12,,58,.363,-0.89,0.06,4th,,A. Delvecchio
+DET,http://www.hockey-reference.com/teams/DET/1974.html,1973-74,NHL,Detroit Red Wings,78,29,39,10,,68,.436,-0.75,0.07,6th,,T. Garvin,A. Delvecchio
+DET,http://www.hockey-reference.com/teams/DET/1973.html,1972-73,NHL,Detroit Red Wings,78,37,29,12,,86,.551,0.27,-0.02,5th,,J. Wilson
+DET,http://www.hockey-reference.com/teams/DET/1972.html,1971-72,NHL,Detroit Red Wings,78,33,35,10,,76,.487,-0.01,0.00,5th,,D. Barkley,J. Wilson
+DET,http://www.hockey-reference.com/teams/DET/1971.html,1970-71,NHL,Detroit Red Wings,78,22,45,11,,55,.353,-1.18,0.09,7th,,N. Harkness,D. Barkley
+DET,http://www.hockey-reference.com/teams/DET/1970.html,1969-70,NHL,Detroit Red Wings,76,40,21,15,,95,.625,0.65,0.03,3rd,Lost NHL Quarter-Finals,B. Gadsby,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1969.html,1968-69,NHL,Detroit Red Wings,76,33,31,12,,78,.513,0.30,0.06,5th,,B. Gadsby
+DET,http://www.hockey-reference.com/teams/DET/1968.html,1967-68,NHL,Detroit Red Wings,74,27,35,12,,66,.446,0.10,0.27,6th,,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1967.html,1966-67,NHL,Detroit Red Wings,70,27,39,4,,58,.414,-0.35,0.07,5th,,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1966.html,1965-66,NHL,Detroit Red Wings,70,31,27,12,,74,.529,0.32,-0.07,4th,Lost Stanley Cup Finals,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1965.html,1964-65,NHL,Detroit Red Wings,70,40,23,7,,87,.621,0.58,-0.12,1st,Lost NHL Semi-Finals,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1964.html,1963-64,NHL,Detroit Red Wings,70,30,29,11,,71,.507,-0.16,0.03,4th,Lost Stanley Cup Finals,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1963.html,1962-63,NHL,Detroit Red Wings,70,32,25,13,,77,.550,0.07,-0.01,4th,Lost Stanley Cup Finals,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1962.html,1961-62,NHL,Detroit Red Wings,70,23,33,14,,60,.429,-0.42,0.08,5th,,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1961.html,1960-61,NHL,Detroit Red Wings,70,25,29,16,,66,.471,-0.24,0.05,4th,Lost Stanley Cup Finals,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1960.html,1959-60,NHL,Detroit Red Wings,70,26,29,15,,67,.479,-0.13,0.03,4th,Lost NHL Semi-Finals,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1959.html,1958-59,NHL,Detroit Red Wings,70,25,37,8,,58,.414,-0.61,0.12,6th,,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1958.html,1957-58,NHL,Detroit Red Wings,70,29,29,12,,70,.500,-0.37,0.07,3rd,Lost NHL Semi-Finals,J. Skinner,S. Abel
+DET,http://www.hockey-reference.com/teams/DET/1957.html,1956-57,NHL,Detroit Red Wings,70,38,20,12,,88,.629,0.49,-0.10,1st,Lost NHL Semi-Finals,J. Skinner
+DET,http://www.hockey-reference.com/teams/DET/1956.html,1955-56,NHL,Detroit Red Wings,70,30,24,16,,76,.543,0.42,-0.08,2nd,Lost Stanley Cup Finals,J. Skinner
+DET,http://www.hockey-reference.com/teams/DET/1955.html,1954-55,NHL,Detroit Red Wings,70,42,17,11,,95,.679,0.83,-0.17,1st,<strong>Won Stanley Cup Finals</strong>,J. Skinner
+DET,http://www.hockey-reference.com/teams/DET/1954.html,1953-54,NHL,Detroit Red Wings,70,37,19,14,,88,.629,0.70,-0.14,1st,<strong>Won Stanley Cup Finals</strong>,T. Ivan
+DET,http://www.hockey-reference.com/teams/DET/1953.html,1952-53,NHL,Detroit Red Wings,70,36,16,18,,90,.643,1.06,-0.21,1st,Lost NHL Semi-Finals,T. Ivan
+DET,http://www.hockey-reference.com/teams/DET/1952.html,1951-52,NHL,Detroit Red Wings,70,44,14,12,,100,.714,0.98,-0.20,1st,<strong>Won Stanley Cup Finals</strong>,T. Ivan
+DET,http://www.hockey-reference.com/teams/DET/1951.html,1950-51,NHL,Detroit Red Wings,70,44,13,13,,101,.721,1.16,-0.23,1st,Lost NHL Semi-Finals,T. Ivan
+DET,http://www.hockey-reference.com/teams/DET/1950.html,1949-50,NHL,Detroit Red Wings,70,37,19,14,,88,.629,0.78,-0.15,1st,<strong>Won Stanley Cup Finals</strong>,T. Ivan
+DET,http://www.hockey-reference.com/teams/DET/1949.html,1948-49,NHL,Detroit Red Wings,60,34,19,7,,75,.625,0.69,-0.14,1st,Lost Stanley Cup Finals,T. Ivan
+DET,http://www.hockey-reference.com/teams/DET/1948.html,1947-48,NHL,Detroit Red Wings,60,30,18,12,,72,.600,0.54,-0.11,2nd,Lost Stanley Cup Finals,T. Ivan
+DET,http://www.hockey-reference.com/teams/DET/1947.html,1946-47,NHL,Detroit Red Wings,60,22,27,11,,55,.458,-0.04,0.01,4th,Lost NHL Semi-Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1946.html,1945-46,NHL,Detroit Red Wings,50,20,20,10,,50,.500,-0.22,0.04,4th,Lost NHL Semi-Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1945.html,1944-45,NHL,Detroit Red Wings,50,31,14,5,,67,.670,0.95,-0.19,2nd,Lost Stanley Cup Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1944.html,1943-44,NHL,Detroit Red Wings,50,26,18,6,,58,.580,0.62,-0.12,2nd,Lost NHL Semi-Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1943.html,1942-43,NHL,Detroit Red Wings,50,25,14,11,,61,.610,0.75,-0.15,1st,<strong>Won Stanley Cup Finals</strong>,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1942.html,1941-42,NHL,Detroit Red Wings,48,19,25,4,,42,.438,-0.13,0.02,5th,Lost Stanley Cup Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1941.html,1940-41,NHL,Detroit Red Wings,48,21,16,11,,53,.552,0.18,-0.03,3rd,Lost Stanley Cup Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1940.html,1939-40,NHL,Detroit Red Wings,48,16,26,6,,38,.396,-0.63,0.10,5th,Lost NHL Semi-Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1939.html,1938-39,NHL,Detroit Red Wings,48,18,24,6,,42,.438,-0.38,0.06,5th,Lost NHL Semi-Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1938.html,1937-38,NHL,Detroit Red Wings,48,12,25,11,,35,.365,-0.58,0.12,4th,,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1937.html,1936-37,NHL,Detroit Red Wings,48,25,14,9,,59,.615,0.48,-0.07,1st,<strong>Won Stanley Cup Finals</strong>,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1936.html,1935-36,NHL,Detroit Red Wings,48,24,16,8,,56,.583,0.39,-0.04,1st,<strong>Won Stanley Cup Finals</strong>,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1935.html,1934-35,NHL,Detroit Red Wings,48,19,22,7,,45,.469,0.24,-0.03,4th,,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1934.html,1933-34,NHL,Detroit Red Wings,48,24,14,10,,58,.604,0.28,-0.04,1st,Lost Stanley Cup Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DET/1933.html,1932-33,NHL,Detroit Red Wings,48,25,15,8,,58,.604,0.33,-0.04,2nd,Lost NHL Semi-Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DTF/1932.html,1931-32,NHL,Detroit Falcons,48,18,20,10,,46,.479,-0.23,0.04,3rd,Lost NHL Quarter-Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DTF/1931.html,1930-31,NHL,Detroit Falcons,44,16,21,7,,39,.443,-0.07,0.00,4th,,J. Adams
+DET,http://www.hockey-reference.com/teams/DTC/1930.html,1929-30,NHL,Detroit Cougars,44,14,24,6,,34,.386,-0.34,0.03,4th,,J. Adams
+DET,http://www.hockey-reference.com/teams/DTC/1929.html,1928-29,NHL,Detroit Cougars,44,19,16,9,,47,.534,0.15,-0.06,3rd,Lost NHL Quarter-Finals,J. Adams
+DET,http://www.hockey-reference.com/teams/DTC/1928.html,1927-28,NHL,Detroit Cougars,44,19,19,6,,44,.500,0.14,-0.07,4th,,J. Adams
+DET,http://www.hockey-reference.com/teams/DTC/1927.html,1926-27,NHL,Detroit Cougars,44,12,28,4,,28,.318,-0.61,0.05,5th,,A. Duncan,D. Keats

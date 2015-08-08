@@ -1,0 +1,86 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+CHI,http://www.hockey-reference.com/teams/CHI/2012.html,2011-12,NHL,Chicago Blackhawks,82,45,26,,11,101,.616,0.14,0.02,4th,Lost NHL Conference Quarter-Finals,J. Quenneville
+CHI,http://www.hockey-reference.com/teams/CHI/2011.html,2010-11,NHL,Chicago Blackhawks,82,44,29,,9,97,.591,0.41,0.01,3rd,Lost NHL Conference Quarter-Finals,J. Quenneville
+CHI,http://www.hockey-reference.com/teams/CHI/2010.html,2009-10,NHL,Chicago Blackhawks,82,52,22,,8,112,.683,0.77,0.02,1st,<strong>Won Stanley Cup Finals</strong>,J. Quenneville
+CHI,http://www.hockey-reference.com/teams/CHI/2009.html,2008-09,NHL,Chicago Blackhawks,82,46,24,,12,104,.634,0.60,0.01,2nd,Lost NHL Conference Finals,D. Savard,J. Quenneville
+CHI,http://www.hockey-reference.com/teams/CHI/2008.html,2007-08,NHL,Chicago Blackhawks,82,40,34,,8,88,.537,0.16,0.12,3rd,,D. Savard
+CHI,http://www.hockey-reference.com/teams/CHI/2007.html,2006-07,NHL,Chicago Blackhawks,82,31,42,,9,71,.433,-0.52,0.17,5th,,T. Yawney,D. Savard
+CHI,http://www.hockey-reference.com/teams/CHI/2006.html,2005-06,NHL,Chicago Blackhawks,82,26,43,,13,65,.396,-0.86,0.04,4th,,T. Yawney
+CHI,http://www.hockey-reference.com/teams/CHI/2004.html,2003-04,NHL,Chicago Blackhawks,82,20,43,11,8,59,.360,-0.84,0.02,5th,,B. Sutter
+CHI,http://www.hockey-reference.com/teams/CHI/2003.html,2002-03,NHL,Chicago Blackhawks,82,30,33,13,6,79,.482,-0.14,0.09,3rd,,B. Sutter
+CHI,http://www.hockey-reference.com/teams/CHI/2002.html,2001-02,NHL,Chicago Blackhawks,82,41,27,13,1,96,.585,0.19,0.08,3rd,Lost NHL Conference Quarter-Finals,B. Sutter
+CHI,http://www.hockey-reference.com/teams/CHI/2001.html,2000-01,NHL,Chicago Blackhawks,82,29,40,8,5,71,.433,-0.36,0.08,4th,,A. Suhonen
+CHI,http://www.hockey-reference.com/teams/CHI/2000.html,1999-00,NHL,Chicago Blackhawks,82,33,37,10,2,78,.476,0.10,0.13,3rd,,L. Molleken,B. Pulford
+CHI,http://www.hockey-reference.com/teams/CHI/1999.html,1998-99,NHL,Chicago Blackhawks,82,29,41,12,,70,.427,-0.55,0.01,3rd,,D. Graham,L. Molleken
+CHI,http://www.hockey-reference.com/teams/CHI/1998.html,1997-98,NHL,Chicago Blackhawks,82,30,39,13,,73,.445,-0.06,0.03,5th,,C. Hartsburg
+CHI,http://www.hockey-reference.com/teams/CHI/1997.html,1996-97,NHL,Chicago Blackhawks,82,34,35,13,,81,.494,0.18,0.02,5th,Lost NHL Conference Quarter-Finals,C. Hartsburg
+CHI,http://www.hockey-reference.com/teams/CHI/1996.html,1995-96,NHL,Chicago Blackhawks,82,40,28,14,,94,.573,0.61,-0.04,2nd,Lost NHL Conference Semi-Finals,C. Hartsburg
+CHI,http://www.hockey-reference.com/teams/CHI/1995.html,1994-95,NHL,Chicago Blackhawks,48,24,19,5,,53,.552,0.80,-0.05,3rd,Lost NHL Conference Finals,D. Sutter
+CHI,http://www.hockey-reference.com/teams/CHI/1994.html,1993-94,NHL,Chicago Blackhawks,84,39,36,9,,87,.518,0.15,-0.02,5th,Lost NHL Conference Quarter-Finals,D. Sutter
+CHI,http://www.hockey-reference.com/teams/CHI/1993.html,1992-93,NHL,Chicago Blackhawks,84,47,25,12,,106,.631,0.58,-0.01,1st,Lost NHL Division Semi-Finals,D. Sutter
+CHI,http://www.hockey-reference.com/teams/CHI/1992.html,1991-92,NHL,Chicago Blackhawks,80,36,29,15,,87,.544,0.22,-0.04,2nd,Lost Stanley Cup Finals,M. Keenan
+CHI,http://www.hockey-reference.com/teams/CHI/1991.html,1990-91,NHL,Chicago Blackhawks,80,49,23,8,,106,.663,0.85,-0.06,1st,Lost NHL Division Semi-Finals,M. Keenan
+CHI,http://www.hockey-reference.com/teams/CHI/1990.html,1989-90,NHL,Chicago Blackhawks,80,41,33,6,,88,.550,0.23,-0.05,1st,Lost NHL Conference Finals,M. Keenan
+CHI,http://www.hockey-reference.com/teams/CHI/1989.html,1988-89,NHL,Chicago Blackhawks,80,27,41,12,,66,.413,-0.57,-0.10,4th,Lost NHL Conference Finals,M. Keenan
+CHI,http://www.hockey-reference.com/teams/CHI/1988.html,1987-88,NHL,Chicago Blackhawks,80,30,41,9,,69,.431,-0.67,-0.12,3rd,Lost NHL Division Semi-Finals,B. Murdoch
+CHI,http://www.hockey-reference.com/teams/CHI/1987.html,1986-87,NHL,Chicago Blackhawks,80,29,37,14,,72,.450,-0.32,-0.07,3rd,Lost NHL Division Semi-Finals,B. Pulford
+CHI,http://www.hockey-reference.com/teams/CBH/1986.html,1985-86,NHL,Chicago Black Hawks,80,39,33,8,,86,.538,-0.15,-0.17,1st,Lost NHL Division Semi-Finals,B. Pulford
+CHI,http://www.hockey-reference.com/teams/CBH/1985.html,1984-85,NHL,Chicago Black Hawks,80,38,35,7,,83,.519,-0.05,-0.18,2nd,Lost NHL Conference Finals,O. Tessier,B. Pulford
+CHI,http://www.hockey-reference.com/teams/CBH/1984.html,1983-84,NHL,Chicago Black Hawks,80,30,42,8,,68,.425,-0.54,-0.11,4th,Lost NHL Division Semi-Finals,O. Tessier
+CHI,http://www.hockey-reference.com/teams/CBH/1983.html,1982-83,NHL,Chicago Black Hawks,80,47,23,10,,104,.650,0.75,-0.12,1st,Lost NHL Conference Finals,O. Tessier
+CHI,http://www.hockey-reference.com/teams/CBH/1982.html,1981-82,NHL,Chicago Black Hawks,80,30,38,12,,72,.450,-0.49,-0.10,4th,Lost NHL Conference Finals,K. Magnuson,B. Pulford
+CHI,http://www.hockey-reference.com/teams/CBH/1981.html,1980-81,NHL,Chicago Black Hawks,80,31,33,16,,78,.488,-0.13,0.01,2nd,Lost NHL Preliminary Round,K. Magnuson
+CHI,http://www.hockey-reference.com/teams/CBH/1980.html,1979-80,NHL,Chicago Black Hawks,80,34,27,19,,87,.544,-0.11,0.01,1st,Lost NHL Quarter-Finals,E. Johnston
+CHI,http://www.hockey-reference.com/teams/CBH/1979.html,1978-79,NHL,Chicago Black Hawks,80,29,36,15,,73,.456,-0.54,-0.13,1st,Lost NHL Quarter-Finals,B. Pulford
+CHI,http://www.hockey-reference.com/teams/CBH/1978.html,1977-78,NHL,Chicago Black Hawks,80,32,29,19,,83,.519,0.05,-0.07,1st,Lost NHL Quarter-Finals,B. Pulford
+CHI,http://www.hockey-reference.com/teams/CBH/1977.html,1976-77,NHL,Chicago Black Hawks,80,26,43,11,,63,.394,-0.74,-0.02,3rd,Lost NHL Preliminary Round,B. Reay,B. White
+CHI,http://www.hockey-reference.com/teams/CBH/1976.html,1975-76,NHL,Chicago Black Hawks,80,32,30,18,,82,.513,-0.15,-0.06,1st,Lost NHL Quarter-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1975.html,1974-75,NHL,Chicago Black Hawks,80,37,35,8,,82,.513,0.28,-0.06,3rd,Lost NHL Quarter-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1974.html,1973-74,NHL,Chicago Black Hawks,78,41,14,23,,105,.673,1.28,-0.11,2nd,Lost NHL Semi-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1973.html,1972-73,NHL,Chicago Black Hawks,78,42,27,9,,93,.596,0.70,-0.05,1st,Lost Stanley Cup Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1972.html,1971-72,NHL,Chicago Black Hawks,78,46,17,15,,107,.686,1.07,-0.08,1st,Lost NHL Semi-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1971.html,1970-71,NHL,Chicago Black Hawks,78,49,20,9,,107,.686,1.11,-0.09,1st,Lost Stanley Cup Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1970.html,1969-70,NHL,Chicago Black Hawks,76,45,22,9,,99,.651,1.04,-0.01,1st,Lost NHL Semi-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1969.html,1968-69,NHL,Chicago Black Hawks,76,34,33,9,,77,.507,0.49,0.04,6th,,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1968.html,1967-68,NHL,Chicago Black Hawks,74,32,26,16,,80,.541,0.13,0.26,4th,Lost NHL Semi-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1967.html,1966-67,NHL,Chicago Black Hawks,70,41,17,12,,94,.671,1.12,-0.22,1st,Lost NHL Semi-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1966.html,1965-66,NHL,Chicago Black Hawks,70,37,25,8,,82,.586,0.63,-0.13,2nd,Lost NHL Semi-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1965.html,1964-65,NHL,Chicago Black Hawks,70,34,28,8,,76,.543,0.57,-0.11,3rd,Lost Stanley Cup Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1964.html,1963-64,NHL,Chicago Black Hawks,70,36,22,12,,84,.600,0.58,-0.12,2nd,Lost NHL Semi-Finals,B. Reay
+CHI,http://www.hockey-reference.com/teams/CBH/1963.html,1962-63,NHL,Chicago Black Hawks,70,32,21,17,,81,.579,0.19,-0.04,2nd,Lost NHL Semi-Finals,R. Pilous
+CHI,http://www.hockey-reference.com/teams/CBH/1962.html,1961-62,NHL,Chicago Black Hawks,70,31,26,13,,75,.536,0.37,-0.07,3rd,Lost Stanley Cup Finals,R. Pilous
+CHI,http://www.hockey-reference.com/teams/CBH/1961.html,1960-61,NHL,Chicago Black Hawks,70,29,24,17,,75,.536,0.21,-0.04,3rd,<strong>Won Stanley Cup Finals</strong>,R. Pilous
+CHI,http://www.hockey-reference.com/teams/CBH/1960.html,1959-60,NHL,Chicago Black Hawks,70,28,29,13,,69,.493,0.13,-0.03,3rd,Lost NHL Semi-Finals,R. Pilous
+CHI,http://www.hockey-reference.com/teams/CBH/1959.html,1958-59,NHL,Chicago Black Hawks,70,28,29,13,,69,.493,-0.13,0.03,3rd,Lost NHL Semi-Finals,R. Pilous
+CHI,http://www.hockey-reference.com/teams/CBH/1958.html,1957-58,NHL,Chicago Black Hawks,70,24,39,7,,55,.393,-0.46,0.09,5th,,T. Ivan,R. Pilous
+CHI,http://www.hockey-reference.com/teams/CBH/1957.html,1956-57,NHL,Chicago Black Hawks,70,16,39,15,,47,.336,-0.67,0.13,6th,,T. Ivan
+CHI,http://www.hockey-reference.com/teams/CBH/1956.html,1955-56,NHL,Chicago Black Hawks,70,19,39,12,,50,.357,-0.73,0.15,6th,,D. Irvin
+CHI,http://www.hockey-reference.com/teams/CBH/1955.html,1954-55,NHL,Chicago Black Hawks,70,13,40,17,,43,.307,-0.88,0.18,6th,,F. Eddolls
+CHI,http://www.hockey-reference.com/teams/CBH/1954.html,1953-54,NHL,Chicago Black Hawks,70,12,51,7,,31,.221,-1.30,0.26,6th,,S. Abel
+CHI,http://www.hockey-reference.com/teams/CBH/1953.html,1952-53,NHL,Chicago Black Hawks,70,27,28,15,,69,.493,-0.07,0.01,4th,Lost NHL Semi-Finals,S. Abel
+CHI,http://www.hockey-reference.com/teams/CBH/1952.html,1951-52,NHL,Chicago Black Hawks,70,17,44,9,,43,.307,-0.99,0.20,6th,,E. Goodfellow
+CHI,http://www.hockey-reference.com/teams/CBH/1951.html,1950-51,NHL,Chicago Black Hawks,70,13,47,10,,36,.257,-1.30,0.26,6th,,E. Goodfellow
+CHI,http://www.hockey-reference.com/teams/CBH/1950.html,1949-50,NHL,Chicago Black Hawks,70,22,38,10,,54,.386,-0.49,0.10,6th,,C. Conacher
+CHI,http://www.hockey-reference.com/teams/CBH/1949.html,1948-49,NHL,Chicago Black Hawks,60,21,31,8,,50,.417,-0.53,0.11,5th,,C. Conacher
+CHI,http://www.hockey-reference.com/teams/CBH/1948.html,1947-48,NHL,Chicago Black Hawks,60,20,34,6,,46,.383,-0.42,0.08,6th,,J. Gottselig,C. Conacher
+CHI,http://www.hockey-reference.com/teams/CBH/1947.html,1946-47,NHL,Chicago Black Hawks,60,19,37,4,,42,.350,-1.13,0.23,6th,,J. Gottselig
+CHI,http://www.hockey-reference.com/teams/CBH/1946.html,1945-46,NHL,Chicago Black Hawks,50,23,20,7,,53,.530,0.37,-0.07,3rd,Lost NHL Semi-Finals,J. Gottselig
+CHI,http://www.hockey-reference.com/teams/CBH/1945.html,1944-45,NHL,Chicago Black Hawks,50,13,30,7,,33,.330,-0.88,0.18,5th,,P. Thompson,J. Gottselig
+CHI,http://www.hockey-reference.com/teams/CBH/1944.html,1943-44,NHL,Chicago Black Hawks,50,22,23,5,,49,.490,-0.15,0.03,4th,Lost Stanley Cup Finals,P. Thompson
+CHI,http://www.hockey-reference.com/teams/CBH/1943.html,1942-43,NHL,Chicago Black Hawks,50,17,18,15,,49,.490,-0.02,0.00,5th,,P. Thompson
+CHI,http://www.hockey-reference.com/teams/CBH/1942.html,1941-42,NHL,Chicago Black Hawks,48,22,23,3,,47,.490,-0.18,0.03,4th,Lost NHL Quarter-Finals,P. Thompson
+CHI,http://www.hockey-reference.com/teams/CBH/1941.html,1940-41,NHL,Chicago Black Hawks,48,16,25,7,,39,.406,-0.48,0.08,5th,Lost NHL Semi-Finals,P. Thompson
+CHI,http://www.hockey-reference.com/teams/CBH/1940.html,1939-40,NHL,Chicago Black Hawks,48,23,19,6,,52,.542,-0.14,0.02,4th,Lost NHL Quarter-Finals,P. Thompson
+CHI,http://www.hockey-reference.com/teams/CBH/1939.html,1938-39,NHL,Chicago Black Hawks,48,12,28,8,,32,.333,-0.73,0.12,7th,,B. Stewart,P. Thompson
+CHI,http://www.hockey-reference.com/teams/CBH/1938.html,1937-38,NHL,Chicago Black Hawks,48,14,25,9,,37,.385,-0.73,0.15,3rd,<strong>Won Stanley Cup Finals</strong>,B. Stewart
+CHI,http://www.hockey-reference.com/teams/CBH/1937.html,1936-37,NHL,Chicago Black Hawks,48,14,27,7,,35,.365,-0.56,0.11,4th,,C. Loughlin
+CHI,http://www.hockey-reference.com/teams/CBH/1936.html,1935-36,NHL,Chicago Black Hawks,48,21,19,8,,50,.521,0.04,0.02,3rd,Lost NHL Quarter-Finals,C. Loughlin
+CHI,http://www.hockey-reference.com/teams/CBH/1935.html,1934-35,NHL,Chicago Black Hawks,48,26,17,5,,57,.594,0.56,-0.07,2nd,Lost NHL Quarter-Finals,C. Loughlin
+CHI,http://www.hockey-reference.com/teams/CBH/1934.html,1933-34,NHL,Chicago Black Hawks,48,20,17,11,,51,.531,0.09,-0.01,2nd,<strong>Won Stanley Cup Finals</strong>,T. Gorman
+CHI,http://www.hockey-reference.com/teams/CBH/1933.html,1932-33,NHL,Chicago Black Hawks,48,16,20,12,,44,.458,-0.24,0.03,4th,,E. Iverson,G. Matheson,T. Gorman
+CHI,http://www.hockey-reference.com/teams/CBH/1932.html,1931-32,NHL,Chicago Black Hawks,48,18,19,11,,47,.490,-0.27,0.04,2nd,Lost NHL Quarter-Finals,B. Tobin
+CHI,http://www.hockey-reference.com/teams/CBH/1931.html,1930-31,NHL,Chicago Black Hawks,44,24,17,3,,51,.580,0.59,-0.09,2nd,Lost Stanley Cup Finals,D. Irvin
+CHI,http://www.hockey-reference.com/teams/CBH/1930.html,1929-30,NHL,Chicago Black Hawks,44,21,18,5,,47,.534,0.10,-0.04,2nd,Lost NHL Quarter-Finals,T. Shaughnessy,B. Tobin
+CHI,http://www.hockey-reference.com/teams/CBH/1929.html,1928-29,NHL,Chicago Black Hawks,44,7,29,8,,22,.250,-1.07,0.11,5th,,H. Gardiner,D. Irvin
+CHI,http://www.hockey-reference.com/teams/CBH/1928.html,1927-28,NHL,Chicago Black Hawks,44,7,34,3,,17,.193,-1.36,0.14,5th,,B. Stanley,H. Lehman
+CHI,http://www.hockey-reference.com/teams/CBH/1927.html,1926-27,NHL,Chicago Black Hawks,44,19,22,3,,41,.466,-0.05,-0.03,3rd,Lost NHL Quarter-Finals,P. Muldoon

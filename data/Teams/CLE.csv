@@ -1,0 +1,12 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+CLE,http://www.hockey-reference.com/teams/CLE/1978.html,1977-78,NHL,Cleveland Barons,80,22,45,13,,57,.356,-1.06,0.13,4th,,J. Evans
+CLE,http://www.hockey-reference.com/teams/CLE/1977.html,1976-77,NHL,Cleveland Barons,80,25,42,13,,63,.394,-0.55,0.10,4th,,J. Evans
+CLE,http://www.hockey-reference.com/teams/CGS/1976.html,1975-76,NHL,California Golden Seals,80,27,42,11,,65,.406,-0.26,0.09,4th,,J. Evans
+CLE,http://www.hockey-reference.com/teams/CGS/1975.html,1974-75,NHL,California Golden Seals,80,19,48,13,,51,.319,-1.18,0.12,4th,,M. Johnston,B. McCreary
+CLE,http://www.hockey-reference.com/teams/CGS/1974.html,1973-74,NHL,California Golden Seals,78,13,55,10,,36,.231,-1.77,0.12,8th,,F. Glover,M. Johnston
+CLE,http://www.hockey-reference.com/teams/CGS/1973.html,1972-73,NHL,California Golden Seals,78,16,46,16,,48,.308,-1.32,0.09,8th,,G. Young,F. Glover
+CLE,http://www.hockey-reference.com/teams/CGS/1972.html,1971-72,NHL,California Golden Seals,78,21,39,18,,60,.385,-0.86,0.07,6th,,F. Glover,V. Stasiuk
+CLE,http://www.hockey-reference.com/teams/CGS/1971.html,1970-71,NHL,California Golden Seals,78,20,53,5,,45,.288,-1.44,0.11,7th,,F. Glover
+CLE,http://www.hockey-reference.com/teams/OAK/1970.html,1969-70,NHL,Oakland Seals,76,22,40,14,,58,.382,-0.97,0.00,4th,Lost NHL Quarter-Finals,F. Glover
+CLE,http://www.hockey-reference.com/teams/OAK/1969.html,1968-69,NHL,Oakland Seals,76,29,36,11,,69,.454,-0.47,-0.05,2nd,Lost NHL Quarter-Finals,F. Glover
+CLE,http://www.hockey-reference.com/teams/OAK/1968.html,1967-68,NHL,Oakland Seals,74,15,42,17,,47,.318,-1.03,-0.14,6th,,B. Olmstead

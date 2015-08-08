@@ -1,0 +1,6 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+PTP,http://www.hockey-reference.com/teams/PTP/1930.html,1929-30,NHL,Pittsburgh Pirates,44,5,36,3,,13,.148,-1.68,0.21,5th,,F. Fredrickson
+PTP,http://www.hockey-reference.com/teams/PTP/1929.html,1928-29,NHL,Pittsburgh Pirates,44,9,27,8,,26,.295,-0.71,0.06,4th,,O. Cleghorn
+PTP,http://www.hockey-reference.com/teams/PTP/1928.html,1927-28,NHL,Pittsburgh Pirates,44,19,17,8,,46,.523,-0.22,-0.02,3rd,Lost NHL Quarter-Finals,O. Cleghorn
+PTP,http://www.hockey-reference.com/teams/PTP/1927.html,1926-27,NHL,Pittsburgh Pirates,44,15,26,3,,33,.375,-0.61,0.05,4th,,O. Cleghorn
+PTP,http://www.hockey-reference.com/teams/PTP/1926.html,1925-26,NHL,Pittsburgh Pirates,36,19,16,1,,39,.542,0.29,-0.05,3rd,Lost NHL Semi-Finals,O. Cleghorn

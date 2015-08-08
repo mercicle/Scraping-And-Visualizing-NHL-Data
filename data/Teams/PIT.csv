@@ -1,0 +1,45 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+PIT,http://www.hockey-reference.com/teams/PIT/2012.html,2011-12,NHL,Pittsburgh Penguins,82,51,25,,6,108,.659,0.71,-0.03,2nd,Lost NHL Conference Quarter-Finals,D. Bylsma
+PIT,http://www.hockey-reference.com/teams/PIT/2011.html,2010-11,NHL,Pittsburgh Penguins,82,49,25,,8,106,.646,0.43,-0.05,1st,Lost NHL Conference Quarter-Finals,D. Bylsma
+PIT,http://www.hockey-reference.com/teams/PIT/2010.html,2009-10,NHL,Pittsburgh Penguins,82,47,28,,7,101,.616,0.17,-0.07,2nd,Lost NHL Conference Semi-Finals,D. Bylsma
+PIT,http://www.hockey-reference.com/teams/PIT/2009.html,2008-09,NHL,Pittsburgh Penguins,82,45,28,,9,99,.604,0.28,-0.02,2nd,<strong>Won Stanley Cup Finals</strong>,M. Therrien,D. Bylsma
+PIT,http://www.hockey-reference.com/teams/PIT/2008.html,2007-08,NHL,Pittsburgh Penguins,82,47,27,,8,102,.622,0.24,-0.14,1st,Lost Stanley Cup Finals,M. Therrien
+PIT,http://www.hockey-reference.com/teams/PIT/2007.html,2006-07,NHL,Pittsburgh Penguins,82,47,24,,11,105,.640,0.21,-0.17,2nd,Lost NHL Conference Quarter-Finals,M. Therrien
+PIT,http://www.hockey-reference.com/teams/PIT/2006.html,2005-06,NHL,Pittsburgh Penguins,82,22,46,,14,58,.354,-0.89,-0.01,5th,,E. Olczyk,M. Therrien
+PIT,http://www.hockey-reference.com/teams/PIT/2004.html,2003-04,NHL,Pittsburgh Penguins,82,23,47,8,4,58,.354,-1.31,0.07,5th,,E. Olczyk
+PIT,http://www.hockey-reference.com/teams/PIT/2003.html,2002-03,NHL,Pittsburgh Penguins,82,27,44,6,5,65,.396,-0.85,-0.04,5th,,R. Kehoe
+PIT,http://www.hockey-reference.com/teams/PIT/2002.html,2001-02,NHL,Pittsburgh Penguins,82,28,41,8,5,69,.421,-0.66,-0.04,5th,,I. Hlinka,R. Kehoe
+PIT,http://www.hockey-reference.com/teams/PIT/2001.html,2000-01,NHL,Pittsburgh Penguins,82,42,28,9,3,96,.585,0.23,-0.07,3rd,Lost NHL Conference Finals,I. Hlinka
+PIT,http://www.hockey-reference.com/teams/PIT/2000.html,1999-00,NHL,Pittsburgh Penguins,82,37,31,8,6,88,.537,-0.03,-0.09,3rd,Lost NHL Conference Semi-Finals,K. Constantine,H. Brooks
+PIT,http://www.hockey-reference.com/teams/PIT/1999.html,1998-99,NHL,Pittsburgh Penguins,82,38,30,14,,90,.549,0.21,0.00,3rd,Lost NHL Conference Semi-Finals,K. Constantine
+PIT,http://www.hockey-reference.com/teams/PIT/1998.html,1997-98,NHL,Pittsburgh Penguins,82,40,24,18,,98,.598,0.48,-0.01,1st,Lost NHL Conference Quarter-Finals,K. Constantine
+PIT,http://www.hockey-reference.com/teams/PIT/1997.html,1996-97,NHL,Pittsburgh Penguins,82,38,36,8,,84,.512,0.04,-0.02,2nd,Lost NHL Conference Quarter-Finals,E. Johnston,C. Patrick
+PIT,http://www.hockey-reference.com/teams/PIT/1996.html,1995-96,NHL,Pittsburgh Penguins,82,49,29,4,,102,.622,0.90,-0.05,1st,Lost NHL Conference Finals,E. Johnston
+PIT,http://www.hockey-reference.com/teams/PIT/1995.html,1994-95,NHL,Pittsburgh Penguins,48,29,16,3,,61,.635,0.44,-0.04,2nd,Lost NHL Conference Semi-Finals,E. Johnston
+PIT,http://www.hockey-reference.com/teams/PIT/1994.html,1993-94,NHL,Pittsburgh Penguins,84,44,27,13,,101,.601,0.17,0.00,1st,Lost NHL Conference Quarter-Finals,E. Johnston
+PIT,http://www.hockey-reference.com/teams/PIT/1993.html,1992-93,NHL,Pittsburgh Penguins,84,56,21,7,,119,.708,1.23,0.05,1st,Lost NHL Division Finals,S. Bowman
+PIT,http://www.hockey-reference.com/teams/PIT/1992.html,1991-92,NHL,Pittsburgh Penguins,80,39,32,9,,87,.544,0.52,0.08,3rd,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+PIT,http://www.hockey-reference.com/teams/PIT/1991.html,1990-91,NHL,Pittsburgh Penguins,80,41,33,6,,88,.550,0.42,-0.04,1st,<strong>Won Stanley Cup Finals</strong>,B. Johnson
+PIT,http://www.hockey-reference.com/teams/PIT/1990.html,1989-90,NHL,Pittsburgh Penguins,80,32,40,8,,72,.450,-0.49,0.02,5th,,G. Ubriaco,C. Patrick
+PIT,http://www.hockey-reference.com/teams/PIT/1989.html,1988-89,NHL,Pittsburgh Penguins,80,40,33,7,,87,.544,-0.05,-0.02,2nd,Lost NHL Division Finals,G. Ubriaco
+PIT,http://www.hockey-reference.com/teams/PIT/1988.html,1987-88,NHL,Pittsburgh Penguins,80,36,35,9,,81,.506,0.10,0.06,6th,,P. Creamer
+PIT,http://www.hockey-reference.com/teams/PIT/1987.html,1986-87,NHL,Pittsburgh Penguins,80,30,38,12,,72,.450,0.07,-0.02,5th,,B. Berry
+PIT,http://www.hockey-reference.com/teams/PIT/1986.html,1985-86,NHL,Pittsburgh Penguins,80,34,38,8,,76,.475,0.18,0.08,5th,,B. Berry
+PIT,http://www.hockey-reference.com/teams/PIT/1985.html,1984-85,NHL,Pittsburgh Penguins,80,24,51,5,,53,.331,-1.27,0.10,6th,,B. Berry
+PIT,http://www.hockey-reference.com/teams/PIT/1984.html,1983-84,NHL,Pittsburgh Penguins,80,16,58,6,,38,.238,-1.57,0.13,6th,,L. Angotti
+PIT,http://www.hockey-reference.com/teams/PIT/1983.html,1982-83,NHL,Pittsburgh Penguins,80,18,53,9,,45,.281,-1.61,0.11,6th,,E. Johnston
+PIT,http://www.hockey-reference.com/teams/PIT/1982.html,1981-82,NHL,Pittsburgh Penguins,80,31,36,13,,75,.469,-0.21,0.13,4th,Lost NHL Division Semi-Finals,E. Johnston
+PIT,http://www.hockey-reference.com/teams/PIT/1981.html,1980-81,NHL,Pittsburgh Penguins,80,30,37,13,,73,.456,-0.51,0.03,3rd,Lost NHL Preliminary Round,E. Johnston
+PIT,http://www.hockey-reference.com/teams/PIT/1980.html,1979-80,NHL,Pittsburgh Penguins,80,30,37,13,,73,.456,-0.62,0.03,3rd,Lost NHL Preliminary Round,J. Wilson
+PIT,http://www.hockey-reference.com/teams/PIT/1979.html,1978-79,NHL,Pittsburgh Penguins,80,36,31,13,,85,.531,0.05,0.02,2nd,Lost NHL Quarter-Finals,J. Wilson
+PIT,http://www.hockey-reference.com/teams/PIT/1978.html,1977-78,NHL,Pittsburgh Penguins,80,25,37,18,,68,.425,-0.77,0.07,4th,,J. Wilson
+PIT,http://www.hockey-reference.com/teams/PIT/1977.html,1976-77,NHL,Pittsburgh Penguins,80,34,33,13,,81,.506,-0.11,0.04,3rd,Lost NHL Preliminary Round,K. Schinkel
+PIT,http://www.hockey-reference.com/teams/PIT/1976.html,1975-76,NHL,Pittsburgh Penguins,80,35,33,12,,82,.513,0.43,-0.02,3rd,Lost NHL Preliminary Round,M. Boileau,K. Schinkel
+PIT,http://www.hockey-reference.com/teams/PIT/1975.html,1974-75,NHL,Pittsburgh Penguins,80,37,28,15,,89,.556,0.42,-0.04,3rd,Lost NHL Quarter-Finals,M. Boileau
+PIT,http://www.hockey-reference.com/teams/PIT/1974.html,1973-74,NHL,Pittsburgh Penguins,78,28,41,9,,65,.417,-0.37,0.03,5th,,K. Schinkel,M. Boileau
+PIT,http://www.hockey-reference.com/teams/PIT/1973.html,1972-73,NHL,Pittsburgh Penguins,78,32,37,9,,73,.468,-0.11,-0.01,5th,,R. Kelly,K. Schinkel
+PIT,http://www.hockey-reference.com/teams/PIT/1972.html,1971-72,NHL,Pittsburgh Penguins,78,26,38,14,,66,.423,-0.45,0.04,4th,Lost NHL Quarter-Finals,R. Kelly
+PIT,http://www.hockey-reference.com/teams/PIT/1971.html,1970-71,NHL,Pittsburgh Penguins,78,21,37,20,,62,.397,-0.23,0.02,6th,,R. Kelly
+PIT,http://www.hockey-reference.com/teams/PIT/1970.html,1969-70,NHL,Pittsburgh Penguins,76,26,38,12,,64,.421,-0.76,-0.02,2nd,Lost NHL Semi-Finals,R. Kelly
+PIT,http://www.hockey-reference.com/teams/PIT/1969.html,1968-69,NHL,Pittsburgh Penguins,76,20,45,11,,51,.336,-0.84,-0.01,5th,,R. Sullivan
+PIT,http://www.hockey-reference.com/teams/PIT/1968.html,1967-68,NHL,Pittsburgh Penguins,74,27,34,13,,67,.453,-0.50,-0.21,5th,,R. Sullivan

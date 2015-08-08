@@ -1,0 +1,12 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+CBJ,http://www.hockey-reference.com/teams/CBJ/2012.html,2011-12,NHL,Columbus Blue Jackets,82,29,46,,7,65,.396,-0.65,0.08,5th,,S. Arniel,T. Richards
+CBJ,http://www.hockey-reference.com/teams/CBJ/2011.html,2010-11,NHL,Columbus Blue Jackets,82,34,35,,13,81,.494,-0.45,0.08,5th,,S. Arniel
+CBJ,http://www.hockey-reference.com/teams/CBJ/2010.html,2009-10,NHL,Columbus Blue Jackets,82,32,35,,15,79,.482,-0.42,0.11,5th,,K. Hitchcock,C. Noel
+CBJ,http://www.hockey-reference.com/teams/CBJ/2009.html,2008-09,NHL,Columbus Blue Jackets,82,41,31,,10,92,.561,-0.01,0.04,4th,Lost NHL Conference Quarter-Finals,K. Hitchcock
+CBJ,http://www.hockey-reference.com/teams/CBJ/2008.html,2007-08,NHL,Columbus Blue Jackets,82,34,36,,12,80,.488,-0.16,0.15,4th,,K. Hitchcock
+CBJ,http://www.hockey-reference.com/teams/CBJ/2007.html,2006-07,NHL,Columbus Blue Jackets,82,33,42,,7,73,.445,-0.42,0.16,4th,,G. Gallant,G. Agnew,K. Hitchcock
+CBJ,http://www.hockey-reference.com/teams/CBJ/2006.html,2005-06,NHL,Columbus Blue Jackets,82,35,43,,4,74,.451,-0.66,0.02,3rd,,G. Gallant
+CBJ,http://www.hockey-reference.com/teams/CBJ/2004.html,2003-04,NHL,Columbus Blue Jackets,82,25,45,8,4,62,.378,-0.72,0.03,4th,,D. MacLean,G. Gallant
+CBJ,http://www.hockey-reference.com/teams/CBJ/2003.html,2002-03,NHL,Columbus Blue Jackets,82,29,42,8,3,69,.421,-0.51,0.11,5th,,D. King,D. MacLean
+CBJ,http://www.hockey-reference.com/teams/CBJ/2002.html,2001-02,NHL,Columbus Blue Jackets,82,22,47,8,5,57,.348,-0.97,0.14,5th,,D. King
+CBJ,http://www.hockey-reference.com/teams/CBJ/2001.html,2000-01,NHL,Columbus Blue Jackets,82,28,39,9,6,71,.433,-0.44,0.08,5th,,D. King

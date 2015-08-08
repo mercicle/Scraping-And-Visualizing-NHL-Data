@@ -1,0 +1,95 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+MTL,http://www.hockey-reference.com/teams/MTL/2012.html,2011-12,NHL,Montreal Canadiens,82,31,35,,16,78,.476,-0.17,0.00,5th,,J. Martin,R. Cunneyworth
+MTL,http://www.hockey-reference.com/teams/MTL/2011.html,2010-11,NHL,Montreal Canadiens,82,44,30,,8,96,.585,0.05,-0.04,2nd,Lost NHL Conference Quarter-Finals,J. Martin
+MTL,http://www.hockey-reference.com/teams/MTL/2010.html,2009-10,NHL,Montreal Canadiens,82,39,33,,10,88,.537,-0.14,-0.07,4th,Lost NHL Conference Finals,J. Martin
+MTL,http://www.hockey-reference.com/teams/MTL/2009.html,2008-09,NHL,Montreal Canadiens,82,41,30,,11,93,.567,0.02,-0.01,2nd,Lost NHL Conference Quarter-Finals,G. Carbonneau,B. Gainey
+MTL,http://www.hockey-reference.com/teams/MTL/2008.html,2007-08,NHL,Montreal Canadiens,82,47,25,,10,104,.634,0.35,-0.14,1st,Lost NHL Conference Semi-Finals,G. Carbonneau
+MTL,http://www.hockey-reference.com/teams/MTL/2007.html,2006-07,NHL,Montreal Canadiens,82,42,34,,6,90,.549,-0.21,-0.08,4th,,G. Carbonneau
+MTL,http://www.hockey-reference.com/teams/MTL/2006.html,2005-06,NHL,Montreal Canadiens,82,42,31,,9,93,.567,-0.01,0.04,3rd,Lost NHL Conference Quarter-Finals,C. Julien,B. Gainey
+MTL,http://www.hockey-reference.com/teams/MTL/2004.html,2003-04,NHL,Montreal Canadiens,82,41,30,7,4,93,.567,0.23,0.04,4th,Lost NHL Conference Semi-Finals,C. Julien
+MTL,http://www.hockey-reference.com/teams/MTL/2003.html,2002-03,NHL,Montreal Canadiens,82,30,35,8,9,77,.470,-0.39,-0.05,4th,,M. Therrien,C. Julien
+MTL,http://www.hockey-reference.com/teams/MTL/2002.html,2001-02,NHL,Montreal Canadiens,82,36,31,12,3,87,.530,-0.10,-0.08,4th,Lost NHL Conference Semi-Finals,M. Therrien
+MTL,http://www.hockey-reference.com/teams/MTL/2001.html,2000-01,NHL,Montreal Canadiens,82,28,40,8,6,70,.427,-0.35,-0.03,5th,,A. Vigneault,M. Therrien
+MTL,http://www.hockey-reference.com/teams/MTL/2000.html,1999-00,NHL,Montreal Canadiens,82,35,34,9,4,83,.506,-0.06,-0.09,4th,,A. Vigneault
+MTL,http://www.hockey-reference.com/teams/MTL/1999.html,1998-99,NHL,Montreal Canadiens,82,32,39,11,,75,.457,-0.26,0.05,5th,,A. Vigneault
+MTL,http://www.hockey-reference.com/teams/MTL/1998.html,1997-98,NHL,Montreal Canadiens,82,37,32,13,,87,.530,0.33,0.00,4th,Lost NHL Conference Semi-Finals,A. Vigneault
+MTL,http://www.hockey-reference.com/teams/MTL/1997.html,1996-97,NHL,Montreal Canadiens,82,31,36,15,,77,.470,-0.34,-0.01,4th,Lost NHL Conference Quarter-Finals,M. Tremblay
+MTL,http://www.hockey-reference.com/teams/MTL/1996.html,1995-96,NHL,Montreal Canadiens,82,40,32,10,,90,.549,0.20,-0.01,3rd,Lost NHL Conference Quarter-Finals,J. Demers,J. Laperriere,M. Tremblay
+MTL,http://www.hockey-reference.com/teams/MTL/1995.html,1994-95,NHL,Montreal Canadiens,48,18,23,7,,43,.448,-0.42,0.06,6th,,J. Demers
+MTL,http://www.hockey-reference.com/teams/MTL/1994.html,1993-94,NHL,Montreal Canadiens,84,41,29,14,,96,.571,0.39,-0.03,3rd,Lost NHL Conference Quarter-Finals,J. Demers
+MTL,http://www.hockey-reference.com/teams/MTL/1993.html,1992-93,NHL,Montreal Canadiens,84,48,30,6,,102,.607,0.49,-0.06,3rd,<strong>Won Stanley Cup Finals</strong>,J. Demers
+MTL,http://www.hockey-reference.com/teams/MTL/1992.html,1991-92,NHL,Montreal Canadiens,80,41,28,11,,93,.581,0.64,-0.12,1st,Lost NHL Division Finals,P. Burns
+MTL,http://www.hockey-reference.com/teams/MTL/1991.html,1990-91,NHL,Montreal Canadiens,80,39,30,11,,89,.556,0.20,-0.10,2nd,Lost NHL Division Finals,P. Burns
+MTL,http://www.hockey-reference.com/teams/MTL/1990.html,1989-90,NHL,Montreal Canadiens,80,41,28,11,,93,.581,0.60,-0.07,3rd,Lost NHL Division Finals,P. Burns
+MTL,http://www.hockey-reference.com/teams/MTL/1989.html,1988-89,NHL,Montreal Canadiens,80,53,18,9,,115,.719,1.16,-0.06,1st,Lost Stanley Cup Finals,P. Burns
+MTL,http://www.hockey-reference.com/teams/MTL/1988.html,1987-88,NHL,Montreal Canadiens,80,45,22,13,,103,.644,0.71,-0.04,1st,Lost NHL Division Finals,J. Perron
+MTL,http://www.hockey-reference.com/teams/MTL/1987.html,1986-87,NHL,Montreal Canadiens,80,41,29,10,,92,.575,0.45,0.00,2nd,Lost NHL Conference Finals,J. Perron
+MTL,http://www.hockey-reference.com/teams/MTL/1986.html,1985-86,NHL,Montreal Canadiens,80,40,33,7,,87,.544,0.70,0.08,2nd,<strong>Won Stanley Cup Finals</strong>,J. Perron
+MTL,http://www.hockey-reference.com/teams/MTL/1985.html,1984-85,NHL,Montreal Canadiens,80,41,27,12,,94,.588,0.64,0.05,1st,Lost NHL Division Finals,J. Lemaire
+MTL,http://www.hockey-reference.com/teams/MTL/1984.html,1983-84,NHL,Montreal Canadiens,80,35,40,5,,75,.469,0.06,0.17,4th,Lost NHL Conference Finals,B. Berry,J. Lemaire
+MTL,http://www.hockey-reference.com/teams/MTL/1983.html,1982-83,NHL,Montreal Canadiens,80,42,24,14,,98,.613,0.78,-0.02,2nd,Lost NHL Division Semi-Finals,B. Berry
+MTL,http://www.hockey-reference.com/teams/MTL/1982.html,1981-82,NHL,Montreal Canadiens,80,46,17,17,,109,.681,1.68,-0.04,1st,Lost NHL Division Semi-Finals,B. Berry
+MTL,http://www.hockey-reference.com/teams/MTL/1981.html,1980-81,NHL,Montreal Canadiens,80,45,22,13,,103,.644,1.19,-0.06,1st,Lost NHL Preliminary Round,C. Ruel
+MTL,http://www.hockey-reference.com/teams/MTL/1980.html,1979-80,NHL,Montreal Canadiens,80,47,20,13,,107,.669,1.05,-0.05,1st,Lost NHL Quarter-Finals,B. Geoffrion,C. Ruel
+MTL,http://www.hockey-reference.com/teams/MTL/1979.html,1978-79,NHL,Montreal Canadiens,80,52,17,11,,115,.719,1.53,-0.13,1st,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+MTL,http://www.hockey-reference.com/teams/MTL/1978.html,1977-78,NHL,Montreal Canadiens,80,59,10,11,,129,.806,2.06,-0.14,1st,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+MTL,http://www.hockey-reference.com/teams/MTL/1977.html,1976-77,NHL,Montreal Canadiens,80,60,8,12,,132,.825,2.54,-0.16,1st,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+MTL,http://www.hockey-reference.com/teams/MTL/1976.html,1975-76,NHL,Montreal Canadiens,80,58,11,11,,127,.794,1.91,-0.13,1st,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+MTL,http://www.hockey-reference.com/teams/MTL/1975.html,1974-75,NHL,Montreal Canadiens,80,47,14,19,,113,.706,1.72,-0.14,1st,Lost NHL Semi-Finals,S. Bowman
+MTL,http://www.hockey-reference.com/teams/MTL/1974.html,1973-74,NHL,Montreal Canadiens,78,45,24,9,,99,.635,0.65,-0.03,2nd,Lost NHL Quarter-Finals,S. Bowman
+MTL,http://www.hockey-reference.com/teams/MTL/1973.html,1972-73,NHL,Montreal Canadiens,78,52,10,16,,120,.769,1.73,-0.13,1st,<strong>Won Stanley Cup Finals</strong>,S. Bowman
+MTL,http://www.hockey-reference.com/teams/MTL/1972.html,1971-72,NHL,Montreal Canadiens,78,46,16,16,,108,.692,1.21,-0.09,3rd,Lost NHL Quarter-Finals,S. Bowman
+MTL,http://www.hockey-reference.com/teams/MTL/1971.html,1970-71,NHL,Montreal Canadiens,78,42,23,13,,97,.622,0.89,-0.07,3rd,<strong>Won Stanley Cup Finals</strong>,C. Ruel,A. MacNeil
+MTL,http://www.hockey-reference.com/teams/MTL/1970.html,1969-70,NHL,Montreal Canadiens,76,38,22,16,,92,.605,0.60,0.03,5th,,C. Ruel
+MTL,http://www.hockey-reference.com/teams/MTL/1969.html,1968-69,NHL,Montreal Canadiens,76,46,19,11,,103,.678,0.91,0.00,1st,<strong>Won Stanley Cup Finals</strong>,C. Ruel
+MTL,http://www.hockey-reference.com/teams/MTL/1968.html,1967-68,NHL,Montreal Canadiens,74,42,22,10,,94,.635,1.07,0.14,1st,<strong>Won Stanley Cup Finals</strong>,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1967.html,1966-67,NHL,Montreal Canadiens,70,32,25,13,,77,.550,0.17,-0.03,2nd,Lost Stanley Cup Finals,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1966.html,1965-66,NHL,Montreal Canadiens,70,41,21,8,,90,.643,0.79,-0.16,1st,<strong>Won Stanley Cup Finals</strong>,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1965.html,1964-65,NHL,Montreal Canadiens,70,36,23,11,,83,.593,0.31,-0.06,2nd,<strong>Won Stanley Cup Finals</strong>,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1964.html,1963-64,NHL,Montreal Canadiens,70,36,21,13,,85,.607,0.50,-0.10,1st,Lost NHL Semi-Finals,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1963.html,1962-63,NHL,Montreal Canadiens,70,28,19,23,,79,.564,0.50,-0.10,3rd,Lost NHL Semi-Finals,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1962.html,1961-62,NHL,Montreal Canadiens,70,42,14,14,,98,.700,1.11,-0.22,1st,Lost NHL Semi-Finals,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1961.html,1960-61,NHL,Montreal Canadiens,70,41,19,10,,92,.657,0.79,-0.16,1st,Lost NHL Semi-Finals,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1960.html,1959-60,NHL,Montreal Canadiens,70,40,18,12,,92,.657,0.92,-0.18,1st,<strong>Won Stanley Cup Finals</strong>,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1959.html,1958-59,NHL,Montreal Canadiens,70,39,18,13,,91,.650,1.19,-0.24,1st,<strong>Won Stanley Cup Finals</strong>,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1958.html,1957-58,NHL,Montreal Canadiens,70,43,17,10,,96,.686,1.10,-0.22,1st,<strong>Won Stanley Cup Finals</strong>,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1957.html,1956-57,NHL,Montreal Canadiens,70,35,23,12,,82,.586,0.66,-0.13,2nd,<strong>Won Stanley Cup Finals</strong>,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1956.html,1955-56,NHL,Montreal Canadiens,70,45,15,10,,100,.714,1.08,-0.22,1st,<strong>Won Stanley Cup Finals</strong>,T. Blake
+MTL,http://www.hockey-reference.com/teams/MTL/1955.html,1954-55,NHL,Montreal Canadiens,70,41,18,11,,93,.664,0.85,-0.17,2nd,Lost Stanley Cup Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1954.html,1953-54,NHL,Montreal Canadiens,70,35,24,11,,81,.579,0.64,-0.13,2nd,Lost Stanley Cup Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1953.html,1952-53,NHL,Montreal Canadiens,70,28,23,19,,75,.536,0.08,-0.02,2nd,<strong>Won Stanley Cup Finals</strong>,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1952.html,1951-52,NHL,Montreal Canadiens,70,34,26,10,,78,.557,0.37,-0.07,2nd,Lost Stanley Cup Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1951.html,1950-51,NHL,Montreal Canadiens,70,25,30,15,,65,.464,-0.13,0.03,3rd,Lost Stanley Cup Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1950.html,1949-50,NHL,Montreal Canadiens,70,29,22,19,,77,.550,0.26,-0.05,2nd,Lost NHL Semi-Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1949.html,1948-49,NHL,Montreal Canadiens,60,28,23,9,,65,.542,0.36,-0.07,3rd,Lost NHL Semi-Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1948.html,1947-48,NHL,Montreal Canadiens,60,20,29,11,,51,.425,-0.31,0.06,5th,,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1947.html,1946-47,NHL,Montreal Canadiens,60,34,16,10,,78,.650,0.71,-0.14,1st,Lost Stanley Cup Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1946.html,1945-46,NHL,Montreal Canadiens,50,28,17,5,,61,.610,0.63,-0.13,1st,<strong>Won Stanley Cup Finals</strong>,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1945.html,1944-45,NHL,Montreal Canadiens,50,38,8,4,,80,.800,1.78,-0.36,1st,Lost NHL Semi-Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1944.html,1943-44,NHL,Montreal Canadiens,50,38,5,7,,83,.830,2.08,-0.42,1st,<strong>Won Stanley Cup Finals</strong>,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1943.html,1942-43,NHL,Montreal Canadiens,50,19,19,12,,50,.500,-0.17,0.03,4th,Lost NHL Semi-Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1942.html,1941-42,NHL,Montreal Canadiens,48,18,27,3,,39,.406,-0.70,0.12,6th,Lost NHL Quarter-Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1941.html,1940-41,NHL,Montreal Canadiens,48,16,26,6,,38,.396,-0.47,0.08,6th,Lost NHL Quarter-Finals,D. Irvin
+MTL,http://www.hockey-reference.com/teams/MTL/1940.html,1939-40,NHL,Montreal Canadiens,48,10,33,5,,25,.260,-1.39,0.23,7th,,P. Lepine
+MTL,http://www.hockey-reference.com/teams/MTL/1939.html,1938-39,NHL,Montreal Canadiens,48,15,24,9,,39,.406,-0.55,0.09,6th,Lost NHL Quarter-Finals,C. Hart,J. Dugal
+MTL,http://www.hockey-reference.com/teams/MTL/1938.html,1937-38,NHL,Montreal Canadiens,48,18,17,13,,49,.510,-0.11,-0.01,3rd,Lost NHL Quarter-Finals,C. Hart
+MTL,http://www.hockey-reference.com/teams/MTL/1937.html,1936-37,NHL,Montreal Canadiens,48,24,18,6,,54,.563,0.06,-0.02,1st,Lost NHL Semi-Finals,C. Hart
+MTL,http://www.hockey-reference.com/teams/MTL/1936.html,1935-36,NHL,Montreal Canadiens,48,11,26,11,,33,.344,-0.75,0.10,4th,,S. Mantha
+MTL,http://www.hockey-reference.com/teams/MTL/1935.html,1934-35,NHL,Montreal Canadiens,48,19,23,6,,44,.458,-0.65,0.08,3rd,Lost NHL Quarter-Finals,N. Lalonde,L. Dandurand
+MTL,http://www.hockey-reference.com/teams/MTL/1934.html,1933-34,NHL,Montreal Canadiens,48,22,20,6,,50,.521,-0.04,0.01,2nd,Lost NHL Quarter-Finals,N. Lalonde
+MTL,http://www.hockey-reference.com/teams/MTL/1933.html,1932-33,NHL,Montreal Canadiens,48,18,25,5,,41,.427,-0.43,0.05,3rd,Lost NHL Quarter-Finals,N. Lalonde
+MTL,http://www.hockey-reference.com/teams/MTL/1932.html,1931-32,NHL,Montreal Canadiens,48,25,16,7,,57,.594,0.30,-0.05,1st,Lost NHL Semi-Finals,C. Hart
+MTL,http://www.hockey-reference.com/teams/MTL/1931.html,1930-31,NHL,Montreal Canadiens,44,26,10,8,,60,.682,0.81,-0.10,1st,<strong>Won Stanley Cup Finals</strong>,C. Hart
+MTL,http://www.hockey-reference.com/teams/MTL/1930.html,1929-30,NHL,Montreal Canadiens,44,21,14,9,,51,.580,0.58,-0.06,2nd,<strong>Won Stanley Cup Finals</strong>,C. Hart
+MTL,http://www.hockey-reference.com/teams/MTL/1929.html,1928-29,NHL,Montreal Canadiens,44,22,7,15,,59,.670,0.59,-0.04,1st,Lost NHL Semi-Finals,C. Hart
+MTL,http://www.hockey-reference.com/teams/MTL/1928.html,1927-28,NHL,Montreal Canadiens,44,26,11,7,,59,.670,1.40,-0.14,1st,Lost NHL Semi-Finals,C. Hart
+MTL,http://www.hockey-reference.com/teams/MTL/1927.html,1926-27,NHL,Montreal Canadiens,44,28,14,2,,58,.659,0.67,-0.06,2nd,Lost NHL Semi-Finals,C. Hart
+MTL,http://www.hockey-reference.com/teams/MTL/1926.html,1925-26,NHL,Montreal Canadiens,36,11,24,1,,23,.319,-0.69,0.11,7th,,L. Dandurand
+MTL,http://www.hockey-reference.com/teams/MTL/1925.html,1924-25,NHL,Montreal Canadiens,30,17,11,2,,36,.600,1.03,-0.21,3rd,<strong>Won NHL Finals</strong>,L. Dandurand
+MTL,http://www.hockey-reference.com/teams/MTL/1924.html,1923-24,NHL,Montreal Canadiens,24,13,11,0,,26,.542,0.34,-0.12,2nd,<strong>Won NHL Finals</strong>,L. Dandurand
+MTL,http://www.hockey-reference.com/teams/MTL/1923.html,1922-23,NHL,Montreal Canadiens,24,13,9,2,,28,.583,0.38,-0.13,2nd,Lost NHL Finals,L. Dandurand
+MTL,http://www.hockey-reference.com/teams/MTL/1922.html,1921-22,NHL,Montreal Canadiens,24,12,11,1,,25,.521,-0.19,0.06,3rd,,N. Lalonde,L. Dandurand
+MTL,http://www.hockey-reference.com/teams/MTL/1921.html,1920-21,NHL,Montreal Canadiens,24,13,11,0,,26,.542,0.41,-0.14,3rd,,N. Lalonde
+MTL,http://www.hockey-reference.com/teams/MTL/1920.html,1919-20,NHL,Montreal Canadiens,24,13,11,0,,26,.542,0.50,-0.17,2nd,,N. Lalonde
+MTL,http://www.hockey-reference.com/teams/MTL/1919.html,1918-19,NHL,Montreal Canadiens,18,10,8,0,,20,.556,0.37,-0.19,2nd,<strong>Won NHL Finals</strong>,N. Lalonde
+MTL,http://www.hockey-reference.com/teams/MTL/1918.html,1917-18,NHL,Montreal Canadiens,22,13,9,0,,26,.591,1.07,-0.39,1st,Lost NHL Finals,N. Lalonde

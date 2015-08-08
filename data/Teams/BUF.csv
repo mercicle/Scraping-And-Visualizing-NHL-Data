@@ -1,0 +1,42 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+BUF,http://www.hockey-reference.com/teams/BUF/2012.html,2011-12,NHL,Buffalo Sabres,82,39,32,,11,89,.543,-0.15,0.00,3rd,,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2011.html,2010-11,NHL,Buffalo Sabres,82,43,29,,10,96,.585,0.15,-0.04,2nd,Lost NHL Conference Quarter-Finals,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2010.html,2009-10,NHL,Buffalo Sabres,82,45,27,,10,100,.610,0.26,-0.08,1st,Lost NHL Conference Quarter-Finals,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2009.html,2008-09,NHL,Buffalo Sabres,82,41,32,,9,91,.555,0.18,-0.02,3rd,,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2008.html,2007-08,NHL,Buffalo Sabres,82,39,31,,12,90,.549,0.05,-0.11,4th,,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2007.html,2006-07,NHL,Buffalo Sabres,82,53,22,,7,113,.689,0.64,-0.16,1st,Lost NHL Conference Finals,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2006.html,2005-06,NHL,Buffalo Sabres,82,52,24,,6,110,.671,0.50,-0.01,2nd,Lost NHL Conference Finals,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2004.html,2003-04,NHL,Buffalo Sabres,82,37,34,7,4,85,.518,0.02,0.04,5th,,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2003.html,2002-03,NHL,Buffalo Sabres,82,27,37,10,8,72,.439,-0.40,-0.05,5th,,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2002.html,2001-02,NHL,Buffalo Sabres,82,35,35,11,1,82,.500,0.09,-0.07,5th,,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2001.html,2000-01,NHL,Buffalo Sabres,82,46,30,5,1,98,.598,0.35,-0.07,2nd,Lost NHL Conference Semi-Finals,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/2000.html,1999-00,NHL,Buffalo Sabres,82,35,32,11,4,85,.518,0.01,-0.10,3rd,Lost NHL Conference Quarter-Finals,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/1999.html,1998-99,NHL,Buffalo Sabres,82,37,28,17,,91,.555,0.41,0.02,4th,Lost Stanley Cup Finals,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/1998.html,1997-98,NHL,Buffalo Sabres,82,36,29,17,,89,.543,0.29,0.00,3rd,Lost NHL Conference Finals,L. Ruff
+BUF,http://www.hockey-reference.com/teams/BUF/1997.html,1996-97,NHL,Buffalo Sabres,82,40,30,12,,92,.561,0.31,-0.04,1st,Lost NHL Conference Semi-Finals,T. Nolan
+BUF,http://www.hockey-reference.com/teams/BUF/1996.html,1995-96,NHL,Buffalo Sabres,82,33,42,7,,73,.445,-0.16,0.03,5th,,T. Nolan
+BUF,http://www.hockey-reference.com/teams/BUF/1995.html,1994-95,NHL,Buffalo Sabres,48,22,19,7,,51,.531,0.20,-0.03,4th,Lost NHL Conference Quarter-Finals,J. Muckler
+BUF,http://www.hockey-reference.com/teams/BUF/1994.html,1993-94,NHL,Buffalo Sabres,84,43,32,9,,95,.565,0.72,-0.04,4th,Lost NHL Conference Quarter-Finals,J. Muckler
+BUF,http://www.hockey-reference.com/teams/BUF/1993.html,1992-93,NHL,Buffalo Sabres,84,38,36,10,,86,.512,0.41,-0.04,4th,Lost NHL Division Finals,J. Muckler
+BUF,http://www.hockey-reference.com/teams/BUF/1992.html,1991-92,NHL,Buffalo Sabres,80,31,37,12,,74,.463,-0.16,-0.03,3rd,Lost NHL Division Semi-Finals,R. Dudley,J. Muckler
+BUF,http://www.hockey-reference.com/teams/BUF/1991.html,1990-91,NHL,Buffalo Sabres,80,31,30,19,,81,.506,0.08,-0.09,3rd,Lost NHL Division Semi-Finals,R. Dudley
+BUF,http://www.hockey-reference.com/teams/BUF/1990.html,1989-90,NHL,Buffalo Sabres,80,45,27,8,,98,.613,0.42,-0.05,2nd,Lost NHL Division Semi-Finals,R. Dudley
+BUF,http://www.hockey-reference.com/teams/BUF/1989.html,1988-89,NHL,Buffalo Sabres,80,38,35,7,,83,.519,-0.04,0.06,3rd,Lost NHL Division Semi-Finals,T. Sator
+BUF,http://www.hockey-reference.com/teams/BUF/1988.html,1987-88,NHL,Buffalo Sabres,80,37,32,11,,85,.531,-0.22,0.06,3rd,Lost NHL Division Semi-Finals,T. Sator
+BUF,http://www.hockey-reference.com/teams/BUF/1987.html,1986-87,NHL,Buffalo Sabres,80,28,44,8,,64,.400,-0.28,0.07,5th,,S. Bowman,C. Ramsay,T. Sator
+BUF,http://www.hockey-reference.com/teams/BUF/1986.html,1985-86,NHL,Buffalo Sabres,80,37,37,6,,80,.500,0.19,0.13,5th,,J. Schoenfeld,S. Bowman
+BUF,http://www.hockey-reference.com/teams/BUF/1985.html,1984-85,NHL,Buffalo Sabres,80,38,28,14,,90,.563,0.71,0.04,3rd,Lost NHL Division Semi-Finals,S. Bowman
+BUF,http://www.hockey-reference.com/teams/BUF/1984.html,1983-84,NHL,Buffalo Sabres,80,48,25,7,,103,.644,0.82,0.09,2nd,Lost NHL Division Semi-Finals,S. Bowman
+BUF,http://www.hockey-reference.com/teams/BUF/1983.html,1982-83,NHL,Buffalo Sabres,80,38,29,13,,89,.556,0.43,0.02,3rd,Lost NHL Division Finals,S. Bowman
+BUF,http://www.hockey-reference.com/teams/BUF/1982.html,1981-82,NHL,Buffalo Sabres,80,39,26,15,,93,.581,0.51,0.08,3rd,Lost NHL Division Semi-Finals,J. Roberts,S. Bowman
+BUF,http://www.hockey-reference.com/teams/BUF/1981.html,1980-81,NHL,Buffalo Sabres,80,39,20,21,,99,.619,0.92,-0.05,1st,Lost NHL Quarter-Finals,R. Neilson
+BUF,http://www.hockey-reference.com/teams/BUF/1980.html,1979-80,NHL,Buffalo Sabres,80,47,17,16,,110,.688,1.39,-0.07,1st,Lost NHL Semi-Finals,S. Bowman
+BUF,http://www.hockey-reference.com/teams/BUF/1979.html,1978-79,NHL,Buffalo Sabres,80,36,28,16,,88,.550,0.22,0.00,2nd,Lost NHL Preliminary Round,M. Pronovost,B. Inglis
+BUF,http://www.hockey-reference.com/teams/BUF/1978.html,1977-78,NHL,Buffalo Sabres,80,44,19,17,,105,.656,0.90,-0.01,2nd,Lost NHL Quarter-Finals,M. Pronovost
+BUF,http://www.hockey-reference.com/teams/BUF/1977.html,1976-77,NHL,Buffalo Sabres,80,48,24,8,,104,.650,1.00,-0.02,2nd,Lost NHL Quarter-Finals,F. Smith
+BUF,http://www.hockey-reference.com/teams/BUF/1976.html,1975-76,NHL,Buffalo Sabres,80,46,21,13,,105,.656,1.19,-0.05,2nd,Lost NHL Quarter-Finals,F. Smith
+BUF,http://www.hockey-reference.com/teams/BUF/1975.html,1974-75,NHL,Buffalo Sabres,80,49,16,15,,113,.706,1.35,-0.08,1st,Lost Stanley Cup Finals,F. Smith
+BUF,http://www.hockey-reference.com/teams/BUF/1974.html,1973-74,NHL,Buffalo Sabres,78,32,34,12,,76,.487,-0.11,-0.01,5th,,J. Crozier
+BUF,http://www.hockey-reference.com/teams/BUF/1973.html,1972-73,NHL,Buffalo Sabres,78,37,27,14,,88,.564,0.46,-0.03,4th,Lost NHL Quarter-Finals,J. Crozier
+BUF,http://www.hockey-reference.com/teams/BUF/1972.html,1971-72,NHL,Buffalo Sabres,78,16,43,19,,51,.327,-1.02,0.08,6th,,P. Imlach,F. Smith,J. Crozier
+BUF,http://www.hockey-reference.com/teams/BUF/1971.html,1970-71,NHL,Buffalo Sabres,78,24,39,15,,63,.404,-0.88,0.07,5th,,P. Imlach

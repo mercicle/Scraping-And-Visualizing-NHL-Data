@@ -1,0 +1,19 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+ANA,http://www.hockey-reference.com/teams/ANA/2012.html,2011-12,NHL,Anaheim Ducks,82,34,36,,12,80,.488,-0.29,0.04,5th,,R. Carlyle,B. Boudreau
+ANA,http://www.hockey-reference.com/teams/ANA/2011.html,2010-11,NHL,Anaheim Ducks,82,47,30,,5,99,.604,0.09,0.05,2nd,Lost NHL Conference Quarter-Finals,R. Carlyle
+ANA,http://www.hockey-reference.com/teams/ANA/2010.html,2009-10,NHL,Anaheim Ducks,82,39,32,,11,89,.543,-0.07,0.09,4th,,R. Carlyle
+ANA,http://www.hockey-reference.com/teams/ANA/2009.html,2008-09,NHL,Anaheim Ducks,82,42,33,,7,91,.555,0.09,0.00,2nd,Lost NHL Conference Semi-Finals,R. Carlyle
+ANA,http://www.hockey-reference.com/teams/ANA/2008.html,2007-08,NHL,Anaheim Ducks,82,47,27,,8,102,.622,0.30,0.13,2nd,Lost NHL Conference Quarter-Finals,R. Carlyle
+ANA,http://www.hockey-reference.com/teams/ANA/2007.html,2006-07,NHL,Anaheim Ducks,82,48,20,,14,110,.671,0.67,0.06,1st,<strong>Won Stanley Cup Finals</strong>,R. Carlyle
+ANA,http://www.hockey-reference.com/teams/MDA/2006.html,2005-06,NHL,Mighty Ducks of Anaheim,82,43,27,,12,98,.598,0.37,0.06,3rd,Lost NHL Conference Finals,R. Carlyle
+ANA,http://www.hockey-reference.com/teams/MDA/2004.html,2003-04,NHL,Mighty Ducks of Anaheim,82,29,35,10,8,76,.463,-0.34,0.01,4th,,M. Babcock
+ANA,http://www.hockey-reference.com/teams/MDA/2003.html,2002-03,NHL,Mighty Ducks of Anaheim,82,40,27,9,6,95,.579,0.19,0.07,2nd,Lost Stanley Cup Finals,M. Babcock
+ANA,http://www.hockey-reference.com/teams/MDA/2002.html,2001-02,NHL,Mighty Ducks of Anaheim,82,29,42,8,3,69,.421,-0.20,0.08,5th,,B. Murray
+ANA,http://www.hockey-reference.com/teams/MDA/2001.html,2000-01,NHL,Mighty Ducks of Anaheim,82,25,41,11,5,66,.402,-0.60,0.10,5th,,C. Hartsburg,G. Charron
+ANA,http://www.hockey-reference.com/teams/MDA/2000.html,1999-00,NHL,Mighty Ducks of Anaheim,82,34,33,12,3,83,.506,0.02,0.14,5th,,C. Hartsburg
+ANA,http://www.hockey-reference.com/teams/MDA/1999.html,1998-99,NHL,Mighty Ducks of Anaheim,82,35,34,13,,83,.506,0.10,-0.01,3rd,Lost NHL Conference Quarter-Finals,C. Hartsburg
+ANA,http://www.hockey-reference.com/teams/MDA/1998.html,1997-98,NHL,Mighty Ducks of Anaheim,82,26,43,13,,65,.396,-0.66,0.02,6th,,P. Page
+ANA,http://www.hockey-reference.com/teams/MDA/1997.html,1996-97,NHL,Mighty Ducks of Anaheim,82,36,33,13,,85,.518,0.12,-0.03,2nd,Lost NHL Conference Semi-Finals,R. Wilson
+ANA,http://www.hockey-reference.com/teams/MDA/1996.html,1995-96,NHL,Mighty Ducks of Anaheim,82,35,39,8,,78,.476,-0.19,-0.03,4th,,R. Wilson
+ANA,http://www.hockey-reference.com/teams/MDA/1995.html,1994-95,NHL,Mighty Ducks of Anaheim,48,16,27,5,,37,.385,-0.77,0.05,6th,,R. Wilson
+ANA,http://www.hockey-reference.com/teams/MDA/1994.html,1993-94,NHL,Mighty Ducks of Anaheim,84,33,46,5,,71,.423,-0.27,-0.01,4th,,R. Wilson

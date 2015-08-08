@@ -1,0 +1,45 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+LAK,http://www.hockey-reference.com/teams/LAK/2012.html,2011-12,NHL,Los Angeles Kings,82,40,27,,15,95,.579,0.19,0.01,3rd,<strong>Won Stanley Cup Finals</strong>,T. Murray,J. Stevens,D. Sutter
+LAK,http://www.hockey-reference.com/teams/LAK/2011.html,2010-11,NHL,Los Angeles Kings,82,46,30,,6,98,.598,0.29,0.03,4th,Lost NHL Conference Quarter-Finals,T. Murray
+LAK,http://www.hockey-reference.com/teams/LAK/2010.html,2009-10,NHL,Los Angeles Kings,82,46,27,,9,101,.616,0.32,0.05,3rd,Lost NHL Conference Quarter-Finals,T. Murray
+LAK,http://www.hockey-reference.com/teams/LAK/2009.html,2008-09,NHL,Los Angeles Kings,82,34,37,,11,79,.482,-0.29,0.04,5th,,T. Murray
+LAK,http://www.hockey-reference.com/teams/LAK/2008.html,2007-08,NHL,Los Angeles Kings,82,32,43,,7,71,.433,-0.24,0.19,5th,,M. Crawford
+LAK,http://www.hockey-reference.com/teams/LAK/2007.html,2006-07,NHL,Los Angeles Kings,82,27,41,,14,68,.415,-0.51,0.18,4th,,M. Crawford
+LAK,http://www.hockey-reference.com/teams/LAK/2006.html,2005-06,NHL,Los Angeles Kings,82,42,35,,5,89,.543,-0.15,0.11,4th,,A. Murray,J. Torchetti
+LAK,http://www.hockey-reference.com/teams/LAK/2004.html,2003-04,NHL,Los Angeles Kings,82,28,29,16,9,81,.494,-0.15,0.00,3rd,,A. Murray
+LAK,http://www.hockey-reference.com/teams/LAK/2003.html,2002-03,NHL,Los Angeles Kings,82,33,37,6,6,78,.476,-0.13,0.09,3rd,,A. Murray
+LAK,http://www.hockey-reference.com/teams/LAK/2002.html,2001-02,NHL,Los Angeles Kings,82,40,27,11,4,95,.579,0.35,0.05,3rd,Lost NHL Conference Quarter-Finals,A. Murray
+LAK,http://www.hockey-reference.com/teams/LAK/2001.html,2000-01,NHL,Los Angeles Kings,82,38,28,13,3,92,.561,0.32,0.03,3rd,Lost NHL Conference Semi-Finals,A. Murray
+LAK,http://www.hockey-reference.com/teams/LAK/2000.html,1999-00,NHL,Los Angeles Kings,82,39,27,12,4,94,.573,0.30,0.09,2nd,Lost NHL Conference Quarter-Finals,A. Murray
+LAK,http://www.hockey-reference.com/teams/LAK/1999.html,1998-99,NHL,Los Angeles Kings,82,32,45,5,,69,.421,-0.38,0.03,5th,,L. Robinson
+LAK,http://www.hockey-reference.com/teams/LAK/1998.html,1997-98,NHL,Los Angeles Kings,82,38,33,11,,87,.530,-0.01,-0.03,2nd,Lost NHL Conference Quarter-Finals,L. Robinson
+LAK,http://www.hockey-reference.com/teams/LAK/1997.html,1996-97,NHL,Los Angeles Kings,82,28,43,11,,67,.409,-0.62,0.04,6th,,L. Robinson
+LAK,http://www.hockey-reference.com/teams/LAK/1996.html,1995-96,NHL,Los Angeles Kings,82,24,40,18,,66,.402,-0.59,-0.03,6th,,L. Robinson
+LAK,http://www.hockey-reference.com/teams/LAK/1995.html,1994-95,NHL,Los Angeles Kings,48,16,23,9,,41,.427,-0.65,0.02,4th,,B. Melrose,R. Vachon
+LAK,http://www.hockey-reference.com/teams/LAK/1994.html,1993-94,NHL,Los Angeles Kings,84,27,45,12,,66,.393,-0.34,-0.01,5th,,B. Melrose
+LAK,http://www.hockey-reference.com/teams/LAK/1993.html,1992-93,NHL,Los Angeles Kings,84,39,35,10,,88,.524,-0.13,-0.10,3rd,Lost Stanley Cup Finals,B. Melrose
+LAK,http://www.hockey-reference.com/teams/LAK/1992.html,1991-92,NHL,Los Angeles Kings,80,35,31,14,,84,.525,-0.19,-0.08,2nd,Lost NHL Division Semi-Finals,T. Webster
+LAK,http://www.hockey-reference.com/teams/LAK/1991.html,1990-91,NHL,Los Angeles Kings,80,46,24,10,,102,.638,1.04,-0.04,1st,Lost NHL Division Finals,T. Webster
+LAK,http://www.hockey-reference.com/teams/LAK/1990.html,1989-90,NHL,Los Angeles Kings,80,34,39,7,,75,.469,0.07,0.06,4th,Lost NHL Division Finals,T. Webster
+LAK,http://www.hockey-reference.com/teams/LAK/1989.html,1988-89,NHL,Los Angeles Kings,80,42,31,7,,91,.569,0.58,0.07,2nd,Lost NHL Division Finals,R. Ftorek
+LAK,http://www.hockey-reference.com/teams/LAK/1988.html,1987-88,NHL,Los Angeles Kings,80,30,42,8,,68,.425,-0.41,0.10,4th,Lost NHL Division Semi-Finals,M. Murphy,R. Vachon,R. Ftorek
+LAK,http://www.hockey-reference.com/teams/LAK/1987.html,1986-87,NHL,Los Angeles Kings,80,31,41,8,,70,.438,-0.20,0.09,4th,Lost NHL Division Semi-Finals,P. Quinn,M. Murphy
+LAK,http://www.hockey-reference.com/teams/LAK/1986.html,1985-86,NHL,Los Angeles Kings,80,23,49,8,,54,.338,-1.26,0.05,5th,,P. Quinn
+LAK,http://www.hockey-reference.com/teams/LAK/1985.html,1984-85,NHL,Los Angeles Kings,80,34,32,14,,82,.513,0.23,0.06,4th,Lost NHL Division Semi-Finals,P. Quinn
+LAK,http://www.hockey-reference.com/teams/LAK/1984.html,1983-84,NHL,Los Angeles Kings,80,23,44,13,,59,.369,-0.76,0.08,5th,,D. Perry,R. Vachon,R. Neilson
+LAK,http://www.hockey-reference.com/teams/LAK/1983.html,1982-83,NHL,Los Angeles Kings,80,27,41,12,,66,.413,-0.62,0.09,5th,,D. Perry
+LAK,http://www.hockey-reference.com/teams/LAK/1982.html,1981-82,NHL,Los Angeles Kings,80,24,41,15,,63,.394,-0.68,0.01,4th,Lost NHL Division Finals,P. MacDonald,D. Perry
+LAK,http://www.hockey-reference.com/teams/LAK/1981.html,1980-81,NHL,Los Angeles Kings,80,43,24,13,,99,.619,0.56,-0.03,2nd,Lost NHL Preliminary Round,B. Berry
+LAK,http://www.hockey-reference.com/teams/LAK/1980.html,1979-80,NHL,Los Angeles Kings,80,30,36,14,,74,.463,-0.27,0.01,2nd,Lost NHL Preliminary Round,B. Berry
+LAK,http://www.hockey-reference.com/teams/LAK/1979.html,1978-79,NHL,Los Angeles Kings,80,34,34,12,,80,.500,0.09,0.02,3rd,Lost NHL Preliminary Round,B. Berry
+LAK,http://www.hockey-reference.com/teams/LAK/1978.html,1977-78,NHL,Los Angeles Kings,80,31,34,15,,77,.481,-0.01,0.01,3rd,Lost NHL Preliminary Round,R. Stewart
+LAK,http://www.hockey-reference.com/teams/LAK/1977.html,1976-77,NHL,Los Angeles Kings,80,34,31,15,,83,.519,0.38,0.00,2nd,Lost NHL Quarter-Finals,B. Pulford
+LAK,http://www.hockey-reference.com/teams/LAK/1976.html,1975-76,NHL,Los Angeles Kings,80,38,33,9,,85,.531,-0.01,0.02,2nd,Lost NHL Quarter-Finals,B. Pulford
+LAK,http://www.hockey-reference.com/teams/LAK/1975.html,1974-75,NHL,Los Angeles Kings,80,42,17,21,,105,.656,0.97,-0.08,2nd,Lost NHL Preliminary Round,B. Pulford
+LAK,http://www.hockey-reference.com/teams/LAK/1974.html,1973-74,NHL,Los Angeles Kings,78,33,33,12,,78,.500,0.03,0.00,3rd,Lost NHL Quarter-Finals,B. Pulford
+LAK,http://www.hockey-reference.com/teams/LAK/1973.html,1972-73,NHL,Los Angeles Kings,78,31,36,11,,73,.468,-0.17,0.00,6th,,B. Pulford
+LAK,http://www.hockey-reference.com/teams/LAK/1972.html,1971-72,NHL,Los Angeles Kings,78,20,49,9,,49,.314,-1.18,0.09,7th,,L. Regan,F. Glover
+LAK,http://www.hockey-reference.com/teams/LAK/1971.html,1970-71,NHL,Los Angeles Kings,78,25,40,13,,63,.404,-0.76,0.06,5th,,L. Regan
+LAK,http://www.hockey-reference.com/teams/LAK/1970.html,1969-70,NHL,Los Angeles Kings,76,14,52,10,,38,.250,-1.54,0.06,6th,,H. Laycoe,J. Wilson
+LAK,http://www.hockey-reference.com/teams/LAK/1969.html,1968-69,NHL,Los Angeles Kings,76,24,42,10,,58,.382,-0.98,0.01,4th,Lost NHL Semi-Finals,R. Kelly
+LAK,http://www.hockey-reference.com/teams/LAK/1968.html,1967-68,NHL,Los Angeles Kings,74,31,33,10,,72,.486,-0.53,-0.21,2nd,Lost NHL Quarter-Finals,R. Kelly

@@ -1,0 +1,40 @@
+team_id,url_for_year,Season,Lg,Team,GP,W,L,T,OL,PTS,PTS%,SRS,SOS,Finish,Playoffs,Coaches
+NYI,http://www.hockey-reference.com/teams/NYI/2012.html,2011-12,NHL,New York Islanders,82,34,37,,11,79,.482,-0.58,0.05,5th,,J. Capuano
+NYI,http://www.hockey-reference.com/teams/NYI/2011.html,2010-11,NHL,New York Islanders,82,30,39,,13,73,.445,-0.42,0.01,5th,,S. Gordon,J. Capuano
+NYI,http://www.hockey-reference.com/teams/NYI/2010.html,2009-10,NHL,New York Islanders,82,34,37,,11,79,.482,-0.53,-0.02,5th,,S. Gordon
+NYI,http://www.hockey-reference.com/teams/NYI/2009.html,2008-09,NHL,New York Islanders,82,26,47,,9,61,.372,-0.91,0.05,5th,,S. Gordon
+NYI,http://www.hockey-reference.com/teams/NYI/2008.html,2007-08,NHL,New York Islanders,82,35,38,,9,79,.482,-0.65,-0.05,5th,,T. Nolan,A. Arbour,T. Nolan
+NYI,http://www.hockey-reference.com/teams/NYI/2007.html,2006-07,NHL,New York Islanders,82,40,30,,12,92,.561,-0.04,-0.14,4th,Lost NHL Conference Quarter-Finals,T. Nolan
+NYI,http://www.hockey-reference.com/teams/NYI/2006.html,2005-06,NHL,New York Islanders,82,36,40,,6,78,.476,-0.62,-0.04,4th,,S. Stirling,B. Shaw
+NYI,http://www.hockey-reference.com/teams/NYI/2004.html,2003-04,NHL,New York Islanders,82,38,29,11,4,91,.555,0.29,-0.04,3rd,Lost NHL Conference Quarter-Finals,S. Stirling
+NYI,http://www.hockey-reference.com/teams/NYI/2003.html,2002-03,NHL,New York Islanders,82,35,34,11,2,83,.506,-0.16,-0.07,3rd,Lost NHL Conference Quarter-Finals,P. Laviolette
+NYI,http://www.hockey-reference.com/teams/NYI/2002.html,2001-02,NHL,New York Islanders,82,42,28,8,4,96,.585,0.15,-0.08,2nd,Lost NHL Conference Quarter-Finals,P. Laviolette
+NYI,http://www.hockey-reference.com/teams/NYI/2001.html,2000-01,NHL,New York Islanders,82,21,51,7,3,52,.317,-1.02,0.00,5th,,B. Goring,L. Henning
+NYI,http://www.hockey-reference.com/teams/NYI/2000.html,1999-00,NHL,New York Islanders,82,24,48,9,1,58,.354,-1.02,-0.03,5th,,B. Goring
+NYI,http://www.hockey-reference.com/teams/NYI/1999.html,1998-99,NHL,New York Islanders,82,24,48,10,,58,.354,-0.55,0.06,5th,,M. Milbury,B. Stewart
+NYI,http://www.hockey-reference.com/teams/NYI/1998.html,1997-98,NHL,New York Islanders,82,30,41,11,,71,.433,-0.15,0.00,4th,,R. Bowness,M. Milbury
+NYI,http://www.hockey-reference.com/teams/NYI/1997.html,1996-97,NHL,New York Islanders,82,29,41,12,,70,.427,-0.10,0.02,7th,,M. Milbury,R. Bowness
+NYI,http://www.hockey-reference.com/teams/NYI/1996.html,1995-96,NHL,New York Islanders,82,22,50,10,,54,.329,-0.94,0.11,7th,,M. Milbury
+NYI,http://www.hockey-reference.com/teams/NYI/1995.html,1994-95,NHL,New York Islanders,48,15,28,5,,35,.365,-0.63,0.04,7th,,L. Henning
+NYI,http://www.hockey-reference.com/teams/NYI/1994.html,1993-94,NHL,New York Islanders,84,36,36,12,,84,.500,0.25,0.03,4th,Lost NHL Conference Quarter-Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1993.html,1992-93,NHL,New York Islanders,84,40,37,7,,87,.518,0.56,0.11,3rd,Lost NHL Conference Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1992.html,1991-92,NHL,New York Islanders,80,34,35,11,,79,.494,0.04,0.14,5th,,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1991.html,1990-91,NHL,New York Islanders,80,25,45,10,,60,.375,-0.77,0.06,6th,,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1990.html,1989-90,NHL,New York Islanders,80,31,38,11,,73,.456,-0.10,-0.01,4th,Lost NHL Division Semi-Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1989.html,1988-89,NHL,New York Islanders,80,28,47,5,,61,.381,-0.72,0.04,6th,,T. Simpson,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1988.html,1987-88,NHL,New York Islanders,80,39,31,10,,88,.550,0.54,0.03,1st,Lost NHL Division Semi-Finals,T. Simpson
+NYI,http://www.hockey-reference.com/teams/NYI/1987.html,1986-87,NHL,New York Islanders,80,35,33,12,,82,.513,-0.03,-0.01,3rd,Lost NHL Division Finals,T. Simpson
+NYI,http://www.hockey-reference.com/teams/NYI/1986.html,1985-86,NHL,New York Islanders,80,39,29,12,,90,.563,0.58,0.04,3rd,Lost NHL Division Semi-Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1985.html,1984-85,NHL,New York Islanders,80,40,34,6,,86,.538,0.37,-0.05,3rd,Lost NHL Division Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1984.html,1983-84,NHL,New York Islanders,80,50,26,4,,104,.650,1.00,-0.10,1st,Lost Stanley Cup Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1983.html,1982-83,NHL,New York Islanders,80,42,26,12,,96,.600,0.84,-0.11,2nd,<strong>Won Stanley Cup Finals</strong>,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1982.html,1981-82,NHL,New York Islanders,80,54,16,10,,118,.738,1.63,-0.05,1st,<strong>Won Stanley Cup Finals</strong>,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1981.html,1980-81,NHL,New York Islanders,80,48,18,14,,110,.688,1.13,-0.06,1st,<strong>Won Stanley Cup Finals</strong>,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1980.html,1979-80,NHL,New York Islanders,80,39,28,13,,91,.569,0.41,-0.02,2nd,<strong>Won Stanley Cup Finals</strong>,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1979.html,1978-79,NHL,New York Islanders,80,51,15,14,,116,.725,1.76,-0.04,1st,Lost NHL Semi-Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1978.html,1977-78,NHL,New York Islanders,80,48,17,15,,111,.694,1.47,-0.08,1st,Lost NHL Quarter-Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1977.html,1976-77,NHL,New York Islanders,80,47,21,12,,106,.663,1.12,-0.07,2nd,Lost NHL Semi-Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1976.html,1975-76,NHL,New York Islanders,80,42,21,17,,101,.631,1.26,-0.08,2nd,Lost NHL Semi-Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1975.html,1974-75,NHL,New York Islanders,80,33,25,22,,88,.550,0.52,-0.01,3rd,Lost NHL Semi-Finals,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1974.html,1973-74,NHL,New York Islanders,78,19,41,18,,56,.359,-0.78,0.05,8th,,A. Arbour
+NYI,http://www.hockey-reference.com/teams/NYI/1973.html,1972-73,NHL,New York Islanders,78,12,60,6,,30,.192,-2.10,0.17,8th,,P. Goyette,E. Ingarfield
