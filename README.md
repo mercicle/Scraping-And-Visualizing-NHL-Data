@@ -24,5 +24,5 @@ The final cleaned datasets are in the /data folder and the tableau workbooks are
 Please send me an email with any questions. I didn't get a chance to build predictive models in this space yet but I think there is a lot of potential and the data provided here is only a step away from predicting player and team performance.
 
 Have fun!
-John Mercer (analyticsurgeon at gmail.com)
+John Mercer
 
